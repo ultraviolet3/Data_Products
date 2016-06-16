@@ -5,11 +5,11 @@ United States,MDT,1,Beulah,-6
 United States,MPT,1,Beulah,-6
 United States,MST,0,Beulah,-7
 United States,MWT,1,Beulah,-6
-Argentina,ARST,1,Buenos_Aires,-3
-Argentina,ARST,1,Buenos_Aires,-2
-Argentina,ART,0,Buenos_Aires,-4
-Argentina,ART,0,Buenos_Aires,-3
-Argentina,CMT,0,Buenos_Aires,-4.28
+Argentina,ARST,1,Buenos Aires,-3
+Argentina,ARST,1,Buenos Aires,-2
+Argentina,ART,0,Buenos Aires,-4
+Argentina,ART,0,Buenos Aires,-3
+Argentina,CMT,0,Buenos Aires,-4.28
 Argentina,ARST,1,Catamarca,-3
 Argentina,ARST,1,Catamarca,-2
 Argentina,ART,0,Catamarca,-4
@@ -46,12 +46,12 @@ United States,CPT,1,Knox,-5
 United States,CST,0,Knox,-6
 United States,CWT,1,Knox,-5
 United States,EST,0,Knox,-5
-Argentina,ARST,1,La_Rioja,-3
-Argentina,ARST,1,La_Rioja,-2
-Argentina,ART,0,La_Rioja,-4
-Argentina,ART,0,La_Rioja,-3
-Argentina,CMT,0,La_Rioja,-4.28
-Argentina,WART,0,La_Rioja,-4
+Argentina,ARST,1,La Rioja,-3
+Argentina,ARST,1,La Rioja,-2
+Argentina,ART,0,La Rioja,-4
+Argentina,ART,0,La Rioja,-3
+Argentina,CMT,0,La Rioja,-4.28
+Argentina,WART,0,La Rioja,-4
 United States,CDT,1,Louisville,-5
 United States,CPT,1,Louisville,-5
 United States,CST,0,Louisville,-6
@@ -77,49 +77,49 @@ United States,CST,0,Monticello,-6
 United States,CWT,1,Monticello,-5
 United States,EDT,1,Monticello,-4
 United States,EST,0,Monticello,-5
-United States,CDT,1,New_Salem,-5
-United States,CST,0,New_Salem,-6
-United States,MDT,1,New_Salem,-6
-United States,MPT,1,New_Salem,-6
-United States,MST,0,New_Salem,-7
-United States,MWT,1,New_Salem,-6
+United States,CDT,1,New Salem,-5
+United States,CST,0,New Salem,-6
+United States,MDT,1,New Salem,-6
+United States,MPT,1,New Salem,-6
+United States,MST,0,New Salem,-7
+United States,MWT,1,New Salem,-6
 United States,CDT,1,Petersburg,-5
 United States,CPT,1,Petersburg,-5
 United States,CST,0,Petersburg,-6
 United States,CWT,1,Petersburg,-5
 United States,EDT,1,Petersburg,-4
 United States,EST,0,Petersburg,-5
-Argentina,ARST,1,Rio_Gallegos,-3
-Argentina,ARST,1,Rio_Gallegos,-2
-Argentina,ART,0,Rio_Gallegos,-4
-Argentina,ART,0,Rio_Gallegos,-3
-Argentina,CMT,0,Rio_Gallegos,-4.28
-Argentina,WART,0,Rio_Gallegos,-4
+Argentina,ARST,1,Rio Gallegos,-3
+Argentina,ARST,1,Rio Gallegos,-2
+Argentina,ART,0,Rio Gallegos,-4
+Argentina,ART,0,Rio Gallegos,-3
+Argentina,CMT,0,Rio Gallegos,-4.28
+Argentina,WART,0,Rio Gallegos,-4
 Argentina,ARST,1,Salta,-3
 Argentina,ARST,1,Salta,-2
 Argentina,ART,0,Salta,-4
 Argentina,ART,0,Salta,-3
 Argentina,CMT,0,Salta,-4.28
 Argentina,WART,0,Salta,-4
-Argentina,ARST,1,San_Juan,-3
-Argentina,ARST,1,San_Juan,-2
-Argentina,ART,0,San_Juan,-4
-Argentina,ART,0,San_Juan,-3
-Argentina,CMT,0,San_Juan,-4.28
-Argentina,WART,0,San_Juan,-4
-Argentina,ARST,1,San_Luis,-3
-Argentina,ARST,1,San_Luis,-2
-Argentina,ART,0,San_Luis,-4
-Argentina,ART,0,San_Luis,-3
-Argentina,CMT,0,San_Luis,-4.28
-Argentina,WARST,1,San_Luis,-3
-Argentina,WART,0,San_Luis,-4
-United States,CDT,1,Tell_City,-5
-United States,CPT,1,Tell_City,-5
-United States,CST,0,Tell_City,-6
-United States,CWT,1,Tell_City,-5
-United States,EDT,1,Tell_City,-4
-United States,EST,0,Tell_City,-5
+Argentina,ARST,1,San Juan,-3
+Argentina,ARST,1,San Juan,-2
+Argentina,ART,0,San Juan,-4
+Argentina,ART,0,San Juan,-3
+Argentina,CMT,0,San Juan,-4.28
+Argentina,WART,0,San Juan,-4
+Argentina,ARST,1,San Luis,-3
+Argentina,ARST,1,San Luis,-2
+Argentina,ART,0,San Luis,-4
+Argentina,ART,0,San Luis,-3
+Argentina,CMT,0,San Luis,-4.28
+Argentina,WARST,1,San Luis,-3
+Argentina,WART,0,San Luis,-4
+United States,CDT,1,Tell City,-5
+United States,CPT,1,Tell City,-5
+United States,CST,0,Tell City,-6
+United States,CWT,1,Tell City,-5
+United States,EDT,1,Tell City,-4
+United States,EST,0,Tell City,-5
 Argentina,ARST,1,Tucuman,-3
 Argentina,ARST,1,Tucuman,-2
 Argentina,ART,0,Tucuman,-4
@@ -198,16 +198,16 @@ Antarctica,SYOT,0,Syowa,3
 Antarctica,CEST,1,Troll,2
 Antarctica,UTC,0,Troll,0
 Antarctica,VOST,0,Vostok,6
-American Samoa,BST,0,Pago_Pago,-11
-American Samoa,LMT,0,Pago_Pago,-11.38
-American Samoa,NST,0,Pago_Pago,-11
-American Samoa,SST,0,Pago_Pago,-11
+American Samoa,BST,0,Pago Pago,-11
+American Samoa,LMT,0,Pago Pago,-11.38
+American Samoa,NST,0,Pago Pago,-11
+American Samoa,SST,0,Pago Pago,-11
 Austria,CEST,1,Vienna,2
 Austria,CET,0,Vienna,1
-Australia,AEST,0,Lord_Howe,10
-Australia,LHDT,1,Lord_Howe,11
-Australia,LHDT,1,Lord_Howe,11.5
-Australia,LHST,0,Lord_Howe,10.5
+Australia,AEST,0,Lord Howe,10
+Australia,LHDT,1,Lord Howe,11
+Australia,LHDT,1,Lord Howe,11.5
+Australia,LHST,0,Lord Howe,10.5
 Australia,AEDT,1,Macquarie,11
 Australia,AEST,0,Macquarie,10
 Australia,MIST,0,Macquarie,11
@@ -219,8 +219,8 @@ Australia,AEDT,1,Melbourne,11
 Australia,AEST,0,Melbourne,10
 Australia,AEDT,1,Sydney,11
 Australia,AEST,0,Sydney,10
-Australia,ACDT,1,Broken_Hill,10.5
-Australia,ACST,0,Broken_Hill,9.5
+Australia,ACDT,1,Broken Hill,10.5
+Australia,ACST,0,Broken Hill,9.5
 Australia,AEDT,1,Brisbane,11
 Australia,AEST,0,Brisbane,10
 Australia,AEDT,1,Lindeman,11
@@ -276,17 +276,17 @@ Bahrain,LMT,0,Bahrain,3.436
 Burundi,CAT,0,Bujumbura,2
 Burundi,LMT,0,Bujumbura,2.172
 Benin,WAT,0,Porto-Novo,1
-Saint Barth??lemy,AST,0,St_Barthelemy,-4
-Saint Barth??lemy,LMT,0,St_Barthelemy,-4.101
+Saint Barth??lemy,AST,0,St Barthelemy,-4
+Saint Barth??lemy,LMT,0,St Barthelemy,-4.101
 Bermuda,ADT,1,Bermuda,-3
 Bermuda,AST,0,Bermuda,-4
 Bermuda,LMT,0,Bermuda,-4.322
 Brunei,BNT,0,Brunei,8
 Brunei,BNT,0,Brunei,7.5
 Brunei,LMT,0,Brunei,7.661
-Bolivia,BOST,1,La_Paz,-3.543
-Bolivia,BOT,0,La_Paz,-4
-Bolivia,CMT,0,La_Paz,-4.543
+Bolivia,BOST,1,La Paz,-3.543
+Bolivia,BOT,0,La Paz,-4
+Bolivia,CMT,0,La Paz,-4.543
 Bonaire, Saint Eustatius and Saba,ANT,0,-4.5
 Bonaire, Saint Eustatius and Saba,AST,0,-4
 Bonaire, Saint Eustatius and Saba,LMT,0,-4.596
@@ -311,12 +311,12 @@ Brazil,LMT,0,Maceio,-2.381
 Brazil,BRST,1,Bahia,-2
 Brazil,BRT,0,Bahia,-3
 Brazil,LMT,0,Bahia,-2.568
-Brazil,BRST,1,Sao_Paulo,-2
-Brazil,BRT,0,Sao_Paulo,-3
-Brazil,LMT,0,Sao_Paulo,-3.108
-Brazil,AMST,1,Campo_Grande,-3
-Brazil,AMT,0,Campo_Grande,-4
-Brazil,LMT,0,Campo_Grande,-3.641
+Brazil,BRST,1,Sao Paulo,-2
+Brazil,BRT,0,Sao Paulo,-3
+Brazil,LMT,0,Sao Paulo,-3.108
+Brazil,AMST,1,Campo Grande,-3
+Brazil,AMT,0,Campo Grande,-4
+Brazil,LMT,0,Campo Grande,-3.641
 Brazil,AMST,1,Cuiaba,-3
 Brazil,AMT,0,Cuiaba,-4
 Brazil,LMT,0,Cuiaba,-3.739
@@ -324,12 +324,12 @@ Brazil,AMST,1,Santarem,-3
 Brazil,AMT,0,Santarem,-4
 Brazil,BRT,0,Santarem,-3
 Brazil,LMT,0,Santarem,-3.647
-Brazil,AMST,1,Porto_Velho,-3
-Brazil,AMT,0,Porto_Velho,-4
-Brazil,LMT,0,Porto_Velho,-4.26
-Brazil,AMST,1,Boa_Vista,-3
-Brazil,AMT,0,Boa_Vista,-4
-Brazil,LMT,0,Boa_Vista,-4.044
+Brazil,AMST,1,Porto Velho,-3
+Brazil,AMT,0,Porto Velho,-4
+Brazil,LMT,0,Porto Velho,-4.26
+Brazil,AMST,1,Boa Vista,-3
+Brazil,AMT,0,Boa Vista,-4
+Brazil,LMT,0,Boa Vista,-4.044
 Brazil,AMST,1,Manaus,-3
 Brazil,AMT,0,Manaus,-4
 Brazil,LMT,0,Manaus,-4.001
@@ -337,10 +337,10 @@ Brazil,ACST,1,Eirunepe,-4
 Brazil,ACT,0,Eirunepe,-5
 Brazil,AMT,0,Eirunepe,-4
 Brazil,LMT,0,Eirunepe,-4.658
-Brazil,ACST,1,Rio_Branco,-4
-Brazil,ACT,0,Rio_Branco,-5
-Brazil,AMT,0,Rio_Branco,-4
-Brazil,LMT,0,Rio_Branco,-4.52
+Brazil,ACST,1,Rio Branco,-4
+Brazil,ACT,0,Rio Branco,-5
+Brazil,AMT,0,Rio Branco,-4
+Brazil,LMT,0,Rio Branco,-4.52
 Bahamas,EDT,1,Nassau,-4
 Bahamas,EST,0,Nassau,-5
 Bahamas,LMT,0,Nassau,-5.158
@@ -361,37 +361,37 @@ Belize,CDT,1,Belize,-5
 Belize,CHDT,1,Belize,-5.5
 Belize,CST,0,Belize,-6
 Belize,LMT,0,Belize,-5.88
-Canada,NDDT,1,St_Johns,-1.5
-Canada,NDT,1,St_Johns,-2.5
-Canada,NDT,1,St_Johns,-2.514
-Canada,NPT,1,St_Johns,-2.5
-Canada,NST,0,St_Johns,-3.5
-Canada,NST,0,St_Johns,-3.514
-Canada,NWT,1,St_Johns,-2.5
+Canada,NDDT,1,St Johns,-1.5
+Canada,NDT,1,St Johns,-2.5
+Canada,NDT,1,St Johns,-2.514
+Canada,NPT,1,St Johns,-2.5
+Canada,NST,0,St Johns,-3.5
+Canada,NST,0,St Johns,-3.514
+Canada,NWT,1,St Johns,-2.5
 Canada,ADT,1,Halifax,-3
 Canada,APT,1,Halifax,-3
 Canada,AST,0,Halifax,-4
 Canada,AWT,1,Halifax,-3
 Canada,LMT,0,Halifax,-4.24
-Canada,ADT,1,Glace_Bay,-3
-Canada,APT,1,Glace_Bay,-3
-Canada,AST,0,Glace_Bay,-4
-Canada,AWT,1,Glace_Bay,-3
-Canada,LMT,0,Glace_Bay,-3.997
+Canada,ADT,1,Glace Bay,-3
+Canada,APT,1,Glace Bay,-3
+Canada,AST,0,Glace Bay,-4
+Canada,AWT,1,Glace Bay,-3
+Canada,LMT,0,Glace Bay,-3.997
 Canada,ADT,1,Moncton,-3
 Canada,APT,1,Moncton,-3
 Canada,AST,0,Moncton,-4
 Canada,AWT,1,Moncton,-3
 Canada,EST,0,Moncton,-5
-Canada,ADDT,1,Goose_Bay,-2
-Canada,ADT,1,Goose_Bay,-3
-Canada,AST,0,Goose_Bay,-4
-Canada,NDT,1,Goose_Bay,-2.5
-Canada,NDT,1,Goose_Bay,-2.514
-Canada,NPT,1,Goose_Bay,-2.5
-Canada,NST,0,Goose_Bay,-3.5
-Canada,NST,0,Goose_Bay,-3.514
-Canada,NWT,1,Goose_Bay,-2.5
+Canada,ADDT,1,Goose Bay,-2
+Canada,ADT,1,Goose Bay,-3
+Canada,AST,0,Goose Bay,-4
+Canada,NDT,1,Goose Bay,-2.5
+Canada,NDT,1,Goose Bay,-2.514
+Canada,NPT,1,Goose Bay,-2.5
+Canada,NST,0,Goose Bay,-3.5
+Canada,NST,0,Goose Bay,-3.514
+Canada,NWT,1,Goose Bay,-2.5
 Canada,ADT,1,Blanc-Sablon,-3
 Canada,APT,1,Blanc-Sablon,-3
 Canada,AST,0,Blanc-Sablon,-4
@@ -404,11 +404,11 @@ Canada,EDT,1,Nipigon,-4
 Canada,EPT,1,Nipigon,-4
 Canada,EST,0,Nipigon,-5
 Canada,EWT,1,Nipigon,-4
-Canada,CST,0,Thunder_Bay,-6
-Canada,EDT,1,Thunder_Bay,-4
-Canada,EPT,1,Thunder_Bay,-4
-Canada,EST,0,Thunder_Bay,-5
-Canada,EWT,1,Thunder_Bay,-4
+Canada,CST,0,Thunder Bay,-6
+Canada,EDT,1,Thunder Bay,-4
+Canada,EPT,1,Thunder Bay,-4
+Canada,EST,0,Thunder Bay,-5
+Canada,EWT,1,Thunder Bay,-4
 Canada,CDT,1,Iqaluit,-5
 Canada,CST,0,Iqaluit,-6
 Canada,EDDT,1,Iqaluit,-3
@@ -434,43 +434,43 @@ Canada,CDT,1,Winnipeg,-5
 Canada,CPT,1,Winnipeg,-5
 Canada,CST,0,Winnipeg,-6
 Canada,CWT,1,Winnipeg,-5
-Canada,CDT,1,Rainy_River,-5
-Canada,CPT,1,Rainy_River,-5
-Canada,CST,0,Rainy_River,-6
-Canada,CWT,1,Rainy_River,-5
+Canada,CDT,1,Rainy River,-5
+Canada,CPT,1,Rainy River,-5
+Canada,CST,0,Rainy River,-6
+Canada,CWT,1,Rainy River,-5
 Canada,CDDT,1,Resolute,-4
 Canada,CDT,1,Resolute,-5
 Canada,CST,0,Resolute,-6
 Canada,EST,0,Resolute,-5
-Canada,CDDT,1,Rankin_Inlet,-4
-Canada,CDT,1,Rankin_Inlet,-5
-Canada,CST,0,Rankin_Inlet,-6
-Canada,EST,0,Rankin_Inlet,-5
+Canada,CDDT,1,Rankin Inlet,-4
+Canada,CDT,1,Rankin Inlet,-5
+Canada,CST,0,Rankin Inlet,-6
+Canada,EST,0,Rankin Inlet,-5
 Canada,CST,0,Regina,-6
 Canada,LMT,0,Regina,-6.977
 Canada,MDT,1,Regina,-6
 Canada,MPT,1,Regina,-6
 Canada,MST,0,Regina,-7
 Canada,MWT,1,Regina,-6
-Canada,CST,0,Swift_Current,-6
-Canada,LMT,0,Swift_Current,-7.189
-Canada,MDT,1,Swift_Current,-6
-Canada,MPT,1,Swift_Current,-6
-Canada,MST,0,Swift_Current,-7
-Canada,MWT,1,Swift_Current,-6
+Canada,CST,0,Swift Current,-6
+Canada,LMT,0,Swift Current,-7.189
+Canada,MDT,1,Swift Current,-6
+Canada,MPT,1,Swift Current,-6
+Canada,MST,0,Swift Current,-7
+Canada,MWT,1,Swift Current,-6
 Canada,LMT,0,Edmonton,-7.564
 Canada,MDT,1,Edmonton,-6
 Canada,MPT,1,Edmonton,-6
 Canada,MST,0,Edmonton,-7
 Canada,MWT,1,Edmonton,-6
-Canada,CDT,1,Cambridge_Bay,-5
-Canada,CST,0,Cambridge_Bay,-6
-Canada,EST,0,Cambridge_Bay,-5
-Canada,MDDT,1,Cambridge_Bay,-5
-Canada,MDT,1,Cambridge_Bay,-6
-Canada,MPT,1,Cambridge_Bay,-6
-Canada,MST,0,Cambridge_Bay,-7
-Canada,MWT,1,Cambridge_Bay,-6
+Canada,CDT,1,Cambridge Bay,-5
+Canada,CST,0,Cambridge Bay,-6
+Canada,EST,0,Cambridge Bay,-5
+Canada,MDDT,1,Cambridge Bay,-5
+Canada,MDT,1,Cambridge Bay,-6
+Canada,MPT,1,Cambridge Bay,-6
+Canada,MST,0,Cambridge Bay,-7
+Canada,MWT,1,Cambridge Bay,-6
 Canada,MDDT,1,Yellowknife,-5
 Canada,MDT,1,Yellowknife,-6
 Canada,MPT,1,Yellowknife,-6
@@ -482,16 +482,16 @@ Canada,PDDT,1,Inuvik,-6
 Canada,PST,0,Inuvik,-8
 Canada,MST,0,Creston,-7
 Canada,PST,0,Creston,-8
-Canada,MST,0,Dawson_Creek,-7
-Canada,PDT,1,Dawson_Creek,-7
-Canada,PPT,1,Dawson_Creek,-7
-Canada,PST,0,Dawson_Creek,-8
-Canada,PWT,1,Dawson_Creek,-7
-Canada,MST,0,Fort_Nelson,-7
-Canada,PDT,1,Fort_Nelson,-7
-Canada,PPT,1,Fort_Nelson,-7
-Canada,PST,0,Fort_Nelson,-8
-Canada,PWT,1,Fort_Nelson,-7
+Canada,MST,0,Dawson Creek,-7
+Canada,PDT,1,Dawson Creek,-7
+Canada,PPT,1,Dawson Creek,-7
+Canada,PST,0,Dawson Creek,-8
+Canada,PWT,1,Dawson Creek,-7
+Canada,MST,0,Fort Nelson,-7
+Canada,PDT,1,Fort Nelson,-7
+Canada,PPT,1,Fort Nelson,-7
+Canada,PST,0,Fort Nelson,-8
+Canada,PWT,1,Fort Nelson,-7
 Canada,PDT,1,Vancouver,-7
 Canada,PPT,1,Vancouver,-7
 Canada,PST,0,Vancouver,-8
@@ -541,16 +541,16 @@ China,XJT,0,Urumqi,6
 Colombia,BMT,0,Bogota,-4.938
 Colombia,COST,1,Bogota,-4
 Colombia,COT,0,Bogota,-5
-Costa Rica,CDT,1,Costa_Rica,-5
-Costa Rica,CST,0,Costa_Rica,-6
-Costa Rica,SJMT,0,Costa_Rica,-5.604
+Costa Rica,CDT,1,Costa Rica,-5
+Costa Rica,CST,0,Costa Rica,-6
+Costa Rica,SJMT,0,Costa Rica,-5.604
 Cuba,CDT,1,Havana,-4
 Cuba,CST,0,Havana,-5
 Cuba,HMT,0,Havana,-5.493
-Cape Verde,CVST,1,Cape_Verde,-1
-Cape Verde,CVT,0,Cape_Verde,-2
-Cape Verde,CVT,0,Cape_Verde,-1
-Cape Verde,LMT,0,Cape_Verde,-1.568
+Cape Verde,CVST,1,Cape Verde,-1
+Cape Verde,CVT,0,Cape Verde,-2
+Cape Verde,CVT,0,Cape Verde,-1
+Cape Verde,LMT,0,Cape Verde,-1.568
 Cura??ao,ANT,0,Curacao,-4.5
 Cura??ao,AST,0,Curacao,-4
 Cura??ao,LMT,0,Curacao,-4.596
@@ -572,11 +572,11 @@ Denmark,CEST,1,Copenhagen,2
 Denmark,CET,0,Copenhagen,1
 Dominica,AST,0,Dominica,-4
 Dominica,LMT,0,Dominica,-4.101
-Dominican Republic,AST,0,Santo_Domingo,-4
-Dominican Republic,EDT,1,Santo_Domingo,-4
-Dominican Republic,EHDT,1,Santo_Domingo,-4.5
-Dominican Republic,EST,0,Santo_Domingo,-5
-Dominican Republic,SDMT,0,Santo_Domingo,-4.667
+Dominican Republic,AST,0,Santo Domingo,-4
+Dominican Republic,EDT,1,Santo Domingo,-4
+Dominican Republic,EHDT,1,Santo Domingo,-4.5
+Dominican Republic,EST,0,Santo Domingo,-5
+Dominican Republic,SDMT,0,Santo Domingo,-4.667
 Algeria,CEST,1,Algiers,2
 Algeria,CET,0,Algiers,1
 Algeria,PMT,0,Algiers,0.156
@@ -596,10 +596,10 @@ Estonia,MSK,0,Tallinn,3
 Estonia,TMT,0,Tallinn,1.65
 Egypt,EEST,1,Cairo,3
 Egypt,EET,0,Cairo,2
-Western Sahara,LMT,0,El_Aaiun,-0.88
-Western Sahara,WAT,0,El_Aaiun,-1
-Western Sahara,WEST,1,El_Aaiun,1
-Western Sahara,WET,0,El_Aaiun,0
+Western Sahara,LMT,0,El Aaiun,-0.88
+Western Sahara,WAT,0,El Aaiun,-1
+Western Sahara,WEST,1,El Aaiun,1
+Western Sahara,WET,0,El Aaiun,0
 Eritrea,BEAT,0,Asmara,2.5
 Eritrea,BEAUT,0,Asmara,2.75
 Eritrea,EAT,0,Asmara,3
@@ -617,10 +617,10 @@ Spain,CANT,0,Canary,-1
 Spain,LMT,0,Canary,-1.027
 Spain,WEST,1,Canary,1
 Spain,WET,0,Canary,0
-Ethiopia,BEAT,0,Addis_Ababa,2.5
-Ethiopia,BEAUT,0,Addis_Ababa,2.75
-Ethiopia,EAT,0,Addis_Ababa,3
-Ethiopia,LMT,0,Addis_Ababa,2.454
+Ethiopia,BEAT,0,Addis Ababa,2.5
+Ethiopia,BEAUT,0,Addis Ababa,2.75
+Ethiopia,EAT,0,Addis Ababa,3
+Ethiopia,LMT,0,Addis Ababa,2.454
 Finland,EEST,1,Helsinki,3
 Finland,EET,0,Helsinki,2
 Finland,HMT,0,Helsinki,1.664
@@ -704,7 +704,7 @@ Greece,CEST,1,Athens,2
 Greece,CET,0,Athens,1
 Greece,EEST,1,Athens,3
 Greece,EET,0,Athens,2
-South Georgia and the South Sandwich Islands,GST,0,South_Georgia,-2
+South Georgia and the South Sandwich Islands,GST,0,South Georgia,-2
 Guatemala,CDT,1,Guatemala,-5
 Guatemala,CST,0,Guatemala,-6
 Guatemala,LMT,0,Guatemala,-6.034
@@ -718,10 +718,10 @@ Guyana,GYT,0,Guyana,-3.75
 Guyana,GYT,0,Guyana,-3
 Guyana,GYT,0,Guyana,-4
 Guyana,LMT,0,Guyana,-3.878
-Hong Kong,HKST,1,Hong_Kong,9
-Hong Kong,HKT,0,Hong_Kong,8
-Hong Kong,JST,0,Hong_Kong,9
-Hong Kong,LMT,0,Hong_Kong,7.612
+Hong Kong,HKST,1,Hong Kong,9
+Hong Kong,HKT,0,Hong Kong,8
+Hong Kong,JST,0,Hong Kong,9
+Hong Kong,LMT,0,Hong Kong,7.612
 Honduras,CDT,1,Tegucigalpa,-5
 Honduras,CST,0,Tegucigalpa,-6
 Honduras,LMT,0,Tegucigalpa,-5.814
@@ -762,10 +762,10 @@ Israel,IDDT,1,Jerusalem,4
 Israel,IDT,1,Jerusalem,3
 Israel,IST,0,Jerusalem,2
 Israel,JMT,0,Jerusalem,2.344
-Isle of Man,BDST,1,Isle_of_Man,2
-Isle of Man,BST,1,Isle_of_Man,1
-Isle of Man,BST,0,Isle_of_Man,1
-Isle of Man,GMT,0,Isle_of_Man,0
+Isle of Man,BDST,1,Isle of Man,2
+Isle of Man,BST,1,Isle of Man,1
+Isle of Man,BST,0,Isle of Man,1
+Isle of Man,GMT,0,Isle of Man,0
 India,BURT,0,Kolkata,6.5
 India,HMT,0,Kolkata,5.889
 India,IST,0,Kolkata,5.5
@@ -813,8 +813,8 @@ Kyrgyzstan,KGST,1,Bishkek,6
 Kyrgyzstan,KGT,0,Bishkek,5
 Kyrgyzstan,KGT,0,Bishkek,6
 Kyrgyzstan,LMT,0,Bishkek,4.973
-Cambodia,BMT,0,Phnom_Penh,6.701
-Cambodia,ICT,0,Phnom_Penh,7
+Cambodia,BMT,0,Phnom Penh,6.701
+Cambodia,ICT,0,Phnom Penh,7
 Kiribati,GILT,0,Tarawa,12
 Kiribati,PHOT,0,Enderbury,-12
 Kiribati,PHOT,0,Enderbury,13
@@ -826,8 +826,8 @@ Comoros,BEAT,0,Comoro,2.5
 Comoros,BEAUT,0,Comoro,2.75
 Comoros,EAT,0,Comoro,3
 Comoros,LMT,0,Comoro,2.454
-Saint Kitts and Nevis,AST,0,St_Kitts,-4
-Saint Kitts and Nevis,LMT,0,St_Kitts,-4.101
+Saint Kitts and Nevis,AST,0,St Kitts,-4
+Saint Kitts and Nevis,LMT,0,St Kitts,-4.101
 North Korea,JCST,0,Pyongyang,9
 North Korea,JST,0,Pyongyang,9
 North Korea,KST,0,Pyongyang,8.5
@@ -877,8 +877,8 @@ Laos,BMT,0,Vientiane,6.701
 Laos,ICT,0,Vientiane,7
 Lebanon,EEST,1,Beirut,3
 Lebanon,EET,0,Beirut,2
-Saint Lucia,AST,0,St_Lucia,-4
-Saint Lucia,LMT,0,St_Lucia,-4.101
+Saint Lucia,AST,0,St Lucia,-4
+Saint Lucia,LMT,0,St Lucia,-4.101
 Liechtenstein,CEST,1,Vaduz,2
 Liechtenstein,CET,0,Vaduz,1
 Sri Lanka,IHST,1,Colombo,6
@@ -996,11 +996,11 @@ Maldives,MMT,0,Maldives,4.9
 Maldives,MVT,0,Maldives,5
 Malawi,CAT,0,Blantyre,2
 Malawi,LMT,0,Blantyre,2.172
-Mexico,CDT,1,Mexico_City,-5
-Mexico,CST,0,Mexico_City,-6
-Mexico,CWT,1,Mexico_City,-5
-Mexico,LMT,0,Mexico_City,-6.61
-Mexico,MST,0,Mexico_City,-7
+Mexico,CDT,1,Mexico City,-5
+Mexico,CST,0,Mexico City,-6
+Mexico,CWT,1,Mexico City,-5
+Mexico,LMT,0,Mexico City,-6.61
+Mexico,MST,0,Mexico City,-7
 Mexico,CDT,1,Cancun,-5
 Mexico,CST,0,Cancun,-6
 Mexico,EDT,1,Cancun,-4
@@ -1042,19 +1042,19 @@ Mexico,PDT,1,Tijuana,-7
 Mexico,PPT,1,Tijuana,-7
 Mexico,PST,0,Tijuana,-8
 Mexico,PWT,1,Tijuana,-7
-Mexico,CDT,1,Bahia_Banderas,-5
-Mexico,CST,0,Bahia_Banderas,-6
-Mexico,LMT,0,Bahia_Banderas,-7.017
-Mexico,MDT,1,Bahia_Banderas,-6
-Mexico,MST,0,Bahia_Banderas,-7
-Mexico,PST,0,Bahia_Banderas,-8
-Malaysia,JST,0,Kuala_Lumpur,9
-Malaysia,MALST,1,Kuala_Lumpur,7.333
-Malaysia,MALT,0,Kuala_Lumpur,7.333
-Malaysia,MALT,0,Kuala_Lumpur,7
-Malaysia,MALT,0,Kuala_Lumpur,7.5
-Malaysia,MYT,0,Kuala_Lumpur,8
-Malaysia,SMT,0,Kuala_Lumpur,6.924
+Mexico,CDT,1,Bahia Banderas,-5
+Mexico,CST,0,Bahia Banderas,-6
+Mexico,LMT,0,Bahia Banderas,-7.017
+Mexico,MDT,1,Bahia Banderas,-6
+Mexico,MST,0,Bahia Banderas,-7
+Mexico,PST,0,Bahia Banderas,-8
+Malaysia,JST,0,Kuala Lumpur,9
+Malaysia,MALST,1,Kuala Lumpur,7.333
+Malaysia,MALT,0,Kuala Lumpur,7.333
+Malaysia,MALT,0,Kuala Lumpur,7
+Malaysia,MALT,0,Kuala Lumpur,7.5
+Malaysia,MYT,0,Kuala Lumpur,8
+Malaysia,SMT,0,Kuala Lumpur,6.924
 Malaysia,BORT,0,Kuching,8
 Malaysia,BORT,0,Kuching,7.5
 Malaysia,BORTST,1,Kuching,8.333
@@ -1121,7 +1121,7 @@ French Polynesia,LMT,0,Marquesas,-9.3
 French Polynesia,MART,0,Marquesas,-9.5
 French Polynesia,GAMT,0,Gambier,-9
 French Polynesia,LMT,0,Gambier,-8.997
-Papua New Guinea,PGT,0,Port_Moresby,10
+Papua New Guinea,PGT,0,Port Moresby,10
 Papua New Guinea,BST,0,Bougainville,11
 Papua New Guinea,JST,0,Bougainville,9
 Papua New Guinea,PGT,0,Bougainville,10
@@ -1145,9 +1145,9 @@ Saint Pierre and Miquelon,PMDT,1,Miquelon,-2
 Saint Pierre and Miquelon,PMST,0,Miquelon,-3
 Pitcairn,PNT,0,Pitcairn,-8.5
 Pitcairn,PST,0,Pitcairn,-8
-Puerto Rico,APT,1,Puerto_Rico,-3
-Puerto Rico,AST,0,Puerto_Rico,-4
-Puerto Rico,AWT,1,Puerto_Rico,-3
+Puerto Rico,APT,1,Puerto Rico,-3
+Puerto Rico,AST,0,Puerto Rico,-4
+Puerto Rico,AWT,1,Puerto Rico,-3
 Palestinian Territory,EEST,1,Gaza,3
 Palestinian Territory,EET,0,Gaza,2
 Palestinian Territory,EET,1,Gaza,3
@@ -1398,8 +1398,8 @@ Singapore,MALT,0,Singapore,7.5
 Singapore,SGT,0,Singapore,7.5
 Singapore,SGT,0,Singapore,8
 Singapore,SMT,0,Singapore,6.924
-Saint Helena,GMT,0,St_Helena,0
-Saint Helena,LMT,0,St_Helena,-0.269
+Saint Helena,GMT,0,St Helena,0
+Saint Helena,LMT,0,St Helena,-0.269
 Slovenia,CEST,1,Ljubljana,2
 Slovenia,CET,0,Ljubljana,1
 Svalbard and Jan Mayen,CEST,1,Longyearbyen,2
@@ -1408,8 +1408,8 @@ Slovakia,CEST,1,Bratislava,2
 Slovakia,CET,0,Bratislava,1
 Sierra Leone,GMT,0,Freetown,0
 Sierra Leone,LMT,0,Freetown,-0.269
-San Marino,CEST,1,San_Marino,2
-San Marino,CET,0,San_Marino,1
+San Marino,CEST,1,San Marino,2
+San Marino,CET,0,San Marino,1
 Senegal,GMT,0,Dakar,0
 Senegal,LMT,0,Dakar,-0.269
 Somalia,BEAT,0,Mogadishu,2.5
@@ -1425,24 +1425,24 @@ South Sudan,CAST,1,Juba,3
 South Sudan,CAT,0,Juba,2
 South Sudan,EAT,0,Juba,3
 South Sudan,LMT,0,Juba,2.169
-Sao Tome and Principe,GMT,0,Sao_Tome,0
-Sao Tome and Principe,LMT,0,Sao_Tome,-0.269
-El Salvador,CDT,1,El_Salvador,-5
-El Salvador,CST,0,El_Salvador,-6
-El Salvador,LMT,0,El_Salvador,-5.947
-Sint Maarten,ANT,0,Lower_Princes,-4.5
-Sint Maarten,AST,0,Lower_Princes,-4
-Sint Maarten,LMT,0,Lower_Princes,-4.596
+Sao Tome and Principe,GMT,0,Sao Tome,0
+Sao Tome and Principe,LMT,0,Sao Tome,-0.269
+El Salvador,CDT,1,El Salvador,-5
+El Salvador,CST,0,El Salvador,-6
+El Salvador,LMT,0,El Salvador,-5.947
+Sint Maarten,ANT,0,Lower Princes,-4.5
+Sint Maarten,AST,0,Lower Princes,-4
+Sint Maarten,LMT,0,Lower Princes,-4.596
 Syria,EEST,1,Damascus,3
 Syria,EET,0,Damascus,2
 Syria,LMT,0,Damascus,2.42
 Swaziland,SAST,0,Mbabane,2
 Swaziland,SAST,0,Mbabane,1.5
 Swaziland,SAST,1,Mbabane,3
-Turks and Caicos Islands,AST,0,Grand_Turk,-4
-Turks and Caicos Islands,EDT,1,Grand_Turk,-4
-Turks and Caicos Islands,EST,0,Grand_Turk,-5
-Turks and Caicos Islands,KMT,0,Grand_Turk,-5.12
+Turks and Caicos Islands,AST,0,Grand Turk,-4
+Turks and Caicos Islands,EDT,1,Grand Turk,-4
+Turks and Caicos Islands,EST,0,Grand Turk,-5
+Turks and Caicos Islands,KMT,0,Grand Turk,-5.12
 Chad,LMT,0,Ndjamena,1.003
 Chad,WAST,1,Ndjamena,2
 Chad,WAT,0,Ndjamena,1
@@ -1482,17 +1482,17 @@ Turkey,EET,0,Istanbul,2
 Turkey,IMT,0,Istanbul,1.949
 Turkey,TRST,1,Istanbul,4
 Turkey,TRT,0,Istanbul,3
-Trinidad and Tobago,AST,0,Port_of_Spain,-4
-Trinidad and Tobago,LMT,0,Port_of_Spain,-4.101
+Trinidad and Tobago,AST,0,Port of Spain,-4
+Trinidad and Tobago,LMT,0,Port of Spain,-4.101
 Tuvalu,TVT,0,Funafuti,12
 Taiwan,CDT,1,Taipei,9
 Taiwan,CST,0,Taipei,8
 Taiwan,JST,0,Taipei,9
 Taiwan,JWST,0,Taipei,8
-Tanzania,BEAT,0,Dar_es_Salaam,2.5
-Tanzania,BEAUT,0,Dar_es_Salaam,2.75
-Tanzania,EAT,0,Dar_es_Salaam,3
-Tanzania,LMT,0,Dar_es_Salaam,2.454
+Tanzania,BEAT,0,Dar es Salaam,2.5
+Tanzania,BEAUT,0,Dar es Salaam,2.75
+Tanzania,EAT,0,Dar es Salaam,3
+Tanzania,LMT,0,Dar es Salaam,2.454
 Ukraine,CEST,1,Kiev,2
 Ukraine,CET,0,Kiev,1
 Ukraine,EEST,1,Kiev,3
@@ -1525,10 +1525,10 @@ United States Minor Outlying Islands,LMT,0,Midway,-11.38
 United States Minor Outlying Islands,NST,0,Midway,-11
 United States Minor Outlying Islands,SST,0,Midway,-11
 United States Minor Outlying Islands,WAKT,0,Wake,12
-United States,EDT,1,New_York,-4
-United States,EPT,1,New_York,-4
-United States,EST,0,New_York,-5
-United States,EWT,1,New_York,-4
+United States,EDT,1,New York,-4
+United States,EPT,1,New York,-4
+United States,EST,0,New York,-5
+United States,EWT,1,New York,-4
 United States,CST,0,Detroit,-6
 United States,EDT,1,Detroit,-4
 United States,EPT,1,Detroit,-4
@@ -1558,10 +1558,10 @@ United States,PST,0,Boise,-8
 United States,MDT,1,Phoenix,-6
 United States,MST,0,Phoenix,-7
 United States,MWT,1,Phoenix,-6
-United States,PDT,1,Los_Angeles,-7
-United States,PPT,1,Los_Angeles,-7
-United States,PST,0,Los_Angeles,-8
-United States,PWT,1,Los_Angeles,-7
+United States,PDT,1,Los Angeles,-7
+United States,PPT,1,Los Angeles,-7
+United States,PST,0,Los Angeles,-8
+United States,PWT,1,Los Angeles,-7
 United States,AHDT,1,Anchorage,-9
 United States,AHST,0,Anchorage,-10
 United States,AKDT,1,Anchorage,-8
@@ -1638,19 +1638,19 @@ Uzbekistan,UZST,1,Tashkent,6
 Uzbekistan,UZT,0,Tashkent,5
 Vatican,CEST,1,Vatican,2
 Vatican,CET,0,Vatican,1
-Saint Vincent and the Grenadines,AST,0,St_Vincent,-4
-Saint Vincent and the Grenadines,LMT,0,St_Vincent,-4.101
+Saint Vincent and the Grenadines,AST,0,St Vincent,-4
+Saint Vincent and the Grenadines,LMT,0,St Vincent,-4.101
 Venezuela,CMT,0,Caracas,-4.461
 Venezuela,VET,0,Caracas,-4
 Venezuela,VET,0,Caracas,-4.5
 British Virgin Islands,AST,0,Tortola,-4
 British Virgin Islands,LMT,0,Tortola,-4.101
-U.S. Virgin Islands,AST,0,St_Thomas,-4
-U.S. Virgin Islands,LMT,0,St_Thomas,-4.101
-Vietnam,ICT,0,Ho_Chi_Minh,7
-Vietnam,IDT,0,Ho_Chi_Minh,8
-Vietnam,JST,0,Ho_Chi_Minh,9
-Vietnam,LMT,0,Ho_Chi_Minh,7.111
+U.S. Virgin Islands,AST,0,St Thomas,-4
+U.S. Virgin Islands,LMT,0,St Thomas,-4.101
+Vietnam,ICT,0,Ho Chi Minh,7
+Vietnam,IDT,0,Ho Chi Minh,8
+Vietnam,JST,0,Ho Chi Minh,9
+Vietnam,LMT,0,Ho Chi Minh,7.111
 Vanuatu,VUST,1,Efate,12
 Vanuatu,VUT,0,Efate,11
 Wallis and Futuna,WFT,0,Wallis,12
