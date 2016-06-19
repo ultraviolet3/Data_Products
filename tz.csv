@@ -1,1675 +1,1338 @@
-Country,Zone,DST,City,Offset
-United States,CDT,1,Beulah,-5
-United States,CST,0,Beulah,-6
-United States,MDT,1,Beulah,-6
-United States,MPT,1,Beulah,-6
-United States,MST,0,Beulah,-7
-United States,MWT,1,Beulah,-6
-Argentina,ARST,1,Buenos Aires,-3
-Argentina,ARST,1,Buenos Aires,-2
-Argentina,ART,0,Buenos Aires,-4
-Argentina,ART,0,Buenos Aires,-3
-Argentina,CMT,0,Buenos Aires,-4.28
-Argentina,ARST,1,Catamarca,-3
-Argentina,ARST,1,Catamarca,-2
-Argentina,ART,0,Catamarca,-4
-Argentina,ART,0,Catamarca,-3
-Argentina,CMT,0,Catamarca,-4.28
-Argentina,WART,0,Catamarca,-4
-United States,CDT,1,Center,-5
-United States,CST,0,Center,-6
-United States,MDT,1,Center,-6
-United States,MPT,1,Center,-6
-United States,MST,0,Center,-7
-United States,MWT,1,Center,-6
-Argentina,ARST,1,Cordoba,-3
-Argentina,ARST,1,Cordoba,-2
-Argentina,ART,0,Cordoba,-4
-Argentina,ART,0,Cordoba,-3
-Argentina,CMT,0,Cordoba,-4.28
-Argentina,WART,0,Cordoba,-4
-United States,CDT,1,Indianapolis,-5
-United States,CPT,1,Indianapolis,-5
-United States,CST,0,Indianapolis,-6
-United States,CWT,1,Indianapolis,-5
-United States,EDT,1,Indianapolis,-4
-United States,EST,0,Indianapolis,-5
-Argentina,ARST,1,Jujuy,-3
-Argentina,ARST,1,Jujuy,-2
-Argentina,ART,0,Jujuy,-4
-Argentina,ART,0,Jujuy,-3
-Argentina,CMT,0,Jujuy,-4.28
-Argentina,WARST,1,Jujuy,-3
-Argentina,WART,0,Jujuy,-4
-United States,CDT,1,Knox,-5
-United States,CPT,1,Knox,-5
-United States,CST,0,Knox,-6
-United States,CWT,1,Knox,-5
-United States,EST,0,Knox,-5
-Argentina,ARST,1,La Rioja,-3
-Argentina,ARST,1,La Rioja,-2
-Argentina,ART,0,La Rioja,-4
-Argentina,ART,0,La Rioja,-3
-Argentina,CMT,0,La Rioja,-4.28
-Argentina,WART,0,La Rioja,-4
-United States,CDT,1,Louisville,-5
-United States,CPT,1,Louisville,-5
-United States,CST,0,Louisville,-6
-United States,CWT,1,Louisville,-5
-United States,EDT,1,Louisville,-4
-United States,EST,0,Louisville,-5
-United States,CDT,1,Marengo,-5
-United States,CPT,1,Marengo,-5
-United States,CST,0,Marengo,-6
-United States,CWT,1,Marengo,-5
-United States,EDT,1,Marengo,-4
-United States,EST,0,Marengo,-5
-Argentina,ARST,1,Mendoza,-3
-Argentina,ARST,1,Mendoza,-2
-Argentina,ART,0,Mendoza,-4
-Argentina,ART,0,Mendoza,-3
-Argentina,CMT,0,Mendoza,-4.28
-Argentina,WARST,1,Mendoza,-3
-Argentina,WART,0,Mendoza,-4
-United States,CDT,1,Monticello,-5
-United States,CPT,1,Monticello,-5
-United States,CST,0,Monticello,-6
-United States,CWT,1,Monticello,-5
-United States,EDT,1,Monticello,-4
-United States,EST,0,Monticello,-5
-United States,CDT,1,New Salem,-5
-United States,CST,0,New Salem,-6
-United States,MDT,1,New Salem,-6
-United States,MPT,1,New Salem,-6
-United States,MST,0,New Salem,-7
-United States,MWT,1,New Salem,-6
-United States,CDT,1,Petersburg,-5
-United States,CPT,1,Petersburg,-5
-United States,CST,0,Petersburg,-6
-United States,CWT,1,Petersburg,-5
-United States,EDT,1,Petersburg,-4
-United States,EST,0,Petersburg,-5
-Argentina,ARST,1,Rio Gallegos,-3
-Argentina,ARST,1,Rio Gallegos,-2
-Argentina,ART,0,Rio Gallegos,-4
-Argentina,ART,0,Rio Gallegos,-3
-Argentina,CMT,0,Rio Gallegos,-4.28
-Argentina,WART,0,Rio Gallegos,-4
-Argentina,ARST,1,Salta,-3
-Argentina,ARST,1,Salta,-2
-Argentina,ART,0,Salta,-4
-Argentina,ART,0,Salta,-3
-Argentina,CMT,0,Salta,-4.28
-Argentina,WART,0,Salta,-4
-Argentina,ARST,1,San Juan,-3
-Argentina,ARST,1,San Juan,-2
-Argentina,ART,0,San Juan,-4
-Argentina,ART,0,San Juan,-3
-Argentina,CMT,0,San Juan,-4.28
-Argentina,WART,0,San Juan,-4
-Argentina,ARST,1,San Luis,-3
-Argentina,ARST,1,San Luis,-2
-Argentina,ART,0,San Luis,-4
-Argentina,ART,0,San Luis,-3
-Argentina,CMT,0,San Luis,-4.28
-Argentina,WARST,1,San Luis,-3
-Argentina,WART,0,San Luis,-4
-United States,CDT,1,Tell City,-5
-United States,CPT,1,Tell City,-5
-United States,CST,0,Tell City,-6
-United States,CWT,1,Tell City,-5
-United States,EDT,1,Tell City,-4
-United States,EST,0,Tell City,-5
-Argentina,ARST,1,Tucuman,-3
-Argentina,ARST,1,Tucuman,-2
-Argentina,ART,0,Tucuman,-4
-Argentina,ART,0,Tucuman,-3
-Argentina,CMT,0,Tucuman,-4.28
-Argentina,WART,0,Tucuman,-4
-Argentina,ARST,1,Ushuaia,-3
-Argentina,ARST,1,Ushuaia,-2
-Argentina,ART,0,Ushuaia,-4
-Argentina,ART,0,Ushuaia,-3
-Argentina,CMT,0,Ushuaia,-4.28
-Argentina,WART,0,Ushuaia,-4
-United States,CDT,1,Vevay,-5
-United States,CPT,1,Vevay,-5
-United States,CST,0,Vevay,-6
-United States,CWT,1,Vevay,-5
-United States,EDT,1,Vevay,-4
-United States,EST,0,Vevay,-5
-United States,CDT,1,Vincennes,-5
-United States,CPT,1,Vincennes,-5
-United States,CST,0,Vincennes,-6
-United States,CWT,1,Vincennes,-5
-United States,EDT,1,Vincennes,-4
-United States,EST,0,Vincennes,-5
-United States,CDT,1,Winamac,-5
-United States,CPT,1,Winamac,-5
-United States,CST,0,Winamac,-6
-United States,CWT,1,Winamac,-5
-United States,EDT,1,Winamac,-4
-United States,EST,0,Winamac,-5
-Andorra,CEST,1,Andorra,2
-Andorra,CET,0,Andorra,1
-Andorra,WET,0,Andorra,0
-United Arab Emirates,GST,0,Dubai,4
-United Arab Emirates,LMT,0,Dubai,3.687
-Afghanistan,AFT,0,Kabul,4
-Afghanistan,AFT,0,Kabul,4.5
-Antigua and Barbuda,AST,0,Antigua,-4
-Antigua and Barbuda,LMT,0,Antigua,-4.101
-Anguilla,AST,0,Anguilla,-4
-Anguilla,LMT,0,Anguilla,-4.101
-Albania,CEST,1,Tirane,2
-Albania,CET,0,Tirane,1
-Albania,LMT,0,Tirane,1.322
-Armenia,AMST,1,Yerevan,5
-Armenia,AMST,1,Yerevan,4
-Armenia,AMT,0,Yerevan,4
-Armenia,AMT,0,Yerevan,3
-Armenia,LMT,0,Yerevan,2.967
-Armenia,YERST,1,Yerevan,5
-Armenia,YERST,1,Yerevan,4
-Armenia,YERT,0,Yerevan,3
-Armenia,YERT,0,Yerevan,4
-Angola,WAT,0,Luanda,1
-Antarctica,NZDT,1,McMurdo,13
-Antarctica,NZMT,0,McMurdo,11.5
-Antarctica,NZST,1,McMurdo,12
-Antarctica,NZST,1,McMurdo,12.5
-Antarctica,NZST,0,McMurdo,12
-Antarctica,AWST,0,Casey,8
-Antarctica,CAST,0,Casey,11
-Antarctica,DAVT,0,Davis,7
-Antarctica,DAVT,0,Davis,5
-Antarctica,DDUT,0,DumontDUrville,10
-Antarctica,PMT,0,DumontDUrville,10
-Antarctica,MAWT,0,Mawson,6
-Antarctica,MAWT,0,Mawson,5
-Antarctica,ARST,1,Palmer,-3
-Antarctica,ARST,1,Palmer,-2
-Antarctica,ART,0,Palmer,-4
-Antarctica,ART,0,Palmer,-3
-Antarctica,CLST,1,Palmer,-3
-Antarctica,CLT,0,Palmer,-4
-Antarctica,ROTT,0,Rothera,-3
-Antarctica,SYOT,0,Syowa,3
-Antarctica,CEST,1,Troll,2
-Antarctica,UTC,0,Troll,0
-Antarctica,VOST,0,Vostok,6
-American Samoa,BST,0,Pago Pago,-11
-American Samoa,LMT,0,Pago Pago,-11.38
-American Samoa,NST,0,Pago Pago,-11
-American Samoa,SST,0,Pago Pago,-11
-Austria,CEST,1,Vienna,2
-Austria,CET,0,Vienna,1
-Australia,AEST,0,Lord Howe,10
-Australia,LHDT,1,Lord Howe,11
-Australia,LHDT,1,Lord Howe,11.5
-Australia,LHST,0,Lord Howe,10.5
-Australia,AEDT,1,Macquarie,11
-Australia,AEST,0,Macquarie,10
-Australia,MIST,0,Macquarie,11
-Australia,AEDT,1,Hobart,11
-Australia,AEST,0,Hobart,10
-Australia,AEDT,1,Currie,11
-Australia,AEST,0,Currie,10
-Australia,AEDT,1,Melbourne,11
-Australia,AEST,0,Melbourne,10
-Australia,AEDT,1,Sydney,11
-Australia,AEST,0,Sydney,10
-Australia,ACDT,1,Broken Hill,10.5
-Australia,ACST,0,Broken Hill,9.5
-Australia,AEDT,1,Brisbane,11
-Australia,AEST,0,Brisbane,10
-Australia,AEDT,1,Lindeman,11
-Australia,AEST,0,Lindeman,10
-Australia,ACDT,1,Adelaide,10.5
-Australia,ACST,0,Adelaide,9.5
-Australia,ACDT,1,Darwin,10.5
-Australia,ACST,0,Darwin,9.5
-Australia,AWDT,1,Perth,9
-Australia,AWST,0,Perth,8
-Australia,ACWDT,1,Eucla,9.75
-Australia,ACWST,0,Eucla,8.75
-Aruba,ANT,0,Aruba,-4.5
-Aruba,AST,0,Aruba,-4
-Aruba,LMT,0,Aruba,-4.596
-Aland Islands,EEST,1,Mariehamn,3
-Aland Islands,EET,0,Mariehamn,2
-Aland Islands,HMT,0,Mariehamn,1.664
-Azerbaijan,AZST,1,Baku,5
-Azerbaijan,AZST,1,Baku,4
-Azerbaijan,AZT,0,Baku,4
-Azerbaijan,AZT,0,Baku,3
-Azerbaijan,BAKST,1,Baku,5
-Azerbaijan,BAKST,1,Baku,4
-Azerbaijan,BAKT,0,Baku,3
-Azerbaijan,BAKT,0,Baku,4
-Azerbaijan,LMT,0,Baku,3.323
-Bosnia and Herzegovina,CEST,1,Sarajevo,2
-Bosnia and Herzegovina,CET,0,Sarajevo,1
-Barbados,ADT,1,Barbados,-3
-Barbados,AST,0,Barbados,-4
-Barbados,BMT,0,Barbados,-3.975
-Barbados,LMT,0,Barbados,-3.975
-Bangladesh,BDST,1,Dhaka,7
-Bangladesh,BDT,0,Dhaka,6
-Bangladesh,BURT,0,Dhaka,6.5
-Bangladesh,DACT,0,Dhaka,6
-Bangladesh,HMT,0,Dhaka,5.889
-Bangladesh,IST,0,Dhaka,5.5
-Belgium,CEST,1,Brussels,2
-Belgium,CET,0,Brussels,1
-Belgium,WEST,1,Brussels,1
-Belgium,WET,0,Brussels,0
-Burkina Faso,GMT,0,Ouagadougou,0
-Burkina Faso,LMT,0,Ouagadougou,-0.269
-Bulgaria,CEST,1,Sofia,2
-Bulgaria,CET,0,Sofia,1
-Bulgaria,EEST,1,Sofia,3
-Bulgaria,EET,0,Sofia,2
-Bahrain,AST,0,Bahrain,3
-Bahrain,GST,0,Bahrain,4
-Bahrain,LMT,0,Bahrain,3.436
-Burundi,CAT,0,Bujumbura,2
-Burundi,LMT,0,Bujumbura,2.172
-Benin,WAT,0,Porto-Novo,1
-Saint Barth??lemy,AST,0,St Barthelemy,-4
-Saint Barth??lemy,LMT,0,St Barthelemy,-4.101
-Bermuda,ADT,1,Bermuda,-3
-Bermuda,AST,0,Bermuda,-4
-Bermuda,LMT,0,Bermuda,-4.322
-Brunei,BNT,0,Brunei,8
-Brunei,BNT,0,Brunei,7.5
-Brunei,LMT,0,Brunei,7.661
-Bolivia,BOST,1,La Paz,-3.543
-Bolivia,BOT,0,La Paz,-4
-Bolivia,CMT,0,La Paz,-4.543
-Bonaire, Saint Eustatius and Saba,ANT,0,-4.5
-Bonaire, Saint Eustatius and Saba,AST,0,-4
-Bonaire, Saint Eustatius and Saba,LMT,0,-4.596
-Brazil,FNST,1,Noronha,-1
-Brazil,FNT,0,Noronha,-2
-Brazil,LMT,0,Noronha,-2.161
-Brazil,BRST,1,Belem,-2
-Brazil,BRT,0,Belem,-3
-Brazil,LMT,0,Belem,-3.232
-Brazil,BRST,1,Fortaleza,-2
-Brazil,BRT,0,Fortaleza,-3
-Brazil,LMT,0,Fortaleza,-2.567
-Brazil,BRST,1,Recife,-2
-Brazil,BRT,0,Recife,-3
-Brazil,LMT,0,Recife,-2.327
-Brazil,BRST,1,Araguaina,-2
-Brazil,BRT,0,Araguaina,-3
-Brazil,LMT,0,Araguaina,-3.213
-Brazil,BRST,1,Maceio,-2
-Brazil,BRT,0,Maceio,-3
-Brazil,LMT,0,Maceio,-2.381
-Brazil,BRST,1,Bahia,-2
-Brazil,BRT,0,Bahia,-3
-Brazil,LMT,0,Bahia,-2.568
-Brazil,BRST,1,Sao Paulo,-2
-Brazil,BRT,0,Sao Paulo,-3
-Brazil,LMT,0,Sao Paulo,-3.108
-Brazil,AMST,1,Campo Grande,-3
-Brazil,AMT,0,Campo Grande,-4
-Brazil,LMT,0,Campo Grande,-3.641
-Brazil,AMST,1,Cuiaba,-3
-Brazil,AMT,0,Cuiaba,-4
-Brazil,LMT,0,Cuiaba,-3.739
-Brazil,AMST,1,Santarem,-3
-Brazil,AMT,0,Santarem,-4
-Brazil,BRT,0,Santarem,-3
-Brazil,LMT,0,Santarem,-3.647
-Brazil,AMST,1,Porto Velho,-3
-Brazil,AMT,0,Porto Velho,-4
-Brazil,LMT,0,Porto Velho,-4.26
-Brazil,AMST,1,Boa Vista,-3
-Brazil,AMT,0,Boa Vista,-4
-Brazil,LMT,0,Boa Vista,-4.044
-Brazil,AMST,1,Manaus,-3
-Brazil,AMT,0,Manaus,-4
-Brazil,LMT,0,Manaus,-4.001
-Brazil,ACST,1,Eirunepe,-4
-Brazil,ACT,0,Eirunepe,-5
-Brazil,AMT,0,Eirunepe,-4
-Brazil,LMT,0,Eirunepe,-4.658
-Brazil,ACST,1,Rio Branco,-4
-Brazil,ACT,0,Rio Branco,-5
-Brazil,AMT,0,Rio Branco,-4
-Brazil,LMT,0,Rio Branco,-4.52
-Bahamas,EDT,1,Nassau,-4
-Bahamas,EST,0,Nassau,-5
-Bahamas,LMT,0,Nassau,-5.158
-Bhutan,BTT,0,Thimphu,6
-Bhutan,IST,0,Thimphu,5.5
-Bhutan,LMT,0,Thimphu,5.977
-Botswana,CAT,0,Gaborone,2
-Botswana,LMT,0,Gaborone,2.172
-Belarus,CEST,1,Minsk,2
-Belarus,CET,0,Minsk,1
-Belarus,EEST,1,Minsk,3
-Belarus,EET,0,Minsk,2
-Belarus,FET,0,Minsk,3
-Belarus,MMT,0,Minsk,1.833
-Belarus,MSD,1,Minsk,4
-Belarus,MSK,0,Minsk,3
-Belize,CDT,1,Belize,-5
-Belize,CHDT,1,Belize,-5.5
-Belize,CST,0,Belize,-6
-Belize,LMT,0,Belize,-5.88
-Canada,NDDT,1,St Johns,-1.5
-Canada,NDT,1,St Johns,-2.5
-Canada,NDT,1,St Johns,-2.514
-Canada,NPT,1,St Johns,-2.5
-Canada,NST,0,St Johns,-3.5
-Canada,NST,0,St Johns,-3.514
-Canada,NWT,1,St Johns,-2.5
-Canada,ADT,1,Halifax,-3
-Canada,APT,1,Halifax,-3
-Canada,AST,0,Halifax,-4
-Canada,AWT,1,Halifax,-3
-Canada,LMT,0,Halifax,-4.24
-Canada,ADT,1,Glace Bay,-3
-Canada,APT,1,Glace Bay,-3
-Canada,AST,0,Glace Bay,-4
-Canada,AWT,1,Glace Bay,-3
-Canada,LMT,0,Glace Bay,-3.997
-Canada,ADT,1,Moncton,-3
-Canada,APT,1,Moncton,-3
-Canada,AST,0,Moncton,-4
-Canada,AWT,1,Moncton,-3
-Canada,EST,0,Moncton,-5
-Canada,ADDT,1,Goose Bay,-2
-Canada,ADT,1,Goose Bay,-3
-Canada,AST,0,Goose Bay,-4
-Canada,NDT,1,Goose Bay,-2.5
-Canada,NDT,1,Goose Bay,-2.514
-Canada,NPT,1,Goose Bay,-2.5
-Canada,NST,0,Goose Bay,-3.5
-Canada,NST,0,Goose Bay,-3.514
-Canada,NWT,1,Goose Bay,-2.5
-Canada,ADT,1,Blanc-Sablon,-3
-Canada,APT,1,Blanc-Sablon,-3
-Canada,AST,0,Blanc-Sablon,-4
-Canada,AWT,1,Blanc-Sablon,-3
-Canada,EDT,1,Toronto,-4
-Canada,EPT,1,Toronto,-4
-Canada,EST,0,Toronto,-5
-Canada,EWT,1,Toronto,-4
-Canada,EDT,1,Nipigon,-4
-Canada,EPT,1,Nipigon,-4
-Canada,EST,0,Nipigon,-5
-Canada,EWT,1,Nipigon,-4
-Canada,CST,0,Thunder Bay,-6
-Canada,EDT,1,Thunder Bay,-4
-Canada,EPT,1,Thunder Bay,-4
-Canada,EST,0,Thunder Bay,-5
-Canada,EWT,1,Thunder Bay,-4
-Canada,CDT,1,Iqaluit,-5
-Canada,CST,0,Iqaluit,-6
-Canada,EDDT,1,Iqaluit,-3
-Canada,EDT,1,Iqaluit,-4
-Canada,EPT,1,Iqaluit,-4
-Canada,EST,0,Iqaluit,-5
-Canada,EWT,1,Iqaluit,-4
-Canada,ADDT,1,Pangnirtung,-2
-Canada,ADT,1,Pangnirtung,-3
-Canada,APT,1,Pangnirtung,-3
-Canada,AST,0,Pangnirtung,-4
-Canada,AWT,1,Pangnirtung,-3
-Canada,CDT,1,Pangnirtung,-5
-Canada,CST,0,Pangnirtung,-6
-Canada,EDT,1,Pangnirtung,-4
-Canada,EST,0,Pangnirtung,-5
-Canada,CDT,1,Atikokan,-5
-Canada,CPT,1,Atikokan,-5
-Canada,CST,0,Atikokan,-6
-Canada,CWT,1,Atikokan,-5
-Canada,EST,0,Atikokan,-5
-Canada,CDT,1,Winnipeg,-5
-Canada,CPT,1,Winnipeg,-5
-Canada,CST,0,Winnipeg,-6
-Canada,CWT,1,Winnipeg,-5
-Canada,CDT,1,Rainy River,-5
-Canada,CPT,1,Rainy River,-5
-Canada,CST,0,Rainy River,-6
-Canada,CWT,1,Rainy River,-5
-Canada,CDDT,1,Resolute,-4
-Canada,CDT,1,Resolute,-5
-Canada,CST,0,Resolute,-6
-Canada,EST,0,Resolute,-5
-Canada,CDDT,1,Rankin Inlet,-4
-Canada,CDT,1,Rankin Inlet,-5
-Canada,CST,0,Rankin Inlet,-6
-Canada,EST,0,Rankin Inlet,-5
-Canada,CST,0,Regina,-6
-Canada,LMT,0,Regina,-6.977
-Canada,MDT,1,Regina,-6
-Canada,MPT,1,Regina,-6
-Canada,MST,0,Regina,-7
-Canada,MWT,1,Regina,-6
-Canada,CST,0,Swift Current,-6
-Canada,LMT,0,Swift Current,-7.189
-Canada,MDT,1,Swift Current,-6
-Canada,MPT,1,Swift Current,-6
-Canada,MST,0,Swift Current,-7
-Canada,MWT,1,Swift Current,-6
-Canada,LMT,0,Edmonton,-7.564
-Canada,MDT,1,Edmonton,-6
-Canada,MPT,1,Edmonton,-6
-Canada,MST,0,Edmonton,-7
-Canada,MWT,1,Edmonton,-6
-Canada,CDT,1,Cambridge Bay,-5
-Canada,CST,0,Cambridge Bay,-6
-Canada,EST,0,Cambridge Bay,-5
-Canada,MDDT,1,Cambridge Bay,-5
-Canada,MDT,1,Cambridge Bay,-6
-Canada,MPT,1,Cambridge Bay,-6
-Canada,MST,0,Cambridge Bay,-7
-Canada,MWT,1,Cambridge Bay,-6
-Canada,MDDT,1,Yellowknife,-5
-Canada,MDT,1,Yellowknife,-6
-Canada,MPT,1,Yellowknife,-6
-Canada,MST,0,Yellowknife,-7
-Canada,MWT,1,Yellowknife,-6
-Canada,MDT,1,Inuvik,-6
-Canada,MST,0,Inuvik,-7
-Canada,PDDT,1,Inuvik,-6
-Canada,PST,0,Inuvik,-8
-Canada,MST,0,Creston,-7
-Canada,PST,0,Creston,-8
-Canada,MST,0,Dawson Creek,-7
-Canada,PDT,1,Dawson Creek,-7
-Canada,PPT,1,Dawson Creek,-7
-Canada,PST,0,Dawson Creek,-8
-Canada,PWT,1,Dawson Creek,-7
-Canada,MST,0,Fort Nelson,-7
-Canada,PDT,1,Fort Nelson,-7
-Canada,PPT,1,Fort Nelson,-7
-Canada,PST,0,Fort Nelson,-8
-Canada,PWT,1,Fort Nelson,-7
-Canada,PDT,1,Vancouver,-7
-Canada,PPT,1,Vancouver,-7
-Canada,PST,0,Vancouver,-8
-Canada,PWT,1,Vancouver,-7
-Canada,PDT,1,Whitehorse,-7
-Canada,PST,0,Whitehorse,-8
-Canada,YDDT,1,Whitehorse,-7
-Canada,YDT,1,Whitehorse,-8
-Canada,YPT,1,Whitehorse,-8
-Canada,YST,0,Whitehorse,-9
-Canada,YWT,1,Whitehorse,-8
-Canada,PDT,1,Dawson,-7
-Canada,PST,0,Dawson,-8
-Canada,YDDT,1,Dawson,-7
-Canada,YDT,1,Dawson,-8
-Canada,YPT,1,Dawson,-8
-Canada,YST,0,Dawson,-9
-Canada,YWT,1,Dawson,-8
-Cocos Islands,CCT,0,Cocos,6.5
-Democratic Republic of the Congo,WAT,0,Kinshasa,1
-Democratic Republic of the Congo,CAT,0,Lubumbashi,2
-Democratic Republic of the Congo,LMT,0,Lubumbashi,2.172
-Central African Republic,WAT,0,Bangui,1
-Republic of the Congo,WAT,0,Brazzaville,1
-Switzerland,CEST,1,Zurich,2
-Switzerland,CET,0,Zurich,1
-Ivory Coast,GMT,0,Abidjan,0
-Ivory Coast,LMT,0,Abidjan,-0.269
-Cook Islands,CKHST,1,Rarotonga,-9.5
-Cook Islands,CKT,0,Rarotonga,-10.5
-Cook Islands,CKT,0,Rarotonga,-10
-Chile,CLST,1,Santiago,-4
-Chile,CLST,1,Santiago,-3
-Chile,CLT,0,Santiago,-4
-Chile,CLT,0,Santiago,-5
-Chile,SMT,0,Santiago,-4.713
-Chile,EASST,1,Easter,-6
-Chile,EASST,1,Easter,-5
-Chile,EAST,0,Easter,-7
-Chile,EAST,0,Easter,-6
-Chile,EMT,0,Easter,-7.291
-Cameroon,WAT,0,Douala,1
-China,CDT,1,Shanghai,9
-China,CST,0,Shanghai,8
-China,LMT,0,Urumqi,5.839
-China,XJT,0,Urumqi,6
-Colombia,BMT,0,Bogota,-4.938
-Colombia,COST,1,Bogota,-4
-Colombia,COT,0,Bogota,-5
-Costa Rica,CDT,1,Costa Rica,-5
-Costa Rica,CST,0,Costa Rica,-6
-Costa Rica,SJMT,0,Costa Rica,-5.604
-Cuba,CDT,1,Havana,-4
-Cuba,CST,0,Havana,-5
-Cuba,HMT,0,Havana,-5.493
-Cape Verde,CVST,1,Cape Verde,-1
-Cape Verde,CVT,0,Cape Verde,-2
-Cape Verde,CVT,0,Cape Verde,-1
-Cape Verde,LMT,0,Cape Verde,-1.568
-Cura??ao,ANT,0,Curacao,-4.5
-Cura??ao,AST,0,Curacao,-4
-Cura??ao,LMT,0,Curacao,-4.596
-Christmas Island,CXT,0,Christmas,7
-Cyprus,EEST,1,Nicosia,3
-Cyprus,EET,0,Nicosia,2
-Czech Republic,CEST,1,Prague,2
-Czech Republic,CET,0,Prague,1
-Germany,CEMT,1,Berlin,3
-Germany,CEST,1,Berlin,2
-Germany,CET,0,Berlin,1
-Germany,CEST,1,Busingen,2
-Germany,CET,0,Busingen,1
-Djibouti,BEAT,0,Djibouti,2.5
-Djibouti,BEAUT,0,Djibouti,2.75
-Djibouti,EAT,0,Djibouti,3
-Djibouti,LMT,0,Djibouti,2.454
-Denmark,CEST,1,Copenhagen,2
-Denmark,CET,0,Copenhagen,1
-Dominica,AST,0,Dominica,-4
-Dominica,LMT,0,Dominica,-4.101
-Dominican Republic,AST,0,Santo Domingo,-4
-Dominican Republic,EDT,1,Santo Domingo,-4
-Dominican Republic,EHDT,1,Santo Domingo,-4.5
-Dominican Republic,EST,0,Santo Domingo,-5
-Dominican Republic,SDMT,0,Santo Domingo,-4.667
-Algeria,CEST,1,Algiers,2
-Algeria,CET,0,Algiers,1
-Algeria,PMT,0,Algiers,0.156
-Algeria,WEST,1,Algiers,1
-Algeria,WET,0,Algiers,0
-Ecuador,ECT,0,Guayaquil,-5
-Ecuador,QMT,0,Guayaquil,-5.233
-Ecuador,ECT,0,Galapagos,-5
-Ecuador,GALT,0,Galapagos,-6
-Ecuador,LMT,0,Galapagos,-5.973
-Estonia,CEST,1,Tallinn,2
-Estonia,CET,0,Tallinn,1
-Estonia,EEST,1,Tallinn,3
-Estonia,EET,0,Tallinn,2
-Estonia,MSD,1,Tallinn,4
-Estonia,MSK,0,Tallinn,3
-Estonia,TMT,0,Tallinn,1.65
-Egypt,EEST,1,Cairo,3
-Egypt,EET,0,Cairo,2
-Western Sahara,LMT,0,El Aaiun,-0.88
-Western Sahara,WAT,0,El Aaiun,-1
-Western Sahara,WEST,1,El Aaiun,1
-Western Sahara,WET,0,El Aaiun,0
-Eritrea,BEAT,0,Asmara,2.5
-Eritrea,BEAUT,0,Asmara,2.75
-Eritrea,EAT,0,Asmara,3
-Eritrea,LMT,0,Asmara,2.454
-Spain,CEST,1,Madrid,2
-Spain,CET,0,Madrid,1
-Spain,WEMT,1,Madrid,2
-Spain,WEST,1,Madrid,1
-Spain,WET,0,Madrid,0
-Spain,CEST,1,Ceuta,2
-Spain,CET,0,Ceuta,1
-Spain,WEST,1,Ceuta,1
-Spain,WET,0,Ceuta,0
-Spain,CANT,0,Canary,-1
-Spain,LMT,0,Canary,-1.027
-Spain,WEST,1,Canary,1
-Spain,WET,0,Canary,0
-Ethiopia,BEAT,0,Addis Ababa,2.5
-Ethiopia,BEAUT,0,Addis Ababa,2.75
-Ethiopia,EAT,0,Addis Ababa,3
-Ethiopia,LMT,0,Addis Ababa,2.454
-Finland,EEST,1,Helsinki,3
-Finland,EET,0,Helsinki,2
-Finland,HMT,0,Helsinki,1.664
-Fiji,FJST,1,Fiji,13
-Fiji,FJT,0,Fiji,12
-Fiji,LMT,0,Fiji,11.929
-Falkland Islands,FKST,1,Stanley,-3
-Falkland Islands,FKST,0,Stanley,-3
-Falkland Islands,FKST,1,Stanley,-2
-Falkland Islands,FKT,0,Stanley,-4
-Falkland Islands,FKT,0,Stanley,-3
-Falkland Islands,SMT,0,Stanley,-3.857
-Micronesia,CHUT,0,Chuuk,10
-Micronesia,PONT,0,Pohnpei,11
-Micronesia,KOST,0,Kosrae,11
-Micronesia,KOST,0,Kosrae,12
-Faroe Islands,LMT,0,Faroe,-0.451
-Faroe Islands,WEST,1,Faroe,1
-Faroe Islands,WET,0,Faroe,0
-France,CEST,1,Paris,2
-France,CET,0,Paris,1
-France,PMT,0,Paris,0.156
-France,WEMT,1,Paris,2
-France,WEST,1,Paris,1
-France,WET,0,Paris,0
-Gabon,WAT,0,Libreville,1
-United Kingdom,BDST,1,London,2
-United Kingdom,BST,1,London,1
-United Kingdom,BST,0,London,1
-United Kingdom,GMT,0,London,0
-Grenada,AST,0,Grenada,-4
-Grenada,LMT,0,Grenada,-4.101
-Georgia,GEST,1,Tbilisi,5
-Georgia,GEST,1,Tbilisi,4
-Georgia,GET,0,Tbilisi,4
-Georgia,GET,0,Tbilisi,3
-Georgia,TBIST,1,Tbilisi,5
-Georgia,TBIST,1,Tbilisi,4
-Georgia,TBIT,0,Tbilisi,3
-Georgia,TBIT,0,Tbilisi,4
-Georgia,TBMT,0,Tbilisi,2.986
-French Guiana,GFT,0,Cayenne,-4
-French Guiana,GFT,0,Cayenne,-3
-French Guiana,LMT,0,Cayenne,-3.489
-Guernsey,BDST,1,Guernsey,2
-Guernsey,BST,1,Guernsey,1
-Guernsey,BST,0,Guernsey,1
-Guernsey,GMT,0,Guernsey,0
-Ghana,GHST,1,Accra,0.333
-Ghana,GMT,0,Accra,0
-Ghana,LMT,0,Accra,-0.014
-Gibraltar,BDST,1,Gibraltar,2
-Gibraltar,BST,1,Gibraltar,1
-Gibraltar,CEST,1,Gibraltar,2
-Gibraltar,CET,0,Gibraltar,1
-Gibraltar,GMT,0,Gibraltar,0
-Greenland,LMT,0,Godthab,-3.449
-Greenland,WGST,1,Godthab,-2
-Greenland,WGT,0,Godthab,-3
-Greenland,GMT,0,Danmarkshavn,0
-Greenland,LMT,0,Danmarkshavn,-1.244
-Greenland,WGST,1,Danmarkshavn,-2
-Greenland,WGT,0,Danmarkshavn,-3
-Greenland,CGST,1,Scoresbysund,-1
-Greenland,CGT,0,Scoresbysund,-2
-Greenland,EGST,1,Scoresbysund,0
-Greenland,EGT,0,Scoresbysund,-1
-Greenland,LMT,0,Scoresbysund,-1.464
-Greenland,ADT,1,Thule,-3
-Greenland,AST,0,Thule,-4
-Greenland,LMT,0,Thule,-4.586
-Gambia,GMT,0,Banjul,0
-Gambia,LMT,0,Banjul,-0.269
-Guinea,GMT,0,Conakry,0
-Guinea,LMT,0,Conakry,-0.269
-Guadeloupe,AST,0,Guadeloupe,-4
-Guadeloupe,LMT,0,Guadeloupe,-4.101
-Equatorial Guinea,WAT,0,Malabo,1
-Greece,AMT,0,Athens,1.581
-Greece,CEST,1,Athens,2
-Greece,CET,0,Athens,1
-Greece,EEST,1,Athens,3
-Greece,EET,0,Athens,2
-South Georgia and the South Sandwich Islands,GST,0,South Georgia,-2
-Guatemala,CDT,1,Guatemala,-5
-Guatemala,CST,0,Guatemala,-6
-Guatemala,LMT,0,Guatemala,-6.034
-Guam,ChST,0,Guam,10
-Guam,GST,0,Guam,10
-Guinea-Bissau,GMT,0,Bissau,0
-Guinea-Bissau,LMT,0,Bissau,-1.039
-Guinea-Bissau,WAT,0,Bissau,-1
-Guyana,GBGT,0,Guyana,-3.75
-Guyana,GYT,0,Guyana,-3.75
-Guyana,GYT,0,Guyana,-3
-Guyana,GYT,0,Guyana,-4
-Guyana,LMT,0,Guyana,-3.878
-Hong Kong,HKST,1,Hong Kong,9
-Hong Kong,HKT,0,Hong Kong,8
-Hong Kong,JST,0,Hong Kong,9
-Hong Kong,LMT,0,Hong Kong,7.612
-Honduras,CDT,1,Tegucigalpa,-5
-Honduras,CST,0,Tegucigalpa,-6
-Honduras,LMT,0,Tegucigalpa,-5.814
-Croatia,CEST,1,Zagreb,2
-Croatia,CET,0,Zagreb,1
-Haiti,EDT,1,Port-au-Prince,-4
-Haiti,EST,0,Port-au-Prince,-5
-Haiti,PPMT,0,Port-au-Prince,-4.817
-Hungary,CEST,1,Budapest,2
-Hungary,CET,0,Budapest,1
-Indonesia,BMT,0,Jakarta,7.12
-Indonesia,JAVT,0,Jakarta,7.333
-Indonesia,JST,0,Jakarta,9
-Indonesia,WIB,0,Jakarta,7.5
-Indonesia,WIB,0,Jakarta,7
-Indonesia,WIB,0,Jakarta,8
-Indonesia,JST,0,Pontianak,9
-Indonesia,LMT,0,Pontianak,7.289
-Indonesia,PMT,0,Pontianak,7.289
-Indonesia,WIB,0,Pontianak,7.5
-Indonesia,WIB,0,Pontianak,8
-Indonesia,WIB,0,Pontianak,7
-Indonesia,WITA,0,Pontianak,8
-Indonesia,JST,0,Makassar,9
-Indonesia,LMT,0,Makassar,7.96
-Indonesia,MMT,0,Makassar,7.96
-Indonesia,WITA,0,Makassar,8
-Indonesia,ACST,0,Jayapura,9.5
-Indonesia,LMT,0,Jayapura,9.38
-Indonesia,WIT,0,Jayapura,9
-Ireland,BST,1,Dublin,1
-Ireland,DMT,0,Dublin,-0.422
-Ireland,GMT,0,Dublin,0
-Ireland,IST,1,Dublin,1
-Ireland,IST,1,Dublin,0.578
-Ireland,IST,0,Dublin,1
-Israel,IDDT,1,Jerusalem,4
-Israel,IDT,1,Jerusalem,3
-Israel,IST,0,Jerusalem,2
-Israel,JMT,0,Jerusalem,2.344
-Isle of Man,BDST,1,Isle of Man,2
-Isle of Man,BST,1,Isle of Man,1
-Isle of Man,BST,0,Isle of Man,1
-Isle of Man,GMT,0,Isle of Man,0
-India,BURT,0,Kolkata,6.5
-India,HMT,0,Kolkata,5.889
-India,IST,0,Kolkata,5.5
-India,IST,1,Kolkata,6.5
-British Indian Ocean Territory,IOT,0,Chagos,5
-British Indian Ocean Territory,IOT,0,Chagos,6
-British Indian Ocean Territory,LMT,0,Chagos,4.828
-Iraq,ADT,1,Baghdad,4
-Iraq,AST,0,Baghdad,3
-Iraq,BMT,0,Baghdad,2.96
-Iran,IRDT,1,Tehran,4.5
-Iran,IRDT,1,Tehran,5
-Iran,IRST,0,Tehran,3.5
-Iran,IRST,0,Tehran,4
-Iran,LMT,0,Tehran,3.429
-Iran,TMT,0,Tehran,3.429
-Iceland,GMT,0,Reykjavik,0
-Iceland,ISST,1,Reykjavik,0
-Iceland,IST,0,Reykjavik,-1
-Iceland,LMT,0,Reykjavik,-1.467
-Italy,CEST,1,Rome,2
-Italy,CET,0,Rome,1
-Jersey,BDST,1,Jersey,2
-Jersey,BST,1,Jersey,1
-Jersey,BST,0,Jersey,1
-Jersey,GMT,0,Jersey,0
-Jamaica,EDT,1,Jamaica,-4
-Jamaica,EST,0,Jamaica,-5
-Jamaica,KMT,0,Jamaica,-5.12
-Jordan,EEST,1,Amman,3
-Jordan,EET,0,Amman,2
-Jordan,LMT,0,Amman,2.396
-Japan,JCST,0,Tokyo,9
-Japan,JDT,1,Tokyo,10
-Japan,JST,0,Tokyo,9
-Kenya,BEAT,0,Nairobi,2.5
-Kenya,BEAUT,0,Nairobi,2.75
-Kenya,EAT,0,Nairobi,3
-Kenya,LMT,0,Nairobi,2.454
-Kyrgyzstan,FRUST,1,Bishkek,7
-Kyrgyzstan,FRUST,1,Bishkek,6
-Kyrgyzstan,FRUT,0,Bishkek,6
-Kyrgyzstan,FRUT,0,Bishkek,5
-Kyrgyzstan,KGST,1,Bishkek,6
-Kyrgyzstan,KGT,0,Bishkek,5
-Kyrgyzstan,KGT,0,Bishkek,6
-Kyrgyzstan,LMT,0,Bishkek,4.973
-Cambodia,BMT,0,Phnom Penh,6.701
-Cambodia,ICT,0,Phnom Penh,7
-Kiribati,GILT,0,Tarawa,12
-Kiribati,PHOT,0,Enderbury,-12
-Kiribati,PHOT,0,Enderbury,13
-Kiribati,PHOT,0,Enderbury,-11
-Kiribati,LINT,0,Kiritimati,-10.667
-Kiribati,LINT,0,Kiritimati,14
-Kiribati,LINT,0,Kiritimati,-10
-Comoros,BEAT,0,Comoro,2.5
-Comoros,BEAUT,0,Comoro,2.75
-Comoros,EAT,0,Comoro,3
-Comoros,LMT,0,Comoro,2.454
-Saint Kitts and Nevis,AST,0,St Kitts,-4
-Saint Kitts and Nevis,LMT,0,St Kitts,-4.101
-North Korea,JCST,0,Pyongyang,9
-North Korea,JST,0,Pyongyang,9
-North Korea,KST,0,Pyongyang,8.5
-North Korea,KST,0,Pyongyang,9
-North Korea,LMT,0,Pyongyang,8.383
-South Korea,JCST,0,Seoul,9
-South Korea,JST,0,Seoul,9
-South Korea,KDT,1,Seoul,9.5
-South Korea,KDT,1,Seoul,10
-South Korea,KST,0,Seoul,8.5
-South Korea,KST,0,Seoul,9
-South Korea,LMT,0,Seoul,8.464
-Kuwait,AST,0,Kuwait,3
-Kuwait,LMT,0,Kuwait,3.114
-Cayman Islands,CMT,0,Cayman,-5.327
-Cayman Islands,EST,0,Cayman,-5
-Kazakhstan,5,0,Almaty,5
-Kazakhstan,6,0,Almaty,6
-Kazakhstan,6,1,Almaty,6
-Kazakhstan,7,1,Almaty,7
-Kazakhstan,LMT,0,Almaty,5.13
-Kazakhstan,4,0,Qyzylorda,4
-Kazakhstan,5,0,Qyzylorda,5
-Kazakhstan,5,1,Qyzylorda,5
-Kazakhstan,6,1,Qyzylorda,6
-Kazakhstan,6,0,Qyzylorda,6
-Kazakhstan,LMT,0,Qyzylorda,4.364
-Kazakhstan,4,0,Aqtobe,4
-Kazakhstan,5,0,Aqtobe,5
-Kazakhstan,5,1,Aqtobe,5
-Kazakhstan,6,1,Aqtobe,6
-Kazakhstan,6,0,Aqtobe,6
-Kazakhstan,LMT,0,Aqtobe,3.811
-Kazakhstan,4,0,Aqtau,4
-Kazakhstan,5,0,Aqtau,5
-Kazakhstan,5,1,Aqtau,5
-Kazakhstan,6,0,Aqtau,6
-Kazakhstan,6,1,Aqtau,6
-Kazakhstan,LMT,0,Aqtau,3.351
-Kazakhstan,4,0,Oral,4
-Kazakhstan,5,0,Oral,5
-Kazakhstan,5,1,Oral,5
-Kazakhstan,6,1,Oral,6
-Kazakhstan,6,0,Oral,6
-Kazakhstan,LMT,0,Oral,3.423
-Laos,BMT,0,Vientiane,6.701
-Laos,ICT,0,Vientiane,7
-Lebanon,EEST,1,Beirut,3
-Lebanon,EET,0,Beirut,2
-Saint Lucia,AST,0,St Lucia,-4
-Saint Lucia,LMT,0,St Lucia,-4.101
-Liechtenstein,CEST,1,Vaduz,2
-Liechtenstein,CET,0,Vaduz,1
-Sri Lanka,IHST,1,Colombo,6
-Sri Lanka,IST,0,Colombo,5.5
-Sri Lanka,IST,1,Colombo,6.5
-Sri Lanka,LKT,0,Colombo,6.5
-Sri Lanka,LKT,0,Colombo,6
-Sri Lanka,MMT,0,Colombo,5.326
-Liberia,GMT,0,Monrovia,0
-Liberia,LRT,0,Monrovia,-0.742
-Liberia,MMT,0,Monrovia,-0.719
-Lesotho,SAST,0,Maseru,2
-Lesotho,SAST,0,Maseru,1.5
-Lesotho,SAST,1,Maseru,3
-Lithuania,CEST,1,Vilnius,2
-Lithuania,CET,0,Vilnius,1
-Lithuania,EEST,1,Vilnius,3
-Lithuania,EET,0,Vilnius,2
-Lithuania,KMT,0,Vilnius,1.593
-Lithuania,MSD,1,Vilnius,4
-Lithuania,MSK,0,Vilnius,3
-Lithuania,WMT,0,Vilnius,1.4
-Luxembourg,CEST,1,Luxembourg,2
-Luxembourg,CET,0,Luxembourg,1
-Luxembourg,LMT,0,Luxembourg,0.41
-Luxembourg,WEST,1,Luxembourg,1
-Luxembourg,WEST,1,Luxembourg,2
-Luxembourg,WET,0,Luxembourg,0
-Luxembourg,WET,0,Luxembourg,1
-Latvia,CEST,1,Riga,2
-Latvia,CET,0,Riga,1
-Latvia,EEST,1,Riga,3
-Latvia,EET,0,Riga,2
-Latvia,LST,1,Riga,2.609
-Latvia,MSD,1,Riga,4
-Latvia,MSK,0,Riga,3
-Latvia,RMT,0,Riga,1.609
-Libya,CEST,1,Tripoli,2
-Libya,CET,0,Tripoli,1
-Libya,EET,0,Tripoli,2
-Libya,LMT,0,Tripoli,0.879
-Morocco,CET,0,Casablanca,1
-Morocco,LMT,0,Casablanca,-0.506
-Morocco,WEST,1,Casablanca,1
-Morocco,WET,0,Casablanca,0
-Monaco,CEST,1,Monaco,2
-Monaco,CET,0,Monaco,1
-Monaco,PMT,0,Monaco,0.156
-Monaco,WEMT,1,Monaco,2
-Monaco,WEST,1,Monaco,1
-Monaco,WET,0,Monaco,0
-Moldova,BMT,0,Chisinau,1.74
-Moldova,CEST,1,Chisinau,2
-Moldova,CET,0,Chisinau,1
-Moldova,CMT,0,Chisinau,1.917
-Moldova,EEST,1,Chisinau,3
-Moldova,EET,0,Chisinau,2
-Moldova,MSD,1,Chisinau,4
-Moldova,MSK,0,Chisinau,3
-Montenegro,CEST,1,Podgorica,2
-Montenegro,CET,0,Podgorica,1
-Saint Martin,AST,0,Marigot,-4
-Saint Martin,LMT,0,Marigot,-4.101
-Madagascar,BEAT,0,Antananarivo,2.5
-Madagascar,BEAUT,0,Antananarivo,2.75
-Madagascar,EAT,0,Antananarivo,3
-Madagascar,LMT,0,Antananarivo,2.454
-Marshall Islands,MHT,0,Majuro,11
-Marshall Islands,MHT,0,Majuro,12
-Marshall Islands,KWAT,0,Kwajalein,-12
-Marshall Islands,MHT,0,Kwajalein,11
-Marshall Islands,MHT,0,Kwajalein,12
-Macedonia,CEST,1,Skopje,2
-Macedonia,CET,0,Skopje,1
-Mali,GMT,0,Bamako,0
-Mali,LMT,0,Bamako,-0.269
-Myanmar,BURT,0,Rangoon,6.5
-Myanmar,JST,0,Rangoon,9
-Myanmar,MMT,0,Rangoon,6.5
-Myanmar,RMT,0,Rangoon,6.411
-Mongolia,LMT,0,Ulaanbaatar,7.126
-Mongolia,ULAST,1,Ulaanbaatar,9
-Mongolia,ULAT,0,Ulaanbaatar,7
-Mongolia,ULAT,0,Ulaanbaatar,8
-Mongolia,HOVST,1,Hovd,8
-Mongolia,HOVT,0,Hovd,6
-Mongolia,HOVT,0,Hovd,7
-Mongolia,LMT,0,Hovd,6.11
-Mongolia,CHOST,1,Choibalsan,10
-Mongolia,CHOST,1,Choibalsan,9
-Mongolia,CHOT,0,Choibalsan,9
-Mongolia,CHOT,0,Choibalsan,8
-Mongolia,LMT,0,Choibalsan,7.633
-Mongolia,ULAT,0,Choibalsan,7
-Mongolia,ULAT,0,Choibalsan,8
-Macao,CST,0,Macau,8
-Macao,LMT,0,Macau,7.572
-Macao,MOST,1,Macau,9
-Macao,MOT,0,Macau,8
-Northern Mariana Islands,ChST,0,Saipan,10
-Northern Mariana Islands,GST,0,Saipan,10
-Martinique,ADT,1,Martinique,-3
-Martinique,AST,0,Martinique,-4
-Martinique,FFMT,0,Martinique,-4.072
-Mauritania,GMT,0,Nouakchott,0
-Mauritania,LMT,0,Nouakchott,-0.269
-Montserrat,AST,0,Montserrat,-4
-Montserrat,LMT,0,Montserrat,-4.101
-Malta,CEST,1,Malta,2
-Malta,CET,0,Malta,1
-Mauritius,LMT,0,Mauritius,3.833
-Mauritius,MUST,1,Mauritius,5
-Mauritius,MUT,0,Mauritius,4
-Maldives,MMT,0,Maldives,4.9
-Maldives,MVT,0,Maldives,5
-Malawi,CAT,0,Blantyre,2
-Malawi,LMT,0,Blantyre,2.172
-Mexico,CDT,1,Mexico City,-5
-Mexico,CST,0,Mexico City,-6
-Mexico,CWT,1,Mexico City,-5
-Mexico,LMT,0,Mexico City,-6.61
-Mexico,MST,0,Mexico City,-7
-Mexico,CDT,1,Cancun,-5
-Mexico,CST,0,Cancun,-6
-Mexico,EDT,1,Cancun,-4
-Mexico,EST,0,Cancun,-5
-Mexico,LMT,0,Cancun,-5.784
-Mexico,CDT,1,Merida,-5
-Mexico,CST,0,Merida,-6
-Mexico,EST,0,Merida,-5
-Mexico,LMT,0,Merida,-5.974
-Mexico,CDT,1,Monterrey,-5
-Mexico,CST,0,Monterrey,-6
-Mexico,LMT,0,Monterrey,-6.688
-Mexico,CDT,1,Matamoros,-5
-Mexico,CST,0,Matamoros,-6
-Mexico,LMT,0,Matamoros,-6.667
-Mexico,CST,0,Mazatlan,-6
-Mexico,LMT,0,Mazatlan,-7.094
-Mexico,MDT,1,Mazatlan,-6
-Mexico,MST,0,Mazatlan,-7
-Mexico,PST,0,Mazatlan,-8
-Mexico,CDT,1,Chihuahua,-5
-Mexico,CST,0,Chihuahua,-6
-Mexico,LMT,0,Chihuahua,-7.072
-Mexico,MDT,1,Chihuahua,-6
-Mexico,MST,0,Chihuahua,-7
-Mexico,CDT,1,Ojinaga,-5
-Mexico,CST,0,Ojinaga,-6
-Mexico,LMT,0,Ojinaga,-6.961
-Mexico,MDT,1,Ojinaga,-6
-Mexico,MST,0,Ojinaga,-7
-Mexico,CST,0,Hermosillo,-6
-Mexico,LMT,0,Hermosillo,-7.398
-Mexico,MDT,1,Hermosillo,-6
-Mexico,MST,0,Hermosillo,-7
-Mexico,PST,0,Hermosillo,-8
-Mexico,LMT,0,Tijuana,-7.801
-Mexico,MST,0,Tijuana,-7
-Mexico,PDT,1,Tijuana,-7
-Mexico,PPT,1,Tijuana,-7
-Mexico,PST,0,Tijuana,-8
-Mexico,PWT,1,Tijuana,-7
-Mexico,CDT,1,Bahia Banderas,-5
-Mexico,CST,0,Bahia Banderas,-6
-Mexico,LMT,0,Bahia Banderas,-7.017
-Mexico,MDT,1,Bahia Banderas,-6
-Mexico,MST,0,Bahia Banderas,-7
-Mexico,PST,0,Bahia Banderas,-8
-Malaysia,JST,0,Kuala Lumpur,9
-Malaysia,MALST,1,Kuala Lumpur,7.333
-Malaysia,MALT,0,Kuala Lumpur,7.333
-Malaysia,MALT,0,Kuala Lumpur,7
-Malaysia,MALT,0,Kuala Lumpur,7.5
-Malaysia,MYT,0,Kuala Lumpur,8
-Malaysia,SMT,0,Kuala Lumpur,6.924
-Malaysia,BORT,0,Kuching,8
-Malaysia,BORT,0,Kuching,7.5
-Malaysia,BORTST,1,Kuching,8.333
-Malaysia,JST,0,Kuching,9
-Malaysia,LMT,0,Kuching,7.356
-Malaysia,MYT,0,Kuching,8
-Mozambique,CAT,0,Maputo,2
-Mozambique,LMT,0,Maputo,2.172
-Namibia,CAT,0,Windhoek,2
-Namibia,SAST,0,Windhoek,2
-Namibia,SAST,1,Windhoek,3
-Namibia,SWAT,0,Windhoek,1.5
-Namibia,WAST,1,Windhoek,2
-Namibia,WAT,0,Windhoek,1
-New Caledonia,LMT,0,Noumea,11.097
-New Caledonia,NCST,1,Noumea,12
-New Caledonia,NCT,0,Noumea,11
-Niger,WAT,0,Niamey,1
-Norfolk Island,NFST,1,Norfolk,12.5
-Norfolk Island,NFT,0,Norfolk,11.5
-Norfolk Island,NFT,0,Norfolk,11
-Norfolk Island,NMT,0,Norfolk,11.2
-Nigeria,WAT,0,Lagos,1
-Nicaragua,CDT,1,Managua,-5
-Nicaragua,CST,0,Managua,-6
-Nicaragua,EST,0,Managua,-5
-Nicaragua,MMT,0,Managua,-5.753
-Netherlands,AMT,0,Amsterdam,0.326
-Netherlands,CEST,1,Amsterdam,2
-Netherlands,CET,0,Amsterdam,1
-Netherlands,NEST,1,Amsterdam,1.333
-Netherlands,NET,0,Amsterdam,0.333
-Netherlands,NST,1,Amsterdam,1.326
-Norway,CEST,1,Oslo,2
-Norway,CET,0,Oslo,1
-Nepal,IST,0,Kathmandu,5.5
-Nepal,LMT,0,Kathmandu,5.688
-Nepal,NPT,0,Kathmandu,5.75
-Nauru,JST,0,Nauru,9
-Nauru,LMT,0,Nauru,11.128
-Nauru,NRT,0,Nauru,11.5
-Nauru,NRT,0,Nauru,12
-Niue,NUT,0,Niue,-11.333
-Niue,NUT,0,Niue,-11.5
-Niue,NUT,0,Niue,-11
-New Zealand,NZDT,1,Auckland,13
-New Zealand,NZMT,0,Auckland,11.5
-New Zealand,NZST,1,Auckland,12
-New Zealand,NZST,1,Auckland,12.5
-New Zealand,NZST,0,Auckland,12
-New Zealand,CHADT,1,Chatham,13.75
-New Zealand,CHAST,0,Chatham,12.25
-New Zealand,CHAST,0,Chatham,12.75
-Oman,GST,0,Muscat,4
-Oman,LMT,0,Muscat,3.687
-Panama,CMT,0,Panama,-5.327
-Panama,EST,0,Panama,-5
-Peru,LMT,0,Lima,-5.143
-Peru,PEST,1,Lima,-4
-Peru,PET,0,Lima,-5
-French Polynesia,LMT,0,Tahiti,-9.971
-French Polynesia,TAHT,0,Tahiti,-10
-French Polynesia,LMT,0,Marquesas,-9.3
-French Polynesia,MART,0,Marquesas,-9.5
-French Polynesia,GAMT,0,Gambier,-9
-French Polynesia,LMT,0,Gambier,-8.997
-Papua New Guinea,PGT,0,Port Moresby,10
-Papua New Guinea,BST,0,Bougainville,11
-Papua New Guinea,JST,0,Bougainville,9
-Papua New Guinea,PGT,0,Bougainville,10
-Philippines,JST,0,Manila,9
-Philippines,PHST,1,Manila,9
-Philippines,PHT,0,Manila,8
-Pakistan,IST,0,Karachi,5.5
-Pakistan,IST,1,Karachi,6.5
-Pakistan,KART,0,Karachi,5
-Pakistan,LMT,0,Karachi,4.47
-Pakistan,PKST,1,Karachi,6
-Pakistan,PKT,0,Karachi,5
-Poland,CEST,1,Warsaw,2
-Poland,CET,0,Warsaw,1
-Poland,EEST,1,Warsaw,3
-Poland,EET,0,Warsaw,2
-Poland,WMT,0,Warsaw,1.4
-Saint Pierre and Miquelon,AST,0,Miquelon,-4
-Saint Pierre and Miquelon,LMT,0,Miquelon,-3.744
-Saint Pierre and Miquelon,PMDT,1,Miquelon,-2
-Saint Pierre and Miquelon,PMST,0,Miquelon,-3
-Pitcairn,PNT,0,Pitcairn,-8.5
-Pitcairn,PST,0,Pitcairn,-8
-Puerto Rico,APT,1,Puerto Rico,-3
-Puerto Rico,AST,0,Puerto Rico,-4
-Puerto Rico,AWT,1,Puerto Rico,-3
-Palestinian Territory,EEST,1,Gaza,3
-Palestinian Territory,EET,0,Gaza,2
-Palestinian Territory,EET,1,Gaza,3
-Palestinian Territory,IDT,1,Gaza,3
-Palestinian Territory,IST,0,Gaza,2
-Palestinian Territory,EEST,1,Hebron,3
-Palestinian Territory,EET,0,Hebron,2
-Palestinian Territory,EET,1,Hebron,3
-Palestinian Territory,IDT,1,Hebron,3
-Palestinian Territory,IST,0,Hebron,2
-Portugal,CEST,1,Lisbon,2
-Portugal,CET,0,Lisbon,1
-Portugal,LMT,0,Lisbon,-0.612
-Portugal,WEMT,1,Lisbon,2
-Portugal,WEST,1,Lisbon,1
-Portugal,WET,0,Lisbon,0
-Portugal,FMT,0,Madeira,-1.127
-Portugal,MADMT,1,Madeira,1
-Portugal,MADST,1,Madeira,0
-Portugal,MADT,0,Madeira,-1
-Portugal,WEST,1,Madeira,1
-Portugal,WET,0,Madeira,0
-Portugal,AZOMT,1,Azores,0
-Portugal,AZOST,1,Azores,-1
-Portugal,AZOST,1,Azores,0
-Portugal,AZOT,0,Azores,-2
-Portugal,AZOT,0,Azores,-1
-Portugal,HMT,0,Azores,-1.909
-Portugal,WET,0,Azores,0
-Palau,PWT,0,Palau,9
-Paraguay,AMT,0,Asuncion,-3.844
-Paraguay,PYST,1,Asuncion,-3
-Paraguay,PYT,0,Asuncion,-4
-Paraguay,PYT,0,Asuncion,-3
-Qatar,AST,0,Qatar,3
-Qatar,GST,0,Qatar,4
-Qatar,LMT,0,Qatar,3.436
-Reunion,LMT,0,Reunion,3.698
-Reunion,RET,0,Reunion,4
-Romania,BMT,0,Bucharest,1.74
-Romania,EEST,1,Bucharest,3
-Romania,EET,0,Bucharest,2
-Serbia,CEST,1,Belgrade,2
-Serbia,CET,0,Belgrade,1
-Russia,CEST,1,Kaliningrad,2
-Russia,CEST,1,Kaliningrad,3
-Russia,CET,0,Kaliningrad,1
-Russia,CET,0,Kaliningrad,2
-Russia,EEST,1,Kaliningrad,3
-Russia,EET,0,Kaliningrad,2
-Russia,FET,0,Kaliningrad,3
-Russia,MSD,1,Kaliningrad,4
-Russia,MSK,0,Kaliningrad,3
-Russia,EEST,1,Moscow,3
-Russia,EET,0,Moscow,2
-Russia,MDST,1,Moscow,4.522
-Russia,MMT,0,Moscow,2.522
-Russia,MMT,0,Moscow,2.505
-Russia,MSD,1,Moscow,4
-Russia,MSK,0,Moscow,3
-Russia,MSK,0,Moscow,4
-Russia,MSM,1,Moscow,5
-Russia,MST,1,Moscow,3.522
-Russia,CEST,1,Simferopol,2
-Russia,CET,0,Simferopol,1
-Russia,EEST,1,Simferopol,3
-Russia,EET,0,Simferopol,2
-Russia,MSD,1,Simferopol,4
-Russia,MSK,0,Simferopol,3
-Russia,MSK,0,Simferopol,4
-Russia,SMT,0,Simferopol,2.267
-Russia,LMT,0,Volgograd,2.961
-Russia,MSD,1,Volgograd,4
-Russia,MSK,0,Volgograd,3
-Russia,MSK,0,Volgograd,4
-Russia,STAT,0,Volgograd,4
-Russia,STAT,0,Volgograd,3
-Russia,TSAT,0,Volgograd,3
-Russia,VOLST,1,Volgograd,5
-Russia,VOLST,1,Volgograd,4
-Russia,VOLT,0,Volgograd,4
-Russia,VOLT,0,Volgograd,3
-Russia,3,0,Kirov,3
-Russia,4,0,Kirov,4
-Russia,4,1,Kirov,4
-Russia,5,1,Kirov,5
-Russia,LMT,0,Kirov,3.313
-Russia,3,0,Astrakhan,3
-Russia,4,0,Astrakhan,4
-Russia,4,1,Astrakhan,4
-Russia,5,1,Astrakhan,5
-Russia,LMT,0,Astrakhan,3.203
-Russia,EEST,1,Samara,3
-Russia,KUYST,1,Samara,5
-Russia,KUYT,0,Samara,4
-Russia,LMT,0,Samara,3.339
-Russia,MSD,1,Samara,4
-Russia,MSK,0,Samara,3
-Russia,SAMST,1,Samara,5
-Russia,SAMST,1,Samara,4
-Russia,SAMT,0,Samara,4
-Russia,SAMT,0,Samara,3
-Russia,2,0,Ulyanovsk,2
-Russia,3,0,Ulyanovsk,3
-Russia,3,1,Ulyanovsk,3
-Russia,4,0,Ulyanovsk,4
-Russia,4,1,Ulyanovsk,4
-Russia,5,1,Ulyanovsk,5
-Russia,LMT,0,Yekaterinburg,4.043
-Russia,PMT,0,Yekaterinburg,3.751
-Russia,SVEST,1,Yekaterinburg,6
-Russia,SVEST,1,Yekaterinburg,5
-Russia,SVET,0,Yekaterinburg,5
-Russia,SVET,0,Yekaterinburg,4
-Russia,YEKST,1,Yekaterinburg,6
-Russia,YEKT,0,Yekaterinburg,5
-Russia,YEKT,0,Yekaterinburg,6
-Russia,LMT,0,Omsk,4.892
-Russia,OMSST,1,Omsk,7
-Russia,OMSST,1,Omsk,6
-Russia,OMST,0,Omsk,6
-Russia,OMST,0,Omsk,5
-Russia,OMST,0,Omsk,7
-Russia,LMT,0,Novosibirsk,5.528
-Russia,NOVST,1,Novosibirsk,7
-Russia,NOVST,1,Novosibirsk,8
-Russia,NOVT,0,Novosibirsk,7
-Russia,NOVT,0,Novosibirsk,6
-Russia,6,0,Barnaul,6
-Russia,7,0,Barnaul,7
-Russia,7,1,Barnaul,7
-Russia,8,1,Barnaul,8
-Russia,LMT,0,Barnaul,5.583
-Russia,6,0,Tomsk,6
-Russia,7,0,Tomsk,7
-Russia,7,1,Tomsk,7
-Russia,8,1,Tomsk,8
-Russia,LMT,0,Tomsk,5.664
-Russia,KRAST,1,Novokuznetsk,8
-Russia,KRAST,1,Novokuznetsk,7
-Russia,KRAT,0,Novokuznetsk,7
-Russia,KRAT,0,Novokuznetsk,6
-Russia,LMT,0,Novokuznetsk,5.813
-Russia,NOVST,1,Novokuznetsk,7
-Russia,NOVT,0,Novokuznetsk,6
-Russia,NOVT,0,Novokuznetsk,7
-Russia,KRAST,1,Krasnoyarsk,8
-Russia,KRAST,1,Krasnoyarsk,7
-Russia,KRAT,0,Krasnoyarsk,7
-Russia,KRAT,0,Krasnoyarsk,6
-Russia,KRAT,0,Krasnoyarsk,8
-Russia,LMT,0,Krasnoyarsk,6.191
-Russia,IMT,0,Irkutsk,6.951
-Russia,IRKST,1,Irkutsk,9
-Russia,IRKST,1,Irkutsk,8
-Russia,IRKT,0,Irkutsk,8
-Russia,IRKT,0,Irkutsk,7
-Russia,IRKT,0,Irkutsk,9
-Russia,IRKT,0,Chita,8
-Russia,LMT,0,Chita,7.564
-Russia,YAKST,1,Chita,10
-Russia,YAKST,1,Chita,9
-Russia,YAKT,0,Chita,9
-Russia,YAKT,0,Chita,8
-Russia,YAKT,0,Chita,10
-Russia,LMT,0,Yakutsk,8.649
-Russia,YAKST,1,Yakutsk,10
-Russia,YAKST,1,Yakutsk,9
-Russia,YAKT,0,Yakutsk,9
-Russia,YAKT,0,Yakutsk,8
-Russia,YAKT,0,Yakutsk,10
-Russia,LMT,0,Khandyga,9.037
-Russia,VLAST,1,Khandyga,11
-Russia,VLAT,0,Khandyga,10
-Russia,VLAT,0,Khandyga,11
-Russia,YAKST,1,Khandyga,10
-Russia,YAKST,1,Khandyga,9
-Russia,YAKT,0,Khandyga,9
-Russia,YAKT,0,Khandyga,8
-Russia,YAKT,0,Khandyga,10
-Russia,LMT,0,Vladivostok,8.792
-Russia,VLAST,1,Vladivostok,11
-Russia,VLAST,1,Vladivostok,10
-Russia,VLAT,0,Vladivostok,10
-Russia,VLAT,0,Vladivostok,9
-Russia,VLAT,0,Vladivostok,11
-Russia,LMT,0,Ust-Nera,9.548
-Russia,MAGST,1,Ust-Nera,12
-Russia,MAGST,1,Ust-Nera,11
-Russia,MAGT,0,Ust-Nera,11
-Russia,MAGT,0,Ust-Nera,12
-Russia,MAGT,0,Ust-Nera,10
-Russia,VLAT,0,Ust-Nera,11
-Russia,VLAT,0,Ust-Nera,10
-Russia,YAKT,0,Ust-Nera,9
-Russia,YAKT,0,Ust-Nera,8
-Russia,LMT,0,Magadan,10.053
-Russia,MAGST,1,Magadan,12
-Russia,MAGST,1,Magadan,11
-Russia,MAGT,0,Magadan,11
-Russia,MAGT,0,Magadan,10
-Russia,MAGT,0,Magadan,12
-Russia,JCST,0,Sakhalin,9
-Russia,JST,0,Sakhalin,9
-Russia,LMT,0,Sakhalin,9.513
-Russia,SAKST,1,Sakhalin,11
-Russia,SAKST,1,Sakhalin,12
-Russia,SAKT,0,Sakhalin,11
-Russia,SAKT,0,Sakhalin,10
-Russia,LMT,0,Srednekolymsk,10.248
-Russia,MAGST,1,Srednekolymsk,12
-Russia,MAGST,1,Srednekolymsk,11
-Russia,MAGT,0,Srednekolymsk,11
-Russia,MAGT,0,Srednekolymsk,10
-Russia,MAGT,0,Srednekolymsk,12
-Russia,SRET,0,Srednekolymsk,11
-Russia,LMT,0,Kamchatka,10.577
-Russia,PETST,1,Kamchatka,13
-Russia,PETST,1,Kamchatka,12
-Russia,PETT,0,Kamchatka,12
-Russia,PETT,0,Kamchatka,11
-Russia,ANAST,1,Anadyr,13
-Russia,ANAST,1,Anadyr,12
-Russia,ANAST,1,Anadyr,14
-Russia,ANAT,0,Anadyr,13
-Russia,ANAT,0,Anadyr,12
-Russia,ANAT,0,Anadyr,11
-Russia,LMT,0,Anadyr,11.832
-Rwanda,CAT,0,Kigali,2
-Rwanda,LMT,0,Kigali,2.172
-Saudi Arabia,AST,0,Riyadh,3
-Saudi Arabia,LMT,0,Riyadh,3.114
-Solomon Islands,LMT,0,Guadalcanal,10.663
-Solomon Islands,SBT,0,Guadalcanal,11
-Seychelles,LMT,0,Mahe,3.697
-Seychelles,SCT,0,Mahe,4
-Sudan,CAST,1,Khartoum,3
-Sudan,CAT,0,Khartoum,2
-Sudan,EAT,0,Khartoum,3
-Sudan,LMT,0,Khartoum,2.169
-Sweden,CEST,1,Stockholm,2
-Sweden,CET,0,Stockholm,1
-Singapore,JST,0,Singapore,9
-Singapore,MALST,1,Singapore,7.333
-Singapore,MALT,0,Singapore,7.333
-Singapore,MALT,0,Singapore,7
-Singapore,MALT,0,Singapore,7.5
-Singapore,SGT,0,Singapore,7.5
-Singapore,SGT,0,Singapore,8
-Singapore,SMT,0,Singapore,6.924
-Saint Helena,GMT,0,St Helena,0
-Saint Helena,LMT,0,St Helena,-0.269
-Slovenia,CEST,1,Ljubljana,2
-Slovenia,CET,0,Ljubljana,1
-Svalbard and Jan Mayen,CEST,1,Longyearbyen,2
-Svalbard and Jan Mayen,CET,0,Longyearbyen,1
-Slovakia,CEST,1,Bratislava,2
-Slovakia,CET,0,Bratislava,1
-Sierra Leone,GMT,0,Freetown,0
-Sierra Leone,LMT,0,Freetown,-0.269
-San Marino,CEST,1,San Marino,2
-San Marino,CET,0,San Marino,1
-Senegal,GMT,0,Dakar,0
-Senegal,LMT,0,Dakar,-0.269
-Somalia,BEAT,0,Mogadishu,2.5
-Somalia,BEAUT,0,Mogadishu,2.75
-Somalia,EAT,0,Mogadishu,3
-Somalia,LMT,0,Mogadishu,2.454
-Suriname,LMT,0,Paramaribo,-3.678
-Suriname,NEGT,0,Paramaribo,-3.5
-Suriname,PMT,0,Paramaribo,-3.677
-Suriname,SRT,0,Paramaribo,-3.5
-Suriname,SRT,0,Paramaribo,-3
-South Sudan,CAST,1,Juba,3
-South Sudan,CAT,0,Juba,2
-South Sudan,EAT,0,Juba,3
-South Sudan,LMT,0,Juba,2.169
-Sao Tome and Principe,GMT,0,Sao Tome,0
-Sao Tome and Principe,LMT,0,Sao Tome,-0.269
-El Salvador,CDT,1,El Salvador,-5
-El Salvador,CST,0,El Salvador,-6
-El Salvador,LMT,0,El Salvador,-5.947
-Sint Maarten,ANT,0,Lower Princes,-4.5
-Sint Maarten,AST,0,Lower Princes,-4
-Sint Maarten,LMT,0,Lower Princes,-4.596
-Syria,EEST,1,Damascus,3
-Syria,EET,0,Damascus,2
-Syria,LMT,0,Damascus,2.42
-Swaziland,SAST,0,Mbabane,2
-Swaziland,SAST,0,Mbabane,1.5
-Swaziland,SAST,1,Mbabane,3
-Turks and Caicos Islands,AST,0,Grand Turk,-4
-Turks and Caicos Islands,EDT,1,Grand Turk,-4
-Turks and Caicos Islands,EST,0,Grand Turk,-5
-Turks and Caicos Islands,KMT,0,Grand Turk,-5.12
-Chad,LMT,0,Ndjamena,1.003
-Chad,WAST,1,Ndjamena,2
-Chad,WAT,0,Ndjamena,1
-French Southern Territories,TFT,0,Kerguelen,5
-Togo,GMT,0,Lome,0
-Togo,LMT,0,Lome,-0.269
-Thailand,BMT,0,Bangkok,6.701
-Thailand,ICT,0,Bangkok,7
-Tajikistan,DUSST,1,Dushanbe,7
-Tajikistan,DUSST,1,Dushanbe,6
-Tajikistan,DUST,0,Dushanbe,6
-Tajikistan,DUST,0,Dushanbe,5
-Tajikistan,LMT,0,Dushanbe,4.587
-Tajikistan,TJT,0,Dushanbe,5
-Tokelau,TKT,0,Fakaofo,-11
-Tokelau,TKT,0,Fakaofo,13
-East Timor,JST,0,Dili,9
-East Timor,LMT,0,Dili,8.372
-East Timor,TLT,0,Dili,8
-East Timor,TLT,0,Dili,9
-East Timor,WITA,0,Dili,8
-Turkmenistan,ASHST,1,Ashgabat,6
-Turkmenistan,ASHST,1,Ashgabat,5
-Turkmenistan,ASHT,0,Ashgabat,5
-Turkmenistan,ASHT,0,Ashgabat,4
-Turkmenistan,LMT,0,Ashgabat,3.892
-Turkmenistan,TMT,0,Ashgabat,5
-Turkmenistan,TMT,0,Ashgabat,4
-Tunisia,CEST,1,Tunis,2
-Tunisia,CET,0,Tunis,1
-Tunisia,PMT,0,Tunis,0.156
-Tonga,TOST,1,Tongatapu,14
-Tonga,TOT,0,Tongatapu,12.333
-Tonga,TOT,0,Tongatapu,13
-Turkey,EEST,1,Istanbul,3
-Turkey,EET,0,Istanbul,2
-Turkey,IMT,0,Istanbul,1.949
-Turkey,TRST,1,Istanbul,4
-Turkey,TRT,0,Istanbul,3
-Trinidad and Tobago,AST,0,Port of Spain,-4
-Trinidad and Tobago,LMT,0,Port of Spain,-4.101
-Tuvalu,TVT,0,Funafuti,12
-Taiwan,CDT,1,Taipei,9
-Taiwan,CST,0,Taipei,8
-Taiwan,JST,0,Taipei,9
-Taiwan,JWST,0,Taipei,8
-Tanzania,BEAT,0,Dar es Salaam,2.5
-Tanzania,BEAUT,0,Dar es Salaam,2.75
-Tanzania,EAT,0,Dar es Salaam,3
-Tanzania,LMT,0,Dar es Salaam,2.454
-Ukraine,CEST,1,Kiev,2
-Ukraine,CET,0,Kiev,1
-Ukraine,EEST,1,Kiev,3
-Ukraine,EET,0,Kiev,2
-Ukraine,KMT,0,Kiev,2.034
-Ukraine,MSD,1,Kiev,4
-Ukraine,MSK,0,Kiev,3
-Ukraine,CEST,1,Uzhgorod,2
-Ukraine,CET,0,Uzhgorod,1
-Ukraine,EEST,1,Uzhgorod,3
-Ukraine,EET,0,Uzhgorod,2
-Ukraine,MSD,1,Uzhgorod,4
-Ukraine,MSK,0,Uzhgorod,3
-Ukraine,CEST,1,Zaporozhye,2
-Ukraine,CET,0,Zaporozhye,1
-Ukraine,CUT,0,Zaporozhye,2.333
-Ukraine,EEST,1,Zaporozhye,3
-Ukraine,EET,0,Zaporozhye,2
-Ukraine,MSD,1,Zaporozhye,4
-Ukraine,MSK,0,Zaporozhye,3
-Uganda,BEAT,0,Kampala,2.5
-Uganda,BEAUT,0,Kampala,2.75
-Uganda,EAT,0,Kampala,3
-Uganda,LMT,0,Kampala,2.454
-United States Minor Outlying Islands,HDT,1,Johnston,-9.5
-United States Minor Outlying Islands,HST,0,Johnston,-10.5
-United States Minor Outlying Islands,HST,0,Johnston,-10
-United States Minor Outlying Islands,BST,0,Midway,-11
-United States Minor Outlying Islands,LMT,0,Midway,-11.38
-United States Minor Outlying Islands,NST,0,Midway,-11
-United States Minor Outlying Islands,SST,0,Midway,-11
-United States Minor Outlying Islands,WAKT,0,Wake,12
-United States,EDT,1,New York,-4
-United States,EPT,1,New York,-4
-United States,EST,0,New York,-5
-United States,EWT,1,New York,-4
-United States,CST,0,Detroit,-6
-United States,EDT,1,Detroit,-4
-United States,EPT,1,Detroit,-4
-United States,EST,0,Detroit,-5
-United States,EWT,1,Detroit,-4
-United States,LMT,0,Detroit,-5.536
-United States,CDT,1,Chicago,-5
-United States,CPT,1,Chicago,-5
-United States,CST,0,Chicago,-6
-United States,CWT,1,Chicago,-5
-United States,EST,0,Chicago,-5
-United States,CDT,1,Menominee,-5
-United States,CPT,1,Menominee,-5
-United States,CST,0,Menominee,-6
-United States,CWT,1,Menominee,-5
-United States,EST,0,Menominee,-5
-United States,MDT,1,Denver,-6
-United States,MPT,1,Denver,-6
-United States,MST,0,Denver,-7
-United States,MWT,1,Denver,-6
-United States,MDT,1,Boise,-6
-United States,MPT,1,Boise,-6
-United States,MST,0,Boise,-7
-United States,MWT,1,Boise,-6
-United States,PDT,1,Boise,-7
-United States,PST,0,Boise,-8
-United States,MDT,1,Phoenix,-6
-United States,MST,0,Phoenix,-7
-United States,MWT,1,Phoenix,-6
-United States,PDT,1,Los Angeles,-7
-United States,PPT,1,Los Angeles,-7
-United States,PST,0,Los Angeles,-8
-United States,PWT,1,Los Angeles,-7
-United States,AHDT,1,Anchorage,-9
-United States,AHST,0,Anchorage,-10
-United States,AKDT,1,Anchorage,-8
-United States,AKST,0,Anchorage,-9
-United States,CAPT,1,Anchorage,-9
-United States,CAT,0,Anchorage,-10
-United States,CAWT,1,Anchorage,-9
-United States,YST,0,Anchorage,-9
-United States,AKDT,1,Juneau,-8
-United States,AKST,0,Juneau,-9
-United States,PDT,1,Juneau,-7
-United States,PPT,1,Juneau,-7
-United States,PST,0,Juneau,-8
-United States,PWT,1,Juneau,-7
-United States,YDT,1,Juneau,-8
-United States,YST,0,Juneau,-9
-United States,AKDT,1,Sitka,-8
-United States,AKST,0,Sitka,-9
-United States,PDT,1,Sitka,-7
-United States,PPT,1,Sitka,-7
-United States,PST,0,Sitka,-8
-United States,PWT,1,Sitka,-7
-United States,YST,0,Sitka,-9
-United States,AKDT,1,Metlakatla,-8
-United States,AKST,0,Metlakatla,-9
-United States,PDT,1,Metlakatla,-7
-United States,PPT,1,Metlakatla,-7
-United States,PST,0,Metlakatla,-8
-United States,PWT,1,Metlakatla,-7
-United States,AKDT,1,Yakutat,-8
-United States,AKST,0,Yakutat,-9
-United States,YDT,1,Yakutat,-8
-United States,YPT,1,Yakutat,-8
-United States,YST,0,Yakutat,-9
-United States,YWT,1,Yakutat,-8
-United States,AKDT,1,Nome,-8
-United States,AKST,0,Nome,-9
-United States,BDT,1,Nome,-10
-United States,BST,0,Nome,-11
-United States,NPT,1,Nome,-10
-United States,NST,0,Nome,-11
-United States,NWT,1,Nome,-10
-United States,YST,0,Nome,-9
-United States,AHST,0,Adak,-10
-United States,BDT,1,Adak,-10
-United States,BST,0,Adak,-11
-United States,HDT,1,Adak,-9
-United States,HST,0,Adak,-10
-United States,NPT,1,Adak,-10
-United States,NST,0,Adak,-11
-United States,NWT,1,Adak,-10
-United States,HDT,1,Honolulu,-9.5
-United States,HST,0,Honolulu,-10.5
-United States,HST,0,Honolulu,-10
-Uruguay,MMT,0,Montevideo,-3.746
-Uruguay,UYHST,1,Montevideo,-3
-Uruguay,UYHST,1,Montevideo,-2.5
-Uruguay,UYST,1,Montevideo,-2
-Uruguay,UYT,0,Montevideo,-3
-Uruguay,UYT,0,Montevideo,-3.5
-Uzbekistan,LMT,0,Samarkand,4.465
-Uzbekistan,SAMST,1,Samarkand,6
-Uzbekistan,SAMT,0,Samarkand,5
-Uzbekistan,SAMT,0,Samarkand,4
-Uzbekistan,TAST,0,Samarkand,6
-Uzbekistan,UZST,1,Samarkand,6
-Uzbekistan,UZT,0,Samarkand,5
-Uzbekistan,LMT,0,Tashkent,4.62
-Uzbekistan,TASST,1,Tashkent,7
-Uzbekistan,TASST,1,Tashkent,6
-Uzbekistan,TAST,0,Tashkent,6
-Uzbekistan,TAST,0,Tashkent,5
-Uzbekistan,UZST,1,Tashkent,6
-Uzbekistan,UZT,0,Tashkent,5
-Vatican,CEST,1,Vatican,2
-Vatican,CET,0,Vatican,1
-Saint Vincent and the Grenadines,AST,0,St Vincent,-4
-Saint Vincent and the Grenadines,LMT,0,St Vincent,-4.101
-Venezuela,CMT,0,Caracas,-4.461
-Venezuela,VET,0,Caracas,-4
-Venezuela,VET,0,Caracas,-4.5
-British Virgin Islands,AST,0,Tortola,-4
-British Virgin Islands,LMT,0,Tortola,-4.101
-U.S. Virgin Islands,AST,0,St Thomas,-4
-U.S. Virgin Islands,LMT,0,St Thomas,-4.101
-Vietnam,ICT,0,Ho Chi Minh,7
-Vietnam,IDT,0,Ho Chi Minh,8
-Vietnam,JST,0,Ho Chi Minh,9
-Vietnam,LMT,0,Ho Chi Minh,7.111
-Vanuatu,VUST,1,Efate,12
-Vanuatu,VUT,0,Efate,11
-Wallis and Futuna,WFT,0,Wallis,12
-Samoa,LMT,0,Apia,-11.449
-Samoa,SDT,1,Apia,-10
-Samoa,SST,0,Apia,-11
-Samoa,WSDT,1,Apia,14
-Samoa,WSST,0,Apia,-11.5
-Samoa,WSST,0,Apia,13
-Yemen,AST,0,Aden,3
-Yemen,LMT,0,Aden,3.114
-Mayotte,BEAT,0,Mayotte,2.5
-Mayotte,BEAUT,0,Mayotte,2.75
-Mayotte,EAT,0,Mayotte,3
-Mayotte,LMT,0,Mayotte,2.454
-South Africa,SAST,0,Johannesburg,2
-South Africa,SAST,0,Johannesburg,1.5
-South Africa,SAST,1,Johannesburg,3
-Zambia,CAT,0,Lusaka,2
-Zambia,LMT,0,Lusaka,2.172
-Zimbabwe,CAT,0,Harare,2
-Zimbabwe,LMT,0,Harare,2.172
+Country,Standard,Offset,Zone,City,State
+Denmark,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Aalborg,
+Denmark,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Aarhus,
+Canada,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Abbotsford,BC
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Aberdeen,
+Cote d'Ivoire,Greenwich Standard Time,0,Greenwich Mean Time,Abidjan,
+United Arab Emirates,Arabian Standard Time,+04:00,Abu Dhabi~Muscat,Abu Dhabi,
+Nigeria,W. Central Africa Standard Time,+01:00,West Central Africa,Abuja,
+Mexico,Mexico Standard Time,-06:00,Guadalajara~Mexico City~Monterrey,Acapulco,
+Ghana,Greenwich Standard Time,0,Greenwich Mean Time,Accra,
+United States,Hawaii-Aleutian Standard Time,-10:00,Adak,Adak,AK
+Ethiopia,E. Africa Standard Time,+03:00,Nairobi,Addis Ababa,
+Australia,Cen. Australia Standard Time,+09:30,Adelaide,Adelaide,
+Yemen,Arab Standard Time,+03:00,Kuwait~Riyadh,Aden,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Agra,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Ahmedabad,
+Japan,Tokyo Standard Time,+09:00,Osaka~Sapporo~Tokyo,Akita,
+Canada,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Aklavik,NT
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Akron,OH
+Mexico,Quintana Roo~ Mexico,-05:00,Quintana Roo~Mexico,Akumal,
+Saudi Arabia,Arab Standard Time,+03:00,Kuwait~Riyadh,Al Ahsa,
+United Arab Emirates,Arabian Standard Time,+04:00,Abu Dhabi~Muscat,Al Ain,
+Yemen,Arab Standard Time,+03:00,Kuwait~Riyadh,Al Bayda',
+Yemen,Arab Standard Time,+03:00,Kuwait~Riyadh,Al Hudaydah,
+Kuwait,Arab Standard Time,+03:00,Kuwait~Riyadh,Al Jahra,
+Turkey,Turkey Standard Time,+02:00,Turkey,Alacati,
+Costa Rica,Central America Standard Time,-06:00,Central America,Alajuela,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Albany,NY
+Bulgaria,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Albena,
+United States,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Albuquerque,NM
+Australia,AUS Eastern Standard Time,+10:00,Canberra~Melbourne~Sydney,Albury,
+Canada,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Alert,NU
+Egypt,Egypt Standard Time,+02:00,Cairo,Alexandria,
+Algeria,W. Central Africa Standard Time,+01:00,West Central Africa,Algiers,
+Spain,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Alicante,
+Australia,AUS Central Standard Time,+09:30,Darwin,Alice Springs,
+Kazakhstan,Central Asia Standard Time,+06:00,Central Asia,Almaty,
+Spain,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Almeria,
+Niue,Midway Island Standard Time,-11:00,Midway Island,Alofi,
+Russia,Crimean Standard Time,+03:00,Crimea,Alupka,
+Ecuador,SA Pacific Standard Time,-05:00,Bogota~Lima~Quito,Ambato,
+Indonesia,Tokyo Standard Time,+09:00,Osaka~Sapporo~Tokyo,Ambon,
+Netherlands,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Amersfoort,
+Canada,Atlantic Standard Time,-04:00,Atlantic Time (Canada),Amherst,NS
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Amiens,
+Jordan,Jordan Standard Time,+03:00,Jordan,Amman,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Amritsar,
+Netherlands,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Amsterdam,
+Russia,Petropavlovsk Standard Time,+12:00,Petropavlovsk,Anadyr,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Anapa,
+United States,Alaskan Standard Time,-09:00,Alaska,Anchorage,AK
+Italy,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Ancona,
+Andorra,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Andorra la Vella,
+Turkey,Turkey Standard Time,+02:00,Turkey,Ankara,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Annapolis,MD
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Anshan,
+Madagascar,E. Africa Standard Time,+03:00,Nairobi,Antananarivo,
+Guatemala,Guatemala Standard Time,-06:00,Guatemala,Antigua,
+Belgium,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Antwerp,
+Samoa,Samoa Standard Time,-13:00,Samoa,Apia,
+Jordan,Jordan Standard Time,+03:00,Jordan,Aqaba,
+Romania,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Arad,
+Papua New Guinea,Bougainville Standard Time,+11:00,Bougainville Island,Arawa,
+Peru,SA Pacific Standard Time,-05:00,Bogota~Lima~Quito,Arequipa,
+Chile,Chile Standard Time,-03:00,Chile,Arica,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Arkhangelsk,
+Ireland,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Arklow,
+Canada,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Armstrong,BC
+Brazil,E. South America Standard Time,-03:00,Brasilia,Arraial do Cabo,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Arzamas,
+Israel,Israel Standard Time,+02:00,Tel Aviv~Jerusalem,Ashkelon,
+Turkmenistan,West Asia Standard Time,+05:00,Tashkent,Ashkhabad,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Ashland,OR
+Eritrea,Arab Standard Time,+03:00,Kuwait~Riyadh,Asmara,
+Kazakhstan,Central Asia Standard Time,+06:00,Central Asia,Astana,
+Russia,Astrakhan Standard Time,+03:00,Astrakhan,Astrakhan,
+Paraguay,Paraguay Standard Time,-04:00,Paraguay,Asuncion,
+Greece,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Athens,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Atlanta,GA
+New Zealand,New Zealand Standard Time,+12:00,Auckland~Wellington,Auckland,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Augusta,ME
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Aurangabad,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Austin,TX
+Cook Islands,Hawaiian Standard Time,-10:00,Hawaii,Avarua,
+Portugal,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Aveiro,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Aylesbury,
+Jordan,Jordan Standard Time,+03:00,Jordan,Az Zarqa,
+Romania,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Bacau,
+Philippines,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Bacolod,
+Spain,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Badajoz,
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Baden-Baden,
+Iraq,Arabic Standard Time,+03:00,Baghdad,Baghdad,
+Pakistan,Pakistan Standard Time,+05:00,Pakistan,Bahawalpur,
+Argentina,Argentina Standard Time,-03:00,Argentina,Bahia Blanca,
+Mexico,US Mountain Standard Time,-07:00,Arizona,Bahia Kino,
+Azerbaijan,Baku Standard Time,+04:00,Baku,Baku,
+Philippines,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Balabag,
+Philippines,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Balanga,
+Indonesia,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Balikpapan,
+Moldova,Moldova Standard Time,+02:00,Moldova,Balti,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Baltimore,MD
+Mali,Greenwich Standard Time,0,Greenwich Mean Time,Bamako,
+Brunei,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Bandar Seri Begawan,
+Bangladesh,Bangladesh Standard Time,+06:00,Bangladesh,Bandarban,
+Indonesia,SE Asia Standard Time,+07:00,Bangkok~Hanoi~Jakarta,Bandung,
+Canada,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Banff,AB
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Bangalore,
+Thailand,SE Asia Standard Time,+07:00,Bangkok~Hanoi~Jakarta,Bangkok,
+Central African Republic,W. Central Africa Standard Time,+01:00,West Central Africa,Bangui,
+Bosnia and Herzegovina,Central European Standard Time,+01:00,Sarajevo~Skopje~Warsaw~Zagreb,Banja Luka,
+Gambia,Greenwich Standard Time,0,Greenwich Mean Time,Banjul,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Baotou,
+Spain,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Barcelona,
+Venezuela,Venezuela Standard Time,#VALUE!,Venezuela,Barcelona,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Bareilly,
+Italy,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Bari,
+Russia,Barnaul Standard Time,+06:00,Barnaul,Barnaul,
+Canada,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Barrie,ON
+Saint Kitts and Nevis,SA Western Standard Time,-04:00,La Paz,Basseterre,
+Guadeloupe,SA Western Standard Time,-04:00,La Paz,Basse-Terre,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Baton Rouge,LA
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Beijing,
+Lebanon,Lebanon Standard Time,+02:00,Beirut,Beirut,
+Portugal,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Beja,
+Tunisia,W. Central Africa Standard Time,+01:00,West Central Africa,Beja,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Belfast,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Belgorod,
+Serbia,Central Europe Standard Time,+01:00,Belgrade~Bratislava~Budapest~Ljubljana~Prague,Belgrade,
+Belize,Central America Standard Time,-06:00,Central America,Belize City,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Bellevue,WA
+Belize,Central America Standard Time,-06:00,Central America,Belmopan,
+Brazil,E. South America Standard Time,-03:00,Brasilia,Belo Horizonte,
+Bulgaria,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Belogradchik,
+Italy,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Benevento,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Benxi,
+Norway,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Bergen,
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Berlin,
+Switzerland,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Bern,
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Beziers,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Bhopal,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Bhubaneswar,
+Spain,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Bilbao,
+United States,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Billings,MT
+Nepal,Nepal Standard Time,+05:45,Kathmandu,Biratchowk,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Birmingham,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Birmingham,AL
+Kyrgyzstan,Central Asia Standard Time,+06:00,Central Asia,Bishkek,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Bismarck,ND
+Guinea-Bissau,Greenwich Standard Time,0,Greenwich Mean Time,Bissau,
+Tunisia,W. Central Africa Standard Time,+01:00,West Central Africa,Bizerte,
+Spain,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Blanes,
+Malawi,South Africa Standard Time,+02:00,Harare~Pretoria,Blantyre,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Blantyre-Hamilton,
+South Africa,South Africa Standard Time,+02:00,Harare~Pretoria,Bloemfontein,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Boca Raton,FL
+Turkey,Turkey Standard Time,+02:00,Turkey,Bodrum,
+Colombia,SA Pacific Standard Time,-05:00,Bogota~Lima~Quito,Bogota,
+United States,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Boise,ID
+Italy,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Bologna,
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Bonn,
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Bordeaux,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Boston,MA
+Portugal,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Braganca,
+Brazil,E. South America Standard Time,-03:00,Brasilia,Brasilia,
+Slovakia,Central Europe Standard Time,+01:00,Belgrade~Bratislava~Budapest~Ljubljana~Prague,Bratislava,
+Congo,W. Central Africa Standard Time,+01:00,West Central Africa,Brazzaville,
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Bremen,
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Brest,
+Barbados,SA Western Standard Time,-04:00,La Paz,Bridgetown,
+Italy,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Brindisi,
+Australia,E. Australia Standard Time,+10:00,Brisbane,Brisbane,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Bristol,
+Czech Republic,Central Europe Standard Time,+01:00,Belgrade~Bratislava~Budapest~Ljubljana~Prague,Brno,
+Belgium,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Brussels,
+Romania,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Bucharest,
+Hungary,Central Europe Standard Time,+01:00,Belgrade~Bratislava~Budapest~Ljubljana~Prague,Budapest,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Buena Park,CA
+Argentina,Argentina Standard Time,-03:00,Argentina,Buenos Aires,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Buffalo,NY
+Burundi,South Africa Standard Time,+02:00,Harare~Pretoria,Bujumbura,
+Spain,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Burgos,
+Thailand,SE Asia Standard Time,+07:00,Bangkok~Hanoi~Jakarta,Buri Ram,
+Canada,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Burnaby,BC
+Turkey,Turkey Standard Time,+02:00,Turkey,Bursa,
+Korea~South,Korea Standard Time,+09:00,Seoul,Busan,
+Malaysia,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Butterworth,
+Mexico,Mexico Standard Time 2,-07:00,Chihuahua~La Paz~Mazatlan,Cabo San Lucas,
+Australia,E. Australia Standard Time,+10:00,Brisbane,Cairns,
+Egypt,Egypt Standard Time,+02:00,Cairo,Cairo,
+Nigeria,W. Central Africa Standard Time,+01:00,West Central Africa,Calabar,
+Canada,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Calgary,AB
+Brazil,E. South America Standard Time,-03:00,Brasilia,Campinas,
+Australia,AUS Eastern Standard Time,+10:00,Canberra~Melbourne~Sydney,Canberra,
+Mexico,Quintana Roo~ Mexico,-05:00,Quintana Roo~Mexico,Cancun,
+Canada,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Canmore,AB
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Cannes,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Cannon Beach,OR
+South Africa,South Africa Standard Time,+02:00,Harare~Pretoria,Cape Town,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Capitola,CA
+Venezuela,Venezuela Standard Time,#VALUE!,Venezuela,Caracas,
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Carcassonne,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Cardiff,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Carson City,NV
+Spain,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Cartagena,
+Morocco,Morocco Standard Time,0,Morocco,Casablanca,
+Portugal,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Castelo Branco,
+Ireland,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Castlebar,
+Saint Lucia,SA Western Standard Time,-04:00,La Paz,Castries,
+Argentina,SA Eastern Standard Time,-03:00,Georgetown~South America Eastern Time,Catamarca,
+Italy,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Catania,
+Philippines,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Catarman,
+French Guiana,SA Eastern Standard Time,-03:00,Georgetown~South America Eastern Time,Cayenne,
+Philippines,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Cebu,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Cedar Park,TX
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Champaign,IL
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Chandigarh,
+United States,US Mountain Standard Time,-07:00,Arizona,Chandler,AZ
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Changchun,
+Greece,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Chania,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Chantilly,VA
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Charleston,WV
+Virgin Islands~U.S.,SA Western Standard Time,-04:00,La Paz,Charlotte Amalie,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Charlotte,NC
+Canada,Atlantic Standard Time,-04:00,Atlantic Time (Canada),Charlottetown,PE
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Chattanooga,TN
+Russia,Ekaterinburg Standard Time,+05:00,Ekaterinburg,Chelyabinsk,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Chengdu,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Chennai,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Cherepovets,
+Ukraine,Ukraine Standard Time,+02:00,Ukraine,Chernobyl,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Cheruvathur,
+Thailand,SE Asia Standard Time,+07:00,Bangkok~Hanoi~Jakarta,Chiang Mai,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Chicago,IL
+Mexico,Mexico Standard Time,-06:00,Guadalajara~Mexico City~Monterrey,Chichen Itza,
+Mexico,Mexico Standard Time 2,-07:00,Chihuahua~La Paz~Mazatlan,Chihuahua,
+Canada,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Chilliwack,BC
+Mozambique,South Africa Standard Time,+02:00,Harare~Pretoria,Chimoio,
+Nicaragua,Central America Standard Time,-06:00,Central America,Chinandega,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Chirala,
+Moldova,Moldova Standard Time,+02:00,Moldova,Chisinau,
+Russia,Chita Standard Time,+08:00,Chita,Chita,
+Bangladesh,Bangladesh Standard Time,+06:00,Bangladesh,Chittagong,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Chongqing,
+New Zealand,New Zealand Standard Time,+12:00,Auckland~Wellington,Christchurch,
+Cuba,Cuba Standard Time,-05:00,Cuba Standard Time,Cienfuegos,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Cincinnati,OH
+Mexico,Central Standard Time,-06:00,Central Time (US & Canada),Ciudad Acuna,
+Mexico,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Ciudad Juarez,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Cleveland,OH
+Romania,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Cluj,
+Turks and Caicos Islands,Turks and Caicos Standard Time,-04:00,Turks and Caicos,Cockburn Town,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Coimbatore,
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Collioure,
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Cologne,
+Sri Lanka,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Colombo,
+United States,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Colorado Springs,CO
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Columbia,SC
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Columbus,GA
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Columbus,OH
+Guinea,Greenwich Standard Time,0,Greenwich Mean Time,Conakry,
+Romania,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Constanta,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Coos Bay,OR
+Denmark,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Copenhagen,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Coquille,OR
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Coral Springs,FL
+Argentina,Argentina Standard Time,-03:00,Argentina,Cordoba,
+Greece,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Corfu,
+Ireland,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Cork,
+Argentina,Argentina Standard Time,-03:00,Argentina,Corrientes,
+Benin,W. Central Africa Standard Time,+01:00,West Central Africa,Cotonou,
+Bangladesh,Bangladesh Standard Time,+06:00,Bangladesh,Cox's Bazar,
+Romania,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Craiova,
+Canada,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Cranbrook,BC
+Ecuador,SA Pacific Standard Time,-05:00,Bogota~Lima~Quito,Cuenca,
+Brazil,Cuiaba Standard Time,-04:00,Cuiaba~Brazil,Cuiaba,
+Mexico,Mexico Standard Time 2,-07:00,Chihuahua~La Paz~Mazatlan,Culiacan,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Cupertino,CA
+Brazil,E. South America Standard Time,-03:00,Brasilia,Curitiba,
+Vietnam,SE Asia Standard Time,+07:00,Bangkok~Hanoi~Jakarta,Da Nang,
+Korea~South,Korea Standard Time,+09:00,Seoul,Daegu,
+Senegal,Greenwich Standard Time,0,Greenwich Mean Time,Dakar,
+Morocco,Morocco Standard Time,0,Morocco,Dakhla,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Dalian,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Dallas,TX
+Syria,Syria Standard Time,+02:00,Syria,Damascus,
+Nepal,Nepal Standard Time,+05:45,Kathmandu,Damauli,
+Sri Lanka,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Dambulla,
+Australia,W. Australia Standard Time,+08:00,Perth,Dampier,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Dandong,
+Tanzania,E. Africa Standard Time,+03:00,Nairobi,Dar es Salaam,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Darasuram,
+Australia,AUS Central Standard Time,+09:30,Darwin,Darwin,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Dausa,
+Philippines,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Davao,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Dayton,OH
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Del Rio,TX
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Delhi,
+Indonesia,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Denpasar,
+United States,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Denver,CO
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Des Moines,IA
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Detroit,MI
+Saudi Arabia,Arab Standard Time,+03:00,Kuwait~Riyadh,Dhahran,
+Bangladesh,Bangladesh Standard Time,+06:00,Bangladesh,Dhaka,
+Yemen,Arab Standard Time,+03:00,Kuwait~Riyadh,Dhamar,
+Nepal,Nepal Standard Time,+05:45,Kathmandu,Dharan,
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Dieppe,
+Niger,W. Central Africa Standard Time,+01:00,West Central Africa,Diffa,
+East Timor,East Timor Standard Time,+09:00,East Timor,Dili,
+Indonesia,SE Asia Standard Time,+07:00,Bangkok~Hanoi~Jakarta,Djember,
+Djibouti,Arab Standard Time,+03:00,Kuwait~Riyadh,Djibouti,
+Ukraine,Ukraine Standard Time,+02:00,Ukraine,Dnepropetrovsk,
+Tanzania,E. Africa Standard Time,+03:00,Nairobi,Dodoma,
+Qatar,Arab Standard Time,+03:00,Kuwait~Riyadh,Doha,
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Donauworth,
+Ukraine,Ukraine Standard Time,+02:00,Ukraine,Donetsk,
+Ireland,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Doolin,
+Cameroon,W. Central Africa Standard Time,+01:00,West Central Africa,Douala,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Dover,
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Dresden,
+Ireland,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Drogheda,
+United Arab Emirates,Arabian Standard Time,+04:00,Abu Dhabi~Muscat,Dubai,
+Ireland,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Dublin,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Dublin,OH
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Duesseldorf,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Duluth,MN
+Philippines,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Dumaguete,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Dundee,
+New Zealand,New Zealand Standard Time,+12:00,Auckland~Wellington,Dunedin,
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Dunkerque,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,DuPont,WA
+South Africa,South Africa Standard Time,+02:00,Harare~Pretoria,Durban,
+Albania,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Durres,
+Tajikistan,West Asia Standard Time,+05:00,Tashkent,Dushanbe,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Duvall,WA
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Dzerzhinsk,
+South Africa,South Africa Standard Time,+02:00,Harare~Pretoria,East London,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Edinburgh,
+Canada,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Edmonton,AB
+Netherlands,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Eindhoven,
+Brazil,Rio Branco~ Brazil,-05:00,Rio Branco~Brazil,Eirunepe,
+Russia,Ekaterinburg Standard Time,+05:00,Ekaterinburg,Ekaterinburg,
+Tunisia,W. Central Africa Standard Time,+01:00,West Central Africa,El Jem,
+Tunisia,W. Central Africa Standard Time,+01:00,West Central Africa,El Kef,
+United States,Mountain Standard Time,-07:00,Mountain Time (US & Canada),El Paso,TX
+Indonesia,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Ende,
+Mexico,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Ensenada,
+Iran,Iran Standard Time,+03:30,Tehran,Esfahan,
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Essen,
+Belgium,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Etterbeek,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Eugene,OR
+Spain,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Ezcaray,
+United States,Alaskan Standard Time,-09:00,Alaska,Fairbanks,AK
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Falmouth,
+Portugal,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Faro,
+Mauritius,Mauritius Standard Time,+04:00,Mauritius,Flic en Flac,
+Italy,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Florence,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Florence,OR
+Norway,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Floro,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Folcroft,PA
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Folsom,CA
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Fontainebleau,
+United States,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Fort Collins,CO
+United States,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Fort Defiance,AZ
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Fort Worth,TX
+Brazil,SA Eastern Standard Time,-03:00,Georgetown~South America Eastern Time,Fortaleza,
+Martinique,SA Western Standard Time,-04:00,La Paz,Fort-de-France,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Foshan,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Foster City,CA
+New Zealand,New Zealand Standard Time,+12:00,Auckland~Wellington,Foxton,
+Italy,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Fragneto Monforte,
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Frankfurt,
+Sierra Leone,Greenwich Standard Time,0,Greenwich Mean Time,Freetown,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Fremont,CA
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Ft. Lauderdale,FL
+United Arab Emirates,Arabian Standard Time,+04:00,Abu Dhabi~Muscat,Fujairah,
+Japan,Tokyo Standard Time,+09:00,Osaka~Sapporo~Tokyo,Fukui,
+Japan,Tokyo Standard Time,+09:00,Osaka~Sapporo~Tokyo,Fukuoka,
+Tuvalu,Marshall Islands Standard Time,+12:00,Marshall Islands,Funafuti,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Fuzhou,
+Botswana,South Africa Standard Time,+02:00,Harare~Pretoria,Gaborone,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Galesburg,IL
+Sri Lanka,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Galle,
+Ireland,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Galway,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Gary,IN
+Australia,E. Australia Standard Time,+10:00,Brisbane,Gatton,
+Sweden,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Gavle,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Gaya,
+Poland,Central European Standard Time,+01:00,Sarajevo~Skopje~Warsaw~Zagreb,Gdansk,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Gelendzhik,
+Switzerland,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Geneva,
+Italy,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Genoa,
+Belgium,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Gent,
+Cayman Islands,Cayman Islands Standard Time,-05:00,Cayman Islands,George Town,
+Malaysia,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,George Town,
+Guyana,SA Western Standard Time,-04:00,La Paz,Georgetown,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Ghatgaon,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Ghumli,
+Gibraltar,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Gibraltar,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Gig Harbor,WA
+Spain,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Girona,
+Romania,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Giurgiu,
+Australia,E. Australia Standard Time,+10:00,Brisbane,Gladstone,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Glasgow,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Gloucester,
+Canada,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Golden,BC
+Pakistan,Pakistan Standard Time,+05:00,Pakistan,Golra Sharif,
+Australia,AUS Eastern Standard Time,+10:00,Canberra~Melbourne~Sydney,Gosford,
+Sweden,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Gothenburg,
+Australia,AUS Eastern Standard Time,+10:00,Canberra~Melbourne~Sydney,Grafton,
+Spain,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Granada,
+Nicaragua,Central America Standard Time,-06:00,Central America,Granada,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Grand Rapids,MI
+Cote d'Ivoire,Greenwich Standard Time,0,Greenwich Mean Time,Grand-Bassam,
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Grasse,
+Austria,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Gratkorn,
+Austria,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Graz,
+United States,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Great Falls,MT
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Grenoble,
+Mexico,Mexico Standard Time,-06:00,Guadalajara~Mexico City~Monterrey,Guadalajara,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Guangzhou,
+Guatemala,Guatemala Standard Time,-06:00,Guatemala,Guatemala City,
+Ecuador,SA Pacific Standard Time,-05:00,Bogota~Lima~Quito,Guayaquil,
+Mexico,US Mountain Standard Time,-07:00,Arizona,Guaymas,
+Canada,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Guelph,ON
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Gulbarga,
+Hungary,Central Europe Standard Time,+01:00,Belgrade~Bratislava~Budapest~Ljubljana~Prague,Gyor,
+Armenia,Armenia Standard Time,+04:00,Yerevan,Gyumri,
+Guam,West Pacific Standard Time,+10:00,Guam~Port Moresby,Hagatna,
+Vietnam,SE Asia Standard Time,+07:00,Bangkok~Hanoi~Jakarta,Hai Phong,
+Israel,Israel Standard Time,+02:00,Tel Aviv~Jerusalem,Haifa,
+Syria,Syria Standard Time,+02:00,Syria,Halab,
+Canada,Atlantic Standard Time,-04:00,Atlantic Time (Canada),Halifax,NS
+Belgium,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Halle,
+Syria,Syria Standard Time,+02:00,Syria,Hama,
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Hamburg,
+Bermuda,Atlantic Standard Time,-04:00,Atlantic Time (Canada),Hamilton,
+Canada,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Hamilton,ON
+Tunisia,W. Central Africa Standard Time,+01:00,West Central Africa,Hammamet,
+Norway,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Hammerfest,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Hanamkonda,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Hangzhou,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Hanjiang,
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Hannover,
+Vietnam,SE Asia Standard Time,+07:00,Bangkok~Hanoi~Jakarta,Hanoi,
+Zimbabwe,South Africa Standard Time,+02:00,Harare~Pretoria,Harare,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Harbin,
+Norway,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Harstad,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Hassan,
+New Zealand,New Zealand Standard Time,+12:00,Auckland~Wellington,Hastings,
+Thailand,SE Asia Standard Time,+07:00,Bangkok~Hanoi~Jakarta,Hat Yai,
+Cuba,Cuba Standard Time,-05:00,Cuba Standard Time,Havana,
+Netherlands,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Heerlen,
+United States,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Helena,MT
+Sweden,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Helsingborg,
+Denmark,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Helsingor,
+Finland,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Helsinki,
+Costa Rica,Central America Standard Time,-06:00,Central America,Heredia,
+Mexico,US Mountain Standard Time,-07:00,Arizona,Hermosillo,
+Sri Lanka,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Hikkaduwa,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Hillsboro,OR
+United States,Hawaiian Standard Time,-10:00,Hawaii,Hilo,HI
+Japan,Tokyo Standard Time,+09:00,Osaka~Sapporo~Tokyo,Hiroshima,
+Vietnam,SE Asia Standard Time,+07:00,Bangkok~Hanoi~Jakarta,Ho Chi Minh,
+Australia,Tasmania Standard Time,+10:00,Hobart,Hobart,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Hohhot,
+Sri Lanka,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Homagama,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Hong Kong,
+Solomon Islands,Central Pacific Standard Time,+11:00,Solomon Is.~New Caledonia,Honiara,
+United States,Hawaiian Standard Time,-10:00,Hawaii,Honokaa,HI
+United States,Hawaiian Standard Time,-10:00,Hawaii,Honolulu,HI
+Canada,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Hope,BC
+Greece,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Hora Sfakion,
+Denmark,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Horsens,
+Spain,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Hostalric,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Houston,TX
+United States,Dateline Standard Time,-12:00,International Date Line West,Howland Island,
+Thailand,SE Asia Standard Time,+07:00,Bangkok~Hanoi~Jakarta,Hua Hin,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Hubli,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Hudson,MA
+Spain,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Huelva,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Huizhou,
+Canada,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Huntingdon,QC
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Huntington,WV
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Hyderabad,
+Romania,E. Europe Standard Time,+02:00,Bucharest,Iasi,
+Nigeria,W. Central Africa Standard Time,+01:00,West Central Africa,Ibadan,
+Yemen,Arab Standard Time,+03:00,Kuwait~Riyadh,Ibb,
+Greece,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Igoumenitsa,
+Philippines,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Iligan,
+Korea~South,Korea Standard Time,+09:00,Seoul,Incheon,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Indianapolis,IN
+Canada,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Inuvik,NT
+Canada,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Iqaluit,NU
+Greece,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Iraklion,
+Russia,Ikrutsk Standard Time,+08:00,Irkutsk,Irkutsk,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Irvine,CA
+Pakistan,Pakistan Standard Time,+05:00,Pakistan,Islamabad,
+Turkey,Turkey Standard Time,+02:00,Turkey,Istanbul,
+Nepal,Nepal Standard Time,+05:45,Kathmandu,Itahari,
+Finland,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Ivalo,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Ivanovo,
+Mexico,Mexico Standard Time,-06:00,Guadalajara~Mexico City~Monterrey,Ixtapa,
+Russia,Samara Standard Time,+04:00,Samara,Izhevsk,
+Turkey,Turkey Standard Time,+02:00,Turkey,Izmir,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Jackson,MS
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Jacksonville,FL
+Pakistan,Pakistan Standard Time,+05:00,Pakistan,Jacobabad,
+Spain,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Jaen,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Jaipur,
+Indonesia,SE Asia Standard Time,+07:00,Bangkok~Hanoi~Jakarta,Jakarta,
+Saint Helena,Greenwich Standard Time,0,Greenwich Mean Time,Jamestown,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Jammu,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Jamshedpur,
+Canada,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Jasper,AB
+Saudi Arabia,Arab Standard Time,+03:00,Kuwait~Riyadh,Jeddah,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Jefferson City,MO
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Jersey City,NJ
+Israel,Israel Standard Time,+02:00,Tel Aviv~Jerusalem,Jerusalem,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Jeypore,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Jilin,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Jinan,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Jinzhou,
+Brazil,SA Eastern Standard Time,-03:00,Georgetown~South America Eastern Time,Joao Pessoa,
+South Africa,South Africa Standard Time,+02:00,Harare~Pretoria,Johannesburg,
+South Sudan,E. Africa Standard Time,+03:00,Nairobi,Juba,
+Argentina,SA Eastern Standard Time,-03:00,Georgetown~South America Eastern Time,Jujuy,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Kabardinka,
+Afghanistan,Afghanistan Standard Time,+04:30,Kabul,Kabul,
+Nigeria,W. Central Africa Standard Time,+01:00,West Central Africa,Kaduna,
+Japan,Tokyo Standard Time,+09:00,Osaka~Sapporo~Tokyo,Kagoshima,
+New Zealand,New Zealand Standard Time,+12:00,Auckland~Wellington,Kaikoura,
+Tunisia,W. Central Africa Standard Time,+01:00,West Central Africa,Kairouan,
+Russia,Kaliningrad Standard Time,+02:00,Kaliningrad,Kaliningrad,
+Sweden,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Kalmar,
+Sri Lanka,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Kalutara,
+Canada,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Kamloops,BC
+Uganda,E. Africa Standard Time,+03:00,Nairobi,Kampala,
+United States,Hawaiian Standard Time,-10:00,Hawaii,Kamuela,HI
+Afghanistan,Afghanistan Standard Time,+04:30,Kabul,Kandahar,
+Sri Lanka,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Kandy,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Kanpur,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Kansas City,MO
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Kanyakumari,
+Pakistan,Pakistan Standard Time,+05:00,Pakistan,Karachi,
+Czech Republic,Central Europe Standard Time,+01:00,Belgrade~Bratislava~Budapest~Ljubljana~Prague,Karlovy Vary,
+Sweden,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Karlstad,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Kasaragod,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Kasauli,
+Nepal,Nepal Standard Time,+05:45,Kathmandu,Kathmandu,
+Lithuania,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Kaunas,
+Japan,Tokyo Standard Time,+09:00,Osaka~Sapporo~Tokyo,Kawasaki,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Kazan,
+Ireland,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Keel,
+Canada,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Kelowna,BC
+Russia,Kemerovo Standard Time,+07:00,Kemerovo,Kemerovo,
+Indonesia,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Kendari,
+New Zealand,New Zealand Standard Time,+12:00,Auckland~Wellington,Kerikeri,
+Russia,Khabarovsk Standard Time,+10:00,Khabarovsk,Khabarovsk,
+Ukraine,Ukraine Standard Time,+02:00,Ukraine,Kharkov,
+Sudan,E. Africa Standard Time,+03:00,Nairobi,Khartoum,
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Kiel,
+Ukraine,Ukraine Standard Time,+02:00,Ukraine,Kiev,
+Rwanda,South Africa Standard Time,+02:00,Harare~Pretoria,Kigali,
+Ireland,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Killarney,
+South Africa,South Africa Standard Time,+02:00,Harare~Pretoria,Kimberley,
+Jamaica,SA Pacific Standard Time,-05:00,Bogota~Lima~Quito,Kingston,
+Australia,Norfolk Island Standard Time,+11:00,Norfolk Island,Kingston,Norfolk Island
+Canada,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Kingston,ON
+Saint Vincent and the Grenadines,SA Western Standard Time,-04:00,La Paz,Kingstown,
+Congo~Democratic Republic of the,W. Central Africa Standard Time,+01:00,West Central Africa,Kinshasa,
+Sweden,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Kiruna,
+Canada,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Kitchener,ON
+South Africa,South Africa Standard Time,+02:00,Harare~Pretoria,Knysna,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Kochi,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Kodaikanal,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Kolhapur,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Kolkata,
+United States,Hawaiian Standard Time,-10:00,Hawaii,Koloa,HI
+Poland,Central European Standard Time,+01:00,Sarajevo~Skopje~Warsaw~Zagreb,Kolobrzeg,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Kolomna,
+Micronesia~Federated States of,Central Pacific Standard Time,+11:00,Solomon Is.~New Caledonia,Kolonia,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Konark,
+New Caledonia,Central Pacific Standard Time,+11:00,Solomon Is.~New Caledonia,Kone,
+Poland,Central European Standard Time,+01:00,Sarajevo~Skopje~Warsaw~Zagreb,Konin,
+Palau,Tokyo Standard Time,+09:00,Osaka~Sapporo~Tokyo,Koror,
+Greece,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Kos,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Kosciusko,MS
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Kostroma,
+Malaysia,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Kota Kinabalu,
+Finland,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Kotka,
+Montenegro,Central Europe Standard Time,+01:00,Belgrade~Bratislava~Budapest~Ljubljana~Prague,Kotor,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Kovrov,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Kowloon,
+Poland,Central European Standard Time,+01:00,Sarajevo~Skopje~Warsaw~Zagreb,Krakow,
+Russia,Krasnoyarsk Standard Time,+07:00,Krasnoyarsk,Krasnoyarsk,
+Norway,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Kristiansand,
+Sweden,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Kristianstad,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Kronstadt,
+Malaysia,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Kuala Lumpur,
+Malaysia,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Kuching,
+Greenland,Greenland Standard Time,-03:00,Greenland,Kulusuk,
+Macedonia,Central European Standard Time,+01:00,Sarajevo~Skopje~Warsaw~Zagreb,Kumanovo,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Kumbakonam,
+Russia,Ekaterinburg Standard Time,+05:00,Ekaterinburg,Kungur,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Kunming,
+Indonesia,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Kupang,
+Russia,Ekaterinburg Standard Time,+05:00,Ekaterinburg,Kurgan,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Kursk,
+Sri Lanka,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Kurunegala,
+Kuwait,Arab Standard Time,+03:00,Kuwait~Riyadh,Kuwait,
+Burma,Myanmar Standard Time,+06:30,Rangoon,Kyaikto,
+Japan,Tokyo Standard Time,+09:00,Osaka~Sapporo~Tokyo,Kyoto,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,La Jolla,CA
+El Salvador,Central America Standard Time,-06:00,Central America,La Libertad,
+Bolivia,SA Western Standard Time,-04:00,La Paz,La Paz,
+Mexico,Mexico Standard Time 2,-07:00,Chihuahua~La Paz~Mazatlan,La Paz,
+Argentina,SA Eastern Standard Time,-03:00,Georgetown~South America Eastern Time,La Rioja,
+El Salvador,Central America Standard Time,-06:00,Central America,La Union,
+Malaysia,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Labuan,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Lafayette,LA
+Nigeria,W. Central Africa Standard Time,+01:00,West Central Africa,Lagos,
+Pakistan,Pakistan Standard Time,+05:00,Pakistan,Lahore,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Lakeland,FL
+Malaysia,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Langkawi,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Lansing,MI
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Lanzhou,
+Mexico,Mexico Standard Time 2,-07:00,Chihuahua~La Paz~Mazatlan,Las Varas,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Las Vegas,NV
+Syria,Syria Standard Time,+02:00,Syria,Latakia,
+Australia,Tasmania Standard Time,+10:00,Hobart,Launceston,
+United States,Hawaiian Standard Time,-10:00,Hawaii,Laupahoehoe,HI
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Le Havre,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Leeds,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Leicester,
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Leipzig,
+Ireland,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Leixlip,
+Spain,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Leon,
+Mexico,Mexico Standard Time,-06:00,Guadalajara~Mexico City~Monterrey,Leon,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Lexington,KY
+Gabon,W. Central Africa Standard Time,+01:00,West Central Africa,Libreville,
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Lille,
+Malawi,South Africa Standard Time,+02:00,Harare~Pretoria,Lilongwe,
+Peru,SA Pacific Standard Time,-05:00,Bogota~Lima~Quito,Lima,
+Cyprus,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Limassol,
+Ireland,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Limerick,
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Limoux,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Lincoln,NE
+Sweden,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Linkoping,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Lipetsk,
+Portugal,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Lisbon,
+Australia,AUS Eastern Standard Time,+10:00,Canberra~Melbourne~Sydney,Lismore,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Little Rock,AR
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Liverpool,
+Slovenia,Central Europe Standard Time,+01:00,Belgrade~Bratislava~Budapest~Ljubljana~Prague,Ljubljana,
+Togo,Greenwich Standard Time,0,Greenwich Mean Time,Lome,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,London,
+Canada,Eastern Standard Time,-05:00,Eastern Time (US & Canada),London,ON
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Long Beach,CA
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Long Branch,NJ
+Svalbard,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Longyearbyen,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Los Angeles,CA
+Mexico,Mexico Standard Time 2,-07:00,Chihuahua~La Paz~Mazatlan,Los Mochis,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Louisville,KY
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Luancheng,
+Angola,W. Central Africa Standard Time,+01:00,West Central Africa,Luanda,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Lubbock,TX
+Russia,Vladivostok Standard Time,+10:00,Vladivostok,Luchegorsk,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Lucknow,
+Switzerland,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Lugano,
+Ukraine,Ukraine Standard Time,+02:00,Ukraine,Lugansk,
+Sweden,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Lulea,
+Nepal,Nepal Standard Time,+05:45,Kathmandu,Lumbini,
+Sweden,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Lund,
+Zambia,South Africa Standard Time,+02:00,Harare~Pretoria,Lusaka,
+Luxembourg,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Luxembourg,
+Egypt,Egypt Standard Time,+02:00,Cairo,Luxor,
+Ukraine,Ukraine Standard Time,+02:00,Ukraine,Lviv,
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Lyon,
+Brazil,SA Eastern Standard Time,-03:00,Georgetown~South America Eastern Time,Macapa,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Macau,
+Australia,E. Australia Standard Time,+10:00,Brisbane,Mackay,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Madikeri,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Madison,WI
+Spain,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Madrid,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Madurai,
+Russia,Magadan Standard Time,+10:00,Magadan,Magadan,
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Magdeburg,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Magnolia,TX
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Mahabalipuram,
+Tunisia,W. Central Africa Standard Time,+01:00,West Central Africa,Mahdia,
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Mainz,
+Marshall Islands,Marshall Islands Standard Time,+12:00,Marshall Islands,Majuro,
+Indonesia,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Makassar,
+Equatorial Guinea,W. Central Africa Standard Time,+01:00,West Central Africa,Malabo,
+Spain,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Malaga,
+Maldives,West Asia Standard Time,+05:00,Tashkent,Male,
+Sweden,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Malmo,
+Mayotte,E. Africa Standard Time,+03:00,Nairobi,Mamoudzou,
+Nicaragua,Central America Standard Time,-06:00,Central America,Managua,
+Bahrain,Arab Standard Time,+03:00,Kuwait~Riyadh,Manama,
+Brazil,SA Western Standard Time,-04:00,La Paz,Manaus,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Manchester,
+Burma,Myanmar Standard Time,+06:30,Rangoon,Mandalay,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Mandarmoni,
+Australia,W. Australia Standard Time,+08:00,Perth,Mandurah,
+Romania,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Mangalia,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Mangalore,
+Philippines,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Manila,
+Turkey,Turkey Standard Time,+02:00,Turkey,Manisa,
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Mannheim,
+Cuba,Cuba Standard Time,-05:00,Cuba Standard Time,Manzanillo,
+Mexico,Mexico Standard Time,-06:00,Guadalajara~Mexico City~Monterrey,Manzanillo,
+Mozambique,South Africa Standard Time,+02:00,Harare~Pretoria,Maputo,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Maram Bazar,
+Philippines,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Marawi,
+Turkey,Turkey Standard Time,+02:00,Turkey,Marmaris,
+Morocco,Morocco Standard Time,0,Morocco,Marrakech,
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Marseille,
+United Arab Emirates,Arabian Standard Time,+04:00,Abu Dhabi~Muscat,Masafi,
+Lesotho,South Africa Standard Time,+02:00,Harare~Pretoria,Maseru,
+Indonesia,Tokyo Standard Time,+09:00,Osaka~Sapporo~Tokyo,Masohi,
+Sri Lanka,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Matale,
+Mexico,Central Standard Time,-06:00,Central Time (US & Canada),Matamoros,
+Indonesia,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Mataram,
+Wallis and Futuna,Marshall Islands Standard Time,+12:00,Marshall Islands,Mata-Utu,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Mathura,
+Afghanistan,Afghanistan Standard Time,+04:30,Kabul,Mazari Sharif,
+Mexico,Mexico Standard Time 2,-07:00,Chihuahua~La Paz~Mazatlan,Mazatlan,
+Swaziland,South Africa Standard Time,+02:00,Harare~Pretoria,Mbabane,
+Senegal,Greenwich Standard Time,0,Greenwich Mean Time,Mbour,
+Malta,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Mdina,
+Saudi Arabia,Arab Standard Time,+03:00,Kuwait~Riyadh,Mecca,
+Indonesia,SE Asia Standard Time,+07:00,Bangkok~Hanoi~Jakarta,Medan,
+Colombia,SA Pacific Standard Time,-05:00,Bogota~Lima~Quito,Medellin,
+Saudi Arabia,Arab Standard Time,+03:00,Kuwait~Riyadh,Medina,
+Mexico,Mexico Standard Time,-06:00,Guadalajara~Mexico City~Monterrey,Melaque,
+Australia,AUS Eastern Standard Time,+10:00,Canberra~Melbourne~Sydney,Melbourne,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Melbourne,FL
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Memphis,TN
+Argentina,SA Eastern Standard Time,-03:00,Georgetown~South America Eastern Time,Mendoza,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Menlo Park,CA
+Mexico,Mexico Standard Time,-06:00,Guadalajara~Mexico City~Monterrey,Merida,
+Mexico,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Mexicali,
+Mexico,Mexico Standard Time,-06:00,Guadalajara~Mexico City~Monterrey,Mexico City,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Miami,FL
+Italy,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Milan,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Mill Valley,CA
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Milwaukee,WI
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Minneapolis,MN
+Belarus,Belarus Standard Time,+03:00,Belarus,Minsk,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Miramar,FL
+Canada,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Mission,BC
+Canada,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Mississauga,ON
+Norway,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Mo,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Mobile,AL
+Somalia,E. Africa Standard Time,+03:00,Nairobi,Mogadishu,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Molalla,OR
+Monaco,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Monaco,
+Tunisia,W. Central Africa Standard Time,+01:00,West Central Africa,Monastir,
+Canada,Atlantic Standard Time,-04:00,Atlantic Time (Canada),Moncton,NB
+Liberia,Greenwich Standard Time,0,Greenwich Mean Time,Monrovia,
+Monaco,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Monte Carlo,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Monterey,CA
+Mexico,Mexico Standard Time,-06:00,Guadalajara~Mexico City~Monterrey,Monterrey,
+Uruguay,Uruguay Standard Time,-03:00,Uruguay,Montevideo,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Montgomery,AL
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Montgomery,TX
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Montpelier,VT
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Montpellier,
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Montpeyroux,
+Canada,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Montreal,QC
+Comoros,E. Africa Standard Time,+03:00,Nairobi,Moroni,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Moscow,
+Mexico,Mexico Standard Time,-06:00,Guadalajara~Mexico City~Monterrey,Motul,
+Papua New Guinea,West Pacific Standard Time,+10:00,Guam~Port Moresby,Mount Hagen,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Mount Shasta City,CA
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Mountain View,CA
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Mudumalai,
+Ukraine,Ukraine Standard Time,+02:00,Ukraine,Mukachevo,
+Pakistan,Pakistan Standard Time,+05:00,Pakistan,Multan,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Mumbai,
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Munich,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Munnar,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Murmansk,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Murom,
+Pakistan,Pakistan Standard Time,+05:00,Pakistan,Murree,
+Oman,Arabian Standard Time,+04:00,Abu Dhabi~Muscat,Muscat,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Myrtle Beach,SC
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Mysore,
+Tunisia,W. Central Africa Standard Time,+01:00,West Central Africa,Nabeul,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Nadiad,
+Japan,Tokyo Standard Time,+09:00,Osaka~Sapporo~Tokyo,Nagasaki,
+Japan,Tokyo Standard Time,+09:00,Osaka~Sapporo~Tokyo,Nagoya,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Nagpur,
+Japan,Tokyo Standard Time,+09:00,Osaka~Sapporo~Tokyo,Naha,
+Kenya,E. Africa Standard Time,+03:00,Nairobi,Nairobi,
+Russia,Vladivostok Standard Time,+10:00,Vladivostok,Nakhodka,
+Canada,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Nanaimo,BC
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Nanjing,
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Nantes,
+New Zealand,New Zealand Standard Time,+12:00,Auckland~Wellington,Napier,
+Italy,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Naples,
+Norway,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Narvik,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Nashville,TN
+Bahamas,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Nassau,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Navasota,TX
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Navi Mumbai,
+Chad,W. Central Africa Standard Time,+01:00,West Central Africa,N'Djamena,
+Sri Lanka,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Negombo,
+Argentina,SA Eastern Standard Time,-03:00,Georgetown~South America Eastern Time,Neuquen,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,New Delhi,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),New Orleans,LA
+Ireland,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,New Ross,
+Canada,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,New Westminster,BC
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),New York,NY
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Newark,NJ
+Australia,AUS Eastern Standard Time,+10:00,Canberra~Melbourne~Sydney,Newcastle,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Newcastle upon Tyne,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Newport,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Niagara Falls,NY
+Canada,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Niagara Falls,ON
+Niger,W. Central Africa Standard Time,+01:00,West Central Africa,Niamey,
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Nice,
+Cyprus,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Nicosia,
+Japan,Tokyo Standard Time,+09:00,Osaka~Sapporo~Tokyo,Niigata,
+Ukraine,Ukraine Standard Time,+02:00,Ukraine,Nikolaev,
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Nimes,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Ningbo,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Nizhniy Novgorod,
+Mexico,US Mountain Standard Time,-07:00,Arizona,Nogales,
+United States,Alaskan Standard Time,-09:00,Alaska,Nome,AK
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Norfolk,VA
+Canada,Eastern Standard Time,-05:00,Eastern Time (US & Canada),North Bay,ON
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,North Bend,OR
+Australia,AUS Eastern Standard Time,+10:00,Canberra~Melbourne~Sydney,North Ryde,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Norwich,
+Mauritania,Greenwich Standard Time,0,Greenwich Mean Time,Nouakchott,
+New Caledonia,Central Pacific Standard Time,+11:00,Solomon Is.~New Caledonia,Noumea,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Novgorod,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Novorossiysk,
+Russia,Novosibirsk Standard Time,+06:00,Novosibirsk,Novosibirsk,
+Mexico,Central Standard Time,-06:00,Central Time (US & Canada),Nuevo Laredo,
+Tonga,Tonga Standard Time,+13:00,Nuku'alofa,Nuku'alofa,
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Nurnberg,
+Greenland,Greenland Standard Time,-03:00,Greenland,Nuuk,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Ocala,FL
+Denmark,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Odense,
+Ukraine,Ukraine Standard Time,+02:00,Ukraine,Odessa,
+Macedonia,Central European Standard Time,+01:00,Sarajevo~Skopje~Warsaw~Zagreb,Ohrid,
+Mexico,Central Standard Time,-06:00,Central Time (US & Canada),Ojinaga,
+Pakistan,Pakistan Standard Time,+05:00,Pakistan,Okara,
+Russia,Sakhalin Standard Time,+10:00,Sakhalin,Okha,
+Russia,Khabarovsk Standard Time,+10:00,Khabarovsk,Okhotsk,
+Japan,Tokyo Standard Time,+09:00,Osaka~Sapporo~Tokyo,Okinawa,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Oklahoma City,OK
+Honduras,Central America Standard Time,-06:00,Central America,Olanchito,
+Brazil,SA Eastern Standard Time,-03:00,Georgetown~South America Eastern Time,Olinda,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Olympia,WA
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Omaha,NE
+Russia,Novosibirsk Standard Time,+06:00,Novosibirsk,Omsk,
+Nigeria,W. Central Africa Standard Time,+01:00,West Central Africa,Onitsha,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Ootacamund,
+Romania,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Oradea,
+Australia,AUS Eastern Standard Time,+10:00,Canberra~Melbourne~Sydney,Orange,
+Aruba,SA Western Standard Time,-04:00,La Paz,Oranjestad,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Orlando,FL
+Japan,Tokyo Standard Time,+09:00,Osaka~Sapporo~Tokyo,Osaka,
+Canada,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Oshawa,ON
+Norway,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Oslo,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Ostrov,
+Canada,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Ottawa,ON
+Burkina Faso,Greenwich Standard Time,0,Greenwich Mean Time,Ouagadougou,
+Finland,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Oulu,
+Spain,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Oviedo,
+Indonesia,SE Asia Standard Time,+07:00,Bangkok~Hanoi~Jakarta,Padang,
+United States,Hawaiian Standard Time,-10:00,Hawaii,Pahoa,HI
+Indonesia,SE Asia Standard Time,+07:00,Bangkok~Hanoi~Jakarta,Palembang,
+Micronesia~Federated States of,Central Pacific Standard Time,+11:00,Solomon Is.~New Caledonia,Palikir,
+Spain,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Palma,
+Brazil,Bahia Brazil Standard Time,-03:00,Bahia~Brazil,Palmas,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Palo Alto,CA
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Panaji,
+Panama,SA Pacific Standard Time,-05:00,Bogota~Lima~Quito,Panama City,
+Malaysia,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Pangkor,
+French Polynesia,Hawaiian Standard Time,-10:00,Hawaii,Papeete,
+Suriname,SA Eastern Standard Time,-03:00,Georgetown~South America Eastern Time,Paramaribo,
+New Zealand,New Zealand Standard Time,+12:00,Auckland~Wellington,Paraparaumu,
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Paris,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Parsippany,NJ
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Patna,
+Greece,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Patras,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Pearl,MS
+Paraguay,Paraguay Standard Time,-04:00,Paraguay,Pedro Juan Caballero,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Pensacola,FL
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Penza,
+Russia,Ekaterinburg Standard Time,+05:00,Ekaterinburg,Perm,
+Australia,W. Australia Standard Time,+08:00,Perth,Perth,
+Pakistan,Pakistan Standard Time,+05:00,Pakistan,Peshawar,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Peterhof,
+Russia,Petropavlovsk Standard Time,+12:00,Petropavlovsk,Petropavlovsk,
+Brazil,E. South America Standard Time,-03:00,Brasilia,Petropolis,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Philadelphia,PA
+Sint Maarten,SA Western Standard Time,-04:00,La Paz,Philipsburg,
+Cambodia,SE Asia Standard Time,+07:00,Bangkok~Hanoi~Jakarta,Phnom Penh,
+United States,US Mountain Standard Time,-07:00,Arizona,Phoenix,AZ
+Thailand,SE Asia Standard Time,+07:00,Bangkok~Hanoi~Jakarta,Phuket,
+Canada,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Pickering,ON
+Mexico,Central Standard Time,-06:00,Central Time (US & Canada),Piedras Negras,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Pierre,SD
+Slovakia,Central Europe Standard Time,+01:00,Belgrade~Bratislava~Budapest~Ljubljana~Prague,Piestany,
+Serbia,Central Europe Standard Time,+01:00,Belgrade~Bratislava~Budapest~Ljubljana~Prague,Pirot,
+Italy,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Pisa,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Pittsburgh,PA
+Peru,SA Pacific Standard Time,-05:00,Bogota~Lima~Quito,Piura,
+Mexico,Quintana Roo~ Mexico,-05:00,Quintana Roo~Mexico,Playa del Carmen,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Plymouth,
+Montenegro,Central Europe Standard Time,+01:00,Belgrade~Bratislava~Budapest~Ljubljana~Prague,Podgorica,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Point Pleasant Beach,NJ
+Sri Lanka,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Polonnaruwa,
+Indonesia,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Pomalaa,
+Portugal,Azores Standard Time,-01:00,Azores,Ponta Delgada,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Poole,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Porbandar,
+New Zealand,New Zealand Standard Time,+12:00,Auckland~Wellington,Porirua,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Port Angeles,WA
+Australia,Tasmania Standard Time,+10:00,Hobart,Port Arthur,
+South Africa,South Africa Standard Time,+02:00,Harare~Pretoria,Port Elizabeth,
+Nigeria,W. Central Africa Standard Time,+01:00,West Central Africa,Port Harcourt,
+Australia,W. Australia Standard Time,+08:00,Perth,Port Hedland,
+Mauritius,Mauritius Standard Time,+04:00,Mauritius,Port Louis,
+Papua New Guinea,West Pacific Standard Time,+10:00,Guam~Port Moresby,Port Moresby,
+Trinidad and Tobago,SA Western Standard Time,-04:00,La Paz,Port of Spain,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Port Orange,FL
+Vanuatu,Central Pacific Standard Time,+11:00,Solomon Is.~New Caledonia,Port Vila,
+Haiti,Haiti Standard Time,-05:00,Haiti,Port-au-Prince,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Portland,OR
+Portugal,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Porto,
+Brazil,E. South America Standard Time,-03:00,Brasilia,Porto Alegre,
+Benin,W. Central Africa Standard Time,+01:00,West Central Africa,Porto Novo,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Portsmouth,
+Argentina,Argentina Standard Time,-03:00,Argentina,Posadas,
+Czech Republic,Central Europe Standard Time,+01:00,Belgrade~Bratislava~Budapest~Ljubljana~Prague,Prague,
+Cape Verde,Cape Verde Standard Time,-01:00,Cape Verde Is.,Praia,
+Slovakia,Central Europe Standard Time,+01:00,Belgrade~Bratislava~Budapest~Ljubljana~Prague,Prievidza,
+Canada,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Prince George,BC
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Princeton,NJ
+Kosovo,Central Europe Standard Time,+01:00,Belgrade~Bratislava~Budapest~Ljubljana~Prague,Pristina,
+Mexico,Mexico Standard Time,-06:00,Guadalajara~Mexico City~Monterrey,Progreso,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Pskov,
+Mexico,Mexico Standard Time,-06:00,Guadalajara~Mexico City~Monterrey,Puebla,
+Ecuador,Central America Standard Time,-06:00,Central America,Puerto Ayora,
+Ecuador,Central America Standard Time,-06:00,Central America,Puerto Baquerizo Moreno,
+Mexico,US Mountain Standard Time,-07:00,Arizona,Puerto Penasco,
+Dominican Republic,SA Western Standard Time,-04:00,La Paz,Puerto Plata,
+Mexico,Mexico Standard Time,-06:00,Guadalajara~Mexico City~Monterrey,Puerto Vallarta,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Pune,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Puri,
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Puttgarden,
+Korea~North,North Korea Standard Time,+08:30,North Korea,Pyongyang,
+Saudi Arabia,Arab Standard Time,+03:00,Kuwait~Riyadh,Qatif,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Qingdao,
+United States,US Mountain Standard Time,-07:00,Arizona,Quartzsite,AZ
+Canada,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Quebec City,QC
+Pakistan,Pakistan Standard Time,+05:00,Pakistan,Quetta,
+Guatemala,Guatemala Standard Time,-06:00,Guatemala,Quezaltenango,
+Ecuador,SA Pacific Standard Time,-05:00,Bogota~Lima~Quito,Quito,
+Morocco,Morocco Standard Time,0,Morocco,Rabat,
+Pakistan,Pakistan Standard Time,+05:00,Pakistan,Rahim Yar Khan,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Rajahmundry,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Raleigh,NC
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Ramstein,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Ranchi,
+Burma,Myanmar Standard Time,+06:30,Rangoon,Rangoon,
+Italy,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Rapallo,
+United Arab Emirates,Arabian Standard Time,+04:00,Abu Dhabi~Muscat,Ras Al Khaimah,
+Argentina,SA Eastern Standard Time,-03:00,Georgetown~South America Eastern Time,Rawson,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Reading,
+Brazil,SA Eastern Standard Time,-03:00,Georgetown~South America Eastern Time,Recife,
+Canada,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Red Deer,AB
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Redmond,WA
+Canada,Canada Central Standard Time,-06:00,Saskatchewan,Regina,SK
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Reims,
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Rennes,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Reno,NV
+Canada,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Revelstoke,BC
+Iceland,Greenwich Standard Time,0,Greenwich Mean Time,Reykjavik,
+Mexico,Central Standard Time,-06:00,Central Time (US & Canada),Reynosa,
+Greece,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Rhodes,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Richmond,IN
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Richmond,VA
+Latvia,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Riga,
+Brazil,Rio Branco~ Brazil,-05:00,Rio Branco~Brazil,Rio Branco,
+Argentina,Argentina Standard Time,-03:00,Argentina,Rio Cuarto,
+Brazil,E. South America Standard Time,-03:00,Brasilia,Rio de Janeiro,
+Argentina,SA Eastern Standard Time,-03:00,Georgetown~South America Eastern Time,Rio Gallegos,
+United States,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Rio Rancho,NM
+Uruguay,Uruguay Standard Time,-03:00,Uruguay,Rivera,
+United States,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Riverton,UT
+Saudi Arabia,Arab Standard Time,+03:00,Kuwait~Riyadh,Riyadh,
+Virgin Islands~British,SA Western Standard Time,-04:00,La Paz,Road Town,
+Denmark,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Rodby,
+Italy,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Rome,
+Argentina,Argentina Standard Time,-03:00,Argentina,Rosario,
+Dominica,SA Western Standard Time,-04:00,La Paz,Roseau,
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Rostock,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Rostov na Donu,
+Netherlands,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Rotterdam,
+Finland,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Rovaniemi,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Russell Springs,KY
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Ryazan,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Rybinsk,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Sacramento,CA
+Grenada,SA Western Standard Time,-04:00,La Paz,Saint George's,
+Canada,Atlantic Standard Time,-04:00,Atlantic Time (Canada),Saint John,NB
+Reunion,Arabian Standard Time,+04:00,Abu Dhabi~Muscat,Saint-Denis,
+Saint Pierre and Miquelon,St Pierre and Miquelon Standard Time,-03:00,St Pierre and Miquelon,Saint-Pierre,
+Northern Mariana Islands,West Pacific Standard Time,+10:00,Guam~Port Moresby,Saipan,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Salem,OR
+United States,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Salt Lake City,UT
+Argentina,SA Eastern Standard Time,-03:00,Georgetown~South America Eastern Time,Salta,
+Uruguay,Uruguay Standard Time,-03:00,Uruguay,Salto,
+Brazil,Bahia Brazil Standard Time,-03:00,Bahia~Brazil,Salvador,
+Austria,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Salzburg,
+Russia,Samara Standard Time,+04:00,Samara,Samara,
+Turkey,Turkey Standard Time,+02:00,Turkey,Samsun,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),San Antonio,TX
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,San Bruno,CA
+Uruguay,Uruguay Standard Time,-03:00,Uruguay,San Carlos,
+Mexico,US Mountain Standard Time,-07:00,Arizona,San Carlos,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,San Diego,CA
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,San Francisco,CA
+Costa Rica,Central America Standard Time,-06:00,Central America,San Isidro,
+Costa Rica,Central America Standard Time,-06:00,Central America,San Jose,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,San Jose,CA
+Puerto Rico,SA Western Standard Time,-04:00,La Paz,San Juan,
+Argentina,SA Eastern Standard Time,-03:00,Georgetown~South America Eastern Time,San Juan,
+Argentina,Argentina Standard Time,-03:00,Argentina,San Lorenzo,
+Argentina,Argentina - San Luis Standard Time,-03:00,San Luis~Argentina,San Luis,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,San Luis Obispo,CA
+San Marino,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,San Marino,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,San Mateo,CA
+Honduras,Central America Standard Time,-06:00,Central America,San Pedro Sula,
+El Salvador,Central America Standard Time,-06:00,Central America,San Salvador,
+Spain,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,San Sebastian,
+Mexico,Mexico Standard Time,-06:00,Guadalajara~Mexico City~Monterrey,San Sebastian del Oeste,
+Yemen,Arab Standard Time,+03:00,Kuwait~Riyadh,Sanaa,
+El Salvador,Central America Standard Time,-06:00,Central America,Santa Ana,
+Cuba,Cuba Standard Time,-05:00,Cuba Standard Time,Santa Clara,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Santa Clara,CA
+Philippines,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Santa Cruz,
+Spain,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Santa Cruz de Tenerife,
+Argentina,Argentina Standard Time,-03:00,Argentina,Santa Fe,
+United States,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Santa Fe,NM
+Honduras,Central America Standard Time,-06:00,Central America,Santa Rosa,
+Argentina,SA Eastern Standard Time,-03:00,Georgetown~South America Eastern Time,Santa Rosa,
+Brazil,SA Eastern Standard Time,-03:00,Georgetown~South America Eastern Time,Santarem,
+Chile,Chile Standard Time,-03:00,Chile,Santiago,
+Mexico,Mexico Standard Time,-06:00,Guadalajara~Mexico City~Monterrey,Santiago,
+Cuba,Cuba Standard Time,-05:00,Cuba Standard Time,Santiago de Cuba,
+Dominican Republic,SA Western Standard Time,-04:00,La Paz,Santiago de los Caballeros,
+Dominican Republic,SA Western Standard Time,-04:00,La Paz,Santo Domingo,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Sanxiang,
+Brazil,E. South America Standard Time,-03:00,Brasilia,Sao Jose do Rio Preto,
+Brazil,E. South America Standard Time,-03:00,Brasilia,Sao Paulo,
+Sao Tome and Principe,Greenwich Standard Time,0,Greenwich Mean Time,Sao Tome,
+Japan,Tokyo Standard Time,+09:00,Osaka~Sapporo~Tokyo,Sapporo,
+Bosnia and Herzegovina,Central European Standard Time,+01:00,Sarajevo~Skopje~Warsaw~Zagreb,Sarajevo,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Saransk,
+Canada,Canada Central Standard Time,-06:00,Saskatchewan,Saskatoon,SK
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Saxonburg,PA
+Switzerland,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Schaffhausen,
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Schluechtern,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Seattle,WA
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Secunderabad,
+Indonesia,SE Asia Standard Time,+07:00,Bangkok~Hanoi~Jakarta,Semarang,
+Japan,Tokyo Standard Time,+09:00,Osaka~Sapporo~Tokyo,Sendai,
+Korea~South,Korea Standard Time,+09:00,Seoul,Seoul,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Sergiev Posad,
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Sete,
+Russia,Crimean Standard Time,+03:00,Crimea,Sevastopol,
+Ukraine,Ukraine Standard Time,+02:00,Ukraine,Severodonetsk,
+Spain,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Sevilla,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Shanghai,
+Ireland,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Shannon,
+United Arab Emirates,Arabian Standard Time,+04:00,Abu Dhabi~Muscat,Sharjah,
+Egypt,Egypt Standard Time,+02:00,Cairo,Sharm El Sheikh,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Sheffield,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Shekou,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Shenyang,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Shenzhen,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Shijiazhuang,
+Pakistan,Pakistan Standard Time,+05:00,Pakistan,Shikarpur,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Shimla,
+Iran,Iran Standard Time,+03:30,Tehran,Shiraz,
+Pakistan,Pakistan Standard Time,+05:00,Pakistan,Sialkot,
+Romania,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Sibiu,
+Tunisia,W. Central Africa Standard Time,+01:00,West Central Africa,Sidi Bou Said,
+Cambodia,SE Asia Standard Time,+07:00,Bangkok~Hanoi~Jakarta,Siem Reap,
+Sri Lanka,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Sigiriya,
+Philippines,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Silang,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Simatai,
+Russia,Crimean Standard Time,+03:00,Crimea,Simferopol,
+Portugal,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Sines,
+Singapore,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Singapore,
+Netherlands,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Sittard,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Sivakasi,
+Macedonia,Central European Standard Time,+01:00,Sarajevo~Skopje~Warsaw~Zagreb,Skopje,
+Ireland,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Sligo,
+Bulgaria,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Sliven,
+Netherlands,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Sneek,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Sochi,
+Bulgaria,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Sofia,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Solovki,
+Thailand,SE Asia Standard Time,+07:00,Bangkok~Hanoi~Jakarta,Songkhla,
+Tunisia,W. Central Africa Standard Time,+01:00,West Central Africa,Sousse,
+United States,Mountain Standard Time,-07:00,Mountain Time (US & Canada),South Jordan,UT
+Kiribati,Marshall Islands Standard Time,+12:00,Marshall Islands,South Tarawa,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Southampton,
+Netherlands,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Spijkenisse,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Spokane,WA
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Spring Hill,FL
+Canada,Eastern Standard Time,-05:00,Eastern Time (US & Canada),St. Catharines,ON
+Antigua and Barbuda,SA Western Standard Time,-04:00,La Paz,St. John's,
+Canada,Newfoundland Standard Time,#VALUE!,Newfoundland,St. John's,NL
+United States,Central Standard Time,-06:00,Central Time (US & Canada),St. Louis,MO
+United States,Central Standard Time,-06:00,Central Time (US & Canada),St. Paul,MN
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,St. Petersburg,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Stamford,CT
+Falkland Islands,Falkland Islands Standard Time,-03:00,Falkland Islands,Stanley,
+Norway,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Stavanger,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Stavropol,
+Norway,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Steinkjer,
+Sweden,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Stenungsund,
+Sweden,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Stockholm,
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Strasbourg,
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Stuttgart,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Suifenhe,
+Iraq,Arabic Standard Time,+03:00,Baghdad,Sulaimaniya,
+Peru,SA Pacific Standard Time,-05:00,Bogota~Lima~Quito,Sullana,
+Sweden,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Sundsvall,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Sunnyvale,CA
+Indonesia,SE Asia Standard Time,+07:00,Bangkok~Hanoi~Jakarta,Surabaya,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Surat,
+United States,US Mountain Standard Time,-07:00,Arizona,Surprise,AZ
+Fiji,Fiji Standard Time,+12:00,Fiji,Suva,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Suzdal,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Suzhou,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Swansea,
+United Kingdom,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Swindon,
+Australia,AUS Eastern Standard Time,+10:00,Canberra~Melbourne~Sydney,Sydney,
+Canada,Atlantic Standard Time,-04:00,Atlantic Time (Canada),Sydney,NS
+Bangladesh,Bangladesh Standard Time,+06:00,Bangladesh,Sylhet,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Syracuse,NY
+Hungary,Central Europe Standard Time,+01:00,Belgrade~Bratislava~Budapest~Ljubljana~Prague,Szombathely,
+United States,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Tacoma,WA
+Uruguay,Uruguay Standard Time,-03:00,Uruguay,Tacuarembo,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Taganrog,
+Philippines,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Taguig,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Taian,
+Taiwan,Taipei Standard Time,+08:00,Taipei,Taichung,
+Saudi Arabia,Arab Standard Time,+03:00,Kuwait~Riyadh,Taif,
+French Polynesia,Marquesas Islands Standard Time,#VALUE!,Marquesas Islands,Taiohae,
+Taiwan,Taipei Standard Time,+08:00,Taipei,Taipei,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Taiyuan,
+Yemen,Arab Standard Time,+03:00,Kuwait~Riyadh,Taiz,
+Iran,Iran Standard Time,+03:30,Tehran,Takab,
+Tunisia,W. Central Africa Standard Time,+01:00,West Central Africa,Takrouna,
+Estonia,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Tallinn,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Tampa,FL
+Guam,West Pacific Standard Time,+10:00,Guam~Port Moresby,Tamuning,
+Bangladesh,Bangladesh Standard Time,+06:00,Bangladesh,Tangail,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Tanggu,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Tangshan,
+Philippines,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Tanjay City,
+Uzbekistan,West Asia Standard Time,+05:00,Tashkent,Tashkent,
+Georgia,Tbilisi Standard Time,+04:00,Tbilisi,Tbilisi,
+Honduras,Central America Standard Time,-06:00,Central America,Tegucigalpa,
+Iran,Iran Standard Time,+03:30,Tehran,Tehran,
+Israel,Israel Standard Time,+02:00,Tel Aviv~Jerusalem,Tel Aviv,
+United States,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Telluride,CO
+Mexico,Mexico Standard Time 2,-07:00,Chihuahua~La Paz~Mazatlan,Tepic,
+Burma,Myanmar Standard Time,+06:30,Rangoon,Thaton,
+Netherlands,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,The Hague,
+Greece,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Thessaloniki,
+Senegal,Greenwich Standard Time,0,Greenwich Mean Time,Thies,
+Bhutan,Central Asia Standard Time,+06:00,Central Asia,Thimphu,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Thiruvananthapuram,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Tianjin,
+Mexico,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Tijuana,
+Romania,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Timisoara,
+Albania,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Tirana,
+Moldova,Moldova Standard Time,+02:00,Moldova,Tiraspol,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Tiruchirapalli,
+Mexico,Mexico Standard Time,-06:00,Guadalajara~Mexico City~Monterrey,Tizimin,
+Hungary,Central Europe Standard Time,+01:00,Belgrade~Bratislava~Budapest~Ljubljana~Prague,Toalmas,
+Japan,Tokyo Standard Time,+09:00,Osaka~Sapporo~Tokyo,Tokyo,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Toledo,OH
+Mexico,Mexico Standard Time,-06:00,Guadalajara~Mexico City~Monterrey,Toluca de Lerdo,
+Russia,Tomsk Standard Time,+06:00,Tomsk,Tomsk,
+Australia,E. Australia Standard Time,+10:00,Brisbane,Toowoomba,
+Canada,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Toronto,ON
+Faroe Islands,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Torshavn,
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Toulon,
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Toulouse,
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Tours,
+Australia,E. Australia Standard Time,+10:00,Brisbane,Townsville,
+Tunisia,W. Central Africa Standard Time,+01:00,West Central Africa,Tozeur,
+Sweden,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Trelleborg,
+Germany,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Trier,
+Italy,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Trieste,
+Libya,Libya Standard Time,+02:00,Libya,Tripoli,
+Norway,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Tromso,
+Norway,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Trondheim,
+Peru,SA Pacific Standard Time,-05:00,Bogota~Lima~Quito,Trujillo,
+South Africa,South Africa Standard Time,+02:00,Harare~Pretoria,Tshwane,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Tuapse,
+United States,US Mountain Standard Time,-07:00,Arizona,Tucson,AZ
+Argentina,Argentina Standard Time,-03:00,Argentina,Tucuman,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Tula,
+Romania,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Tulcea,
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Tulsa,OK
+Tunisia,W. Central Africa Standard Time,+01:00,West Central Africa,Tunis,
+Italy,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Turin,
+Finland,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Turku,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Tuticorin,
+Bosnia and Herzegovina,Central European Standard Time,+01:00,Sarajevo~Skopje~Warsaw~Zagreb,Tuzla,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Tver',
+Thailand,SE Asia Standard Time,+07:00,Bangkok~Hanoi~Jakarta,Ubon Ratchathani,
+Indonesia,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Ubud,
+Thailand,SE Asia Standard Time,+07:00,Bangkok~Hanoi~Jakarta,Udon Thani,
+Russia,Ekaterinburg Standard Time,+05:00,Ekaterinburg,Ufa,
+Mongolia,Ulaanbaatar Standard Time,+08:00,Ulaanbaatar,Ulaanbaatar,
+Russia,Ulan-Ude Standard Time,+08:00,Ulan-Ude,Ulan-Ude,
+Russia,Ulyanovsk Standard Time,+03:00,Ulyanovsk,Ulyanovsk,
+New Zealand,New Zealand Standard Time,+12:00,Auckland~Wellington,Upper Hutt,
+Sweden,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Uppsala,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Urumqi,
+Argentina,SA Eastern Standard Time,-03:00,Georgetown~South America Eastern Time,Ushuaia,
+Netherlands,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Utrecht,
+Ukraine,Ukraine Standard Time,+02:00,Ukraine,Uzhhorod,
+Finland,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Vaasa,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Vadodara,
+Liechtenstein,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Vaduz,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Valaam,
+Chile,Chile Standard Time,-03:00,Chile,Valdivia,
+Spain,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Valencia,
+Spain,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Valladolid,
+France,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Vallauris,
+Malta,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Valletta,
+Chile,Chile Standard Time,-03:00,Chile,Valparaiso,
+Canada,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Vancouver,BC
+Norway,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Vardo,
+Bulgaria,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Varna,
+Holy See (Vatican City),W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Vatican City,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Velikiye Luki,
+Italy,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Venice,
+Mexico,Mexico Standard Time,-06:00,Guadalajara~Mexico City~Monterrey,Veracruz,
+Italy,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Verona,
+Switzerland,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Vevey,
+Portugal,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Viana do Castello,
+Seychelles,Arabian Standard Time,+04:00,Abu Dhabi~Muscat,Victoria,
+Malta,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Victoria,
+Canada,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Victoria,BC
+Bulgaria,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Vidin,
+Argentina,SA Eastern Standard Time,-03:00,Georgetown~South America Eastern Time,Viedma,
+Austria,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Vienna,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Vienna,VA
+Laos,SE Asia Standard Time,+07:00,Bangkok~Hanoi~Jakarta,Vientiane,
+Portugal,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Vila Real,
+Lithuania,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Vilnius,
+Chile,Chile Standard Time,-03:00,Chile,Vina del Mar,
+Sweden,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Visby,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Vishakhapatnam,
+Spain,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Vitoria,
+India,India Standard Time,+05:30,Chennai~Kolkata~Mumbai~New Delhi,Vizianagaram,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Vladimir,
+Russia,Vladivostok Standard Time,+10:00,Vladivostok,Vladivostok,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Volgograd,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Vologda,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Volokolamsk,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Voronezh,
+Russia,Samara Standard Time,+04:00,Samara,Votkinsk,
+New Zealand,New Zealand Standard Time,+12:00,Auckland~Wellington,Waikanae,
+United States,Hawaiian Standard Time,-10:00,Hawaii,Waikoloa,HI
+United States,Hawaiian Standard Time,-10:00,Hawaii,Wailua,HI
+United States,Hawaiian Standard Time,-10:00,Hawaii,Waimea,HI
+Indonesia,Singapore Standard Time,+08:00,Kuala Lumpur~Singapore,Waingapu,
+Japan,Tokyo Standard Time,+09:00,Osaka~Sapporo~Tokyo,Wakkana,
+Australia,AUS Eastern Standard Time,+10:00,Canberra~Melbourne~Sydney,Warrnambool,
+Poland,Central European Standard Time,+01:00,Sarajevo~Skopje~Warsaw~Zagreb,Warsaw,
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Washington,DC
+Ireland,GMT Standard Time,0,Dublin~Edinburgh~Lisbon~London,Waterford,
+Canada,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Waterloo,ON
+New Zealand,New Zealand Standard Time,+12:00,Auckland~Wellington,Wellington,
+United States,Mountain Standard Time,-07:00,Mountain Time (US & Canada),West Wendover,NV
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Westford,MA
+Canada,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Whistler,BC
+Canada,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,White Rock,BC
+Canada,Pacific Standard Time,-08:00,Pacific Time (US & Canada); Tijuana,Whitehorse,YT
+United States,Central Standard Time,-06:00,Central Time (US & Canada),Wichita,KS
+Curacao,SA Western Standard Time,-04:00,La Paz,Willemstad,
+Namibia,Namibia Standard Time,+01:00,Namibia,Windhoek,
+United States,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Window Rock,AZ
+Canada,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Windsor,ON
+Canada,Central Standard Time,-06:00,Central Time (US & Canada),Winnipeg,MB
+United States,Eastern Standard Time,-05:00,Eastern Time (US & Canada),Winston-Salem,NC
+Australia,AUS Eastern Standard Time,+10:00,Canberra~Melbourne~Sydney,Wodonga,
+Australia,AUS Eastern Standard Time,+10:00,Canberra~Melbourne~Sydney,Wollongong,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Wuhan,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Xiamen,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Xian,
+Russia,Yakutsk Standard Time,+09:00,Yakutsk,Yakutsk,
+Russia,Crimean Standard Time,+03:00,Crimea,Yalta,
+Cote d'Ivoire,Greenwich Standard Time,0,Greenwich Mean Time,Yamoussoukro,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Yantai,
+Cameroon,W. Central Africa Standard Time,+01:00,West Central Africa,Yaounde,
+Russia,Russian Standard Time,+03:00,Moscow~St. Petersburg~Volgograd,Yaroslavl,
+Nepal,Nepal Standard Time,+05:45,Kathmandu,Yasok,
+Burma,Myanmar Standard Time,+06:30,Rangoon,Yawnghwe,
+Iran,Iran Standard Time,+03:30,Tehran,Yazd,
+Canada,Mountain Standard Time,-07:00,Mountain Time (US & Canada),Yellowknife,NT
+Armenia,Armenia Standard Time,+04:00,Yerevan,Yerevan,
+Russia,Crimean Standard Time,+03:00,Crimea,Yevpatoriya,
+Guam,West Pacific Standard Time,+10:00,Guam~Port Moresby,Yigo,
+Japan,Tokyo Standard Time,+09:00,Osaka~Sapporo~Tokyo,Yokohama,
+Japan,Tokyo Standard Time,+09:00,Osaka~Sapporo~Tokyo,Yokosuka,
+Russia,Sakhalin Standard Time,+10:00,Sakhalin,Yuzhno-Sakhalinsk,
+Netherlands,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Zaandam,
+Croatia,Central European Standard Time,+01:00,Sarajevo~Skopje~Warsaw~Zagreb,Zagreb,
+Greece,FLE Standard Time,+02:00,Helsinki~Riga~Sofia~Tallinn~Vilnius,Zakynthos,
+Ukraine,Ukraine Standard Time,+02:00,Ukraine,Zaporozhye,
+Spain,Romance Standard Time,+01:00,Brussels~Copenhagen~Madrid~Paris,Zaragoza,
+Kazakhstan,Central Asia Standard Time,+06:00,Central Asia,Zaysan,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Zhengzhou,
+China,China Standard Time,+08:00,Beijing~Chongqing~Hong Kong~Urumqi,Zhongshan,
+Mexico,Mexico Standard Time,-06:00,Guadalajara~Mexico City~Monterrey,Zihuatanejo,
+Croatia,Central European Standard Time,+01:00,Sarajevo~Skopje~Warsaw~Zagreb,Zupanja,
+Switzerland,W. Europe Standard Time,+01:00,Amsterdam~Berlin~Bern~Rome~Stockholm~Vienna,Zurich,
