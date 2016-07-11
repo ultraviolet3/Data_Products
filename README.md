@@ -1,5 +1,4 @@
-#Data Products
-#Project: WORLD CLOCK
+##WORLD CLOCK FOR DATA PRODUCTS
 
 ## Objective
 The objective of this report is to produce a user interface using shiny library. This project will have the following:
