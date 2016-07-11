@@ -18,7 +18,7 @@ To achieve the objectives, the project uses Shiny to develop an application to s
 The idea for the project is to get user(s) to select a city from a predefined list, convert the system time time the time in the city selected by the user. For instance, if the user select Chennai in Tamilnadu, India, then this application will use the sys time to determine the time in Chennai, Tamilnadu, India and display the results to the user. In addition, the application will also show the location of Chennai on the world map.
 
 ## Environment
-51. OS: Windows 7; 2. Tool: R studio Version  0.99.893, Shiny; 3. R packages used: shiny, ggmap, dplyr, lubridate, ggplot2; 4. Publishing tool: Shiny; 5. Analyst: Uma Venkataramani; 6. Date of Analysis: Jul 2016
+51. OS: Windows 7; 2. Tool: R studio Version  0.99.893, Shiny; 3. R packages used: shiny, ggmap, dplyr, lubridate, ggplot2; 4. Publishing tool: shinyapps.io; 5. Analyst: Uma Venkataramani; 6. Date of Analysis: Jul 2016
 
 ## Location of the project files
 https://github.com/ultraviolet3/Data_Products
