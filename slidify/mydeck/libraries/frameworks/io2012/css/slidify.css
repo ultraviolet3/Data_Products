@@ -47,7 +47,7 @@ article p, article li, article li.build, section p, section li{
   text-align: justify;
   font-size:22px;
   line-height: 1.5em;
-  color: #444;
+  color: #000000;
 }
 
 slide:not(.segue) h2{
@@ -60,7 +60,7 @@ slide:not(.segue) h2{
   line-height: 1.2em;
 /*  color: #193441;*/
 /*  color: #02574D;*/
-  color: #CC2904;
+  color: #000000;
 }
 
 /* Reduce Space between Title and Body */
