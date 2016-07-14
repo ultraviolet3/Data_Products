@@ -2,15 +2,16 @@
 title       : World Clock
 subtitle    : Data Products Shiny & Slidify project
 author      : Uma Venkat
-job         : 
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
-highlighter : highlight.js  # {highlight.js, prettify, highlight}
-hitheme     : tomorrow      # 
-widgets     : []            # {mathjax, quiz, bootstrap}
-mode        : selfcontained # {standalone, draft}
+framework   : io2012 # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js # {highlight.js, prettify, highlight}
+hitheme     : tomorrow # 
+widgets     : [bootstrap, interactive] # {mathjax, quiz, bootstrap}
+ext_widgets : {rCharts: [libraries/nvd3,libraries/morris,libraries/polycharts]}
+mode        : selfcontained # {standalone, draft, selfcontained}
 knit        : slidify::knit2slides
+---
 
---- .class #id
+--- .class #id 
 ### Objective
 The objective of this report is to produce a user interface using shiny library. This project will have the following:
 - Some form of input (widget: textbox, radio button, checkbox, ...)
