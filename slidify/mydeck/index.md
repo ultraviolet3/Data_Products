@@ -10,7 +10,7 @@ widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 
---- .class #id 
+--- .class #id
 ## Objective
 The objective of this report is to produce a user interface using shiny library. This project will have the following:
 - Some form of input (widget: textbox, radio button, checkbox, ...)
@@ -41,14 +41,15 @@ The idea for the project is to get user(s) to select a city from a predefined li
 
 --- .class #id 
 ## Location of the project files
-- Files: https://github.com/ultraviolet3/Data_Products
+- Shiny Repo:  https://ultraviolet.shinyapps.io/DataProducts/
+- Github: https://github.com/ultraviolet3/Data_Products
 - Published project: https://ultraviolet.shinyapps.io/DataProducts/
 
 --- .class #id 
 ## Data Source
 Data: The data used for this project was manually compiled based on various various websites including 
-- timezonedb.com
+- timezonedb.com 
 - http://www.timeanddate.com/
 - https://en.wikipedia.org/wiki/List_of_tz_database_time_zones. 
 
-Disclaimer: Since the data was manually compiled, there is a possibility of errors and the result displayed may not be accurate
+Disclaimer: Since the data was manually compiled, there is a possibility of errors and the result displayed may not be accurate.

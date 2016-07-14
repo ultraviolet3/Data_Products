@@ -27,7 +27,7 @@
 }
 
 .definition {
-  background-color: #dddd00;
+  background-color: #FF9999;
   top: 1.2em;
   right: -3.2em;
   -webkit-transform: rotate(45deg);
@@ -50,9 +50,11 @@
 }
 
 .title-slide {
-  background-color: #c3b0c3;
+  background-color: #FF66FF;
+  color: #AA9A39;
 }
 
-.slide {
-  background-color: #dddd00;
+.class {
+  background-color: #CCFF66;
+  color: #AA9A39;
 }
