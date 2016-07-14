@@ -2,22 +2,20 @@
 
 # ui.R file for the shiny app
 
-library(markdown)
+
 library(shiny)
-library(leaflet)
-
-
-
+library(rsconnect)
+library(markdown)
 
 shinyUI(fluidPage(h1("World Clock"),
-
-        plotOutput('maps'),
+        fluidRow(column(12,
+        plotOutput('maps',width="80%",height="400px"))),
         fluidRow(column(2,
-                        h4("Choose a City"),
+
                         uiOutput("cities")
                         ),
                  column(9,h4("Time"),
-                        dataTableOutput("times")),
+                        DT:: dataTableOutput("times")),
 
         fluidRow(
         column(12,includeMarkdown(("README.md")))

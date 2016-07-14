@@ -6,6 +6,7 @@
 # using mtcars dataset, from [R]
 
 library(shiny)
+library(rsconnect)
 library(dplyr)
 library(lubridate)
 library(ggplot2)
@@ -13,13 +14,15 @@ library(ggmap)
 library(maps)
 library(DT)
 library(devtools)
+library(lint)
+
 
 
 load<- function(tzfile="tz.csv"){
   wd=getwd()
   file=paste(wd,tz,sep="/")
-  if(!file.exists(file)) {
-    download.file("https://github.com/ultraviolet3/Data_Products/blob/master/tz.csv",file)}
+    if(!file.exists(file)) {
+    download.file("https://github.com/ultraviolet3/Data_Products/blob/master/data/tz.csv",file)}
   tzdf<<-data.frame(read.csv(file,header=T,sep=",",stringsAsFactors = T, na.strings=c("?",NA,"NA"," ",NULL,"#DIV/0!"), blank.lines.skip = T))
 }
 
@@ -77,13 +80,14 @@ cmap<- function(y,df=tzres){
 
 
 shinyServer(function(input,output) {
-
-  output$cities <- renderUI({selectInput('city',"City",choices=cities(), selected = "All", multiple = FALSE)})
+  x=cities()
+  output$cities <- renderUI({selectInput('city',"City",choices=x, selected = "All", multiple = FALSE)})
   observeEvent(input$city, {
     y<-input$city
     cmaps<-cmap(y)
-    output$maps<- renderPlot(cmaps)
     output$times <- renderDataTable({procdata(y)})
+    output$maps<- renderPlot(cmaps)
+
 })
 })
 
