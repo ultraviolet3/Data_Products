@@ -20,8 +20,8 @@ library(lint)
 
 load<- function(tzfile="tz.csv"){
   wd=getwd()
-  file=paste(wd,tz,sep="/")
-    if(!file.exists(file)) {
+  file=paste(wd,tzfile,sep="/")
+      if(!file.exists(file)) {
     download.file("https://github.com/ultraviolet3/Data_Products/blob/master/data/tz.csv",file)}
   tzdf<<-data.frame(read.csv(file,header=T,sep=",",stringsAsFactors = T, na.strings=c("?",NA,"NA"," ",NULL,"#DIV/0!"), blank.lines.skip = T))
 }

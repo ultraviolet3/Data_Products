@@ -1,0 +1,1338 @@
+Country,Zone,City,State,Standard
+Afghanistan,Asia/Kabul,Kabul,,Afghanistan Standard Time
+Afghanistan,Asia/Kabul,Kandahar,,Afghanistan Standard Time
+Albania,Europe/Tirane,Mazari Sharif,,Afghanistan Standard Time
+Albania,Europe/Tirane,Durres,,W. Europe Standard Time
+Algeria,Africa/Algiers,Tirana,,W. Europe Standard Time
+Andorra,Europe/Andorra,Algiers,,W. Central Africa Standard Time
+Angola,Africa/Luanda,Andorra la Vella,,Romance Standard Time
+Antigua and Barbuda,America/Antigua,Luanda,,W. Central Africa Standard Time
+Argentina,America/Argentina/Buenos_Aires,St. John's,,SA Western Standard Time
+Argentina,America/Argentina/Buenos_Aires,Bahia Blanca,,Argentina Standard Time
+Argentina,America/Argentina/Buenos_Aires,Buenos Aires,,Argentina Standard Time
+Argentina,America/Argentina/Buenos_Aires,Catamarca,,SA Eastern Standard Time
+Argentina,America/Argentina/Buenos_Aires,Cordoba,,Argentina Standard Time
+Argentina,America/Argentina/Buenos_Aires,Corrientes,,Argentina Standard Time
+Argentina,America/Argentina/Buenos_Aires,Jujuy,,SA Eastern Standard Time
+Argentina,America/Argentina/Buenos_Aires,La Rioja,,SA Eastern Standard Time
+Argentina,America/Argentina/Buenos_Aires,Mendoza,,SA Eastern Standard Time
+Argentina,America/Argentina/Buenos_Aires,Neuquen,,SA Eastern Standard Time
+Argentina,America/Argentina/Buenos_Aires,Posadas,,Argentina Standard Time
+Argentina,America/Argentina/Buenos_Aires,Rawson,,SA Eastern Standard Time
+Argentina,America/Argentina/Buenos_Aires,Rio Cuarto,,Argentina Standard Time
+Argentina,America/Argentina/Buenos_Aires,Rio Gallegos,,SA Eastern Standard Time
+Argentina,America/Argentina/Buenos_Aires,Rosario,,Argentina Standard Time
+Argentina,America/Argentina/Buenos_Aires,Salta,,SA Eastern Standard Time
+Argentina,America/Argentina/Buenos_Aires,San Juan,,SA Eastern Standard Time
+Argentina,America/Argentina/Buenos_Aires,San Lorenzo,,Argentina Standard Time
+Argentina,America/Argentina/Buenos_Aires,San Luis,,Argentina - San Luis Standard Time
+Argentina,America/Argentina/Buenos_Aires,Santa Fe,,Argentina Standard Time
+Argentina,America/Argentina/Buenos_Aires,Santa Rosa,,SA Eastern Standard Time
+Argentina,America/Argentina/Buenos_Aires,Tucuman,,Argentina Standard Time
+Argentina,America/Argentina/Buenos_Aires,Ushuaia,,SA Eastern Standard Time
+Armenia,Asia/Yerevan,Viedma,,SA Eastern Standard Time
+Armenia,Asia/Yerevan,Gyumri,,Armenia Standard Time
+Aruba,America/Aruba,Yerevan,,Armenia Standard Time
+Australia,Australia/Lord_Howe,Oranjestad,,SA Western Standard Time
+Australia,Australia/Lord_Howe,Adelaide,,Cen. Australia Standard Time
+Australia,Australia/Lord_Howe,Albury,,AUS Eastern Standard Time
+Australia,Australia/Lord_Howe,Alice Springs,,AUS Central Standard Time
+Australia,Australia/Lord_Howe,Brisbane,,E. Australia Standard Time
+Australia,Australia/Lord_Howe,Cairns,,E. Australia Standard Time
+Australia,Australia/Lord_Howe,Canberra,,AUS Eastern Standard Time
+Australia,Australia/Lord_Howe,Dampier,,W. Australia Standard Time
+Australia,Australia/Lord_Howe,Darwin,,AUS Central Standard Time
+Australia,Australia/Lord_Howe,Gatton,,E. Australia Standard Time
+Australia,Australia/Lord_Howe,Gladstone,,E. Australia Standard Time
+Australia,Australia/Lord_Howe,Gosford,,AUS Eastern Standard Time
+Australia,Australia/Lord_Howe,Grafton,,AUS Eastern Standard Time
+Australia,Australia/Lord_Howe,Hobart,,Tasmania Standard Time
+Australia,Australia/Lord_Howe,Kingston,Norfolk Island,Norfolk Island Standard Time
+Australia,Australia/Lord_Howe,Launceston,,Tasmania Standard Time
+Australia,Australia/Lord_Howe,Lismore,,AUS Eastern Standard Time
+Australia,Australia/Lord_Howe,Mackay,,E. Australia Standard Time
+Australia,Australia/Lord_Howe,Mandurah,,W. Australia Standard Time
+Australia,Australia/Lord_Howe,Melbourne,,AUS Eastern Standard Time
+Australia,Australia/Lord_Howe,Newcastle,,AUS Eastern Standard Time
+Australia,Australia/Lord_Howe,North Ryde,,AUS Eastern Standard Time
+Australia,Australia/Lord_Howe,Orange,,AUS Eastern Standard Time
+Australia,Australia/Lord_Howe,Perth,,W. Australia Standard Time
+Australia,Australia/Lord_Howe,Port Arthur,,Tasmania Standard Time
+Australia,Australia/Lord_Howe,Port Hedland,,W. Australia Standard Time
+Australia,Australia/Lord_Howe,Sydney,,AUS Eastern Standard Time
+Australia,Australia/Lord_Howe,Toowoomba,,E. Australia Standard Time
+Australia,Australia/Lord_Howe,Townsville,,E. Australia Standard Time
+Australia,Australia/Lord_Howe,Warrnambool,,AUS Eastern Standard Time
+Australia,Australia/Lord_Howe,Wodonga,,AUS Eastern Standard Time
+Austria,Europe/Vienna,Wollongong,,AUS Eastern Standard Time
+Austria,Europe/Vienna,Gratkorn,,W. Europe Standard Time
+Austria,Europe/Vienna,Graz,,W. Europe Standard Time
+Austria,Europe/Vienna,Salzburg,,W. Europe Standard Time
+Azerbaijan,Asia/Baku,Vienna,,W. Europe Standard Time
+Bahamas,America/Nassau,Baku,,Baku Standard Time
+Bahrain,Asia/Bahrain,Nassau,,Eastern Standard Time
+Bangladesh,Asia/Dhaka,Manama,,Arab Standard Time
+Bangladesh,Asia/Dhaka,Bandarban,,Bangladesh Standard Time
+Bangladesh,Asia/Dhaka,Chittagong,,Bangladesh Standard Time
+Bangladesh,Asia/Dhaka,Cox's Bazar,,Bangladesh Standard Time
+Bangladesh,Asia/Dhaka,Dhaka,,Bangladesh Standard Time
+Bangladesh,Asia/Dhaka,Sylhet,,Bangladesh Standard Time
+Barbados,America/Barbados,Tangail,,Bangladesh Standard Time
+Belarus,Europe/Minsk,Bridgetown,,SA Western Standard Time
+Belgium,Europe/Brussels,Minsk,,Belarus Standard Time
+Belgium,Europe/Brussels,Antwerp,,Romance Standard Time
+Belgium,Europe/Brussels,Brussels,,Romance Standard Time
+Belgium,Europe/Brussels,Etterbeek,,Romance Standard Time
+Belgium,Europe/Brussels,Gent,,Romance Standard Time
+Belize,America/Belize,Halle,,Romance Standard Time
+Belize,America/Belize,Belize City,,Central America Standard Time
+Benin,Africa/Porto-Novo,Belmopan,,Central America Standard Time
+Benin,Africa/Porto-Novo,Cotonou,,W. Central Africa Standard Time
+Bermuda,Atlantic/Bermuda,Porto Novo,,W. Central Africa Standard Time
+Bhutan,Asia/Thimphu,Hamilton,,Atlantic Standard Time
+Bolivia,America/La_Paz,Thimphu,,Central Asia Standard Time
+Bosnia and Herzegovina,Europe/Sarajevo,La Paz,,SA Western Standard Time
+Bosnia and Herzegovina,Europe/Sarajevo,Banja Luka,,Central European Standard Time
+Bosnia and Herzegovina,Europe/Sarajevo,Sarajevo,,Central European Standard Time
+Botswana,Africa/Gaborone,Tuzla,,Central European Standard Time
+Brazil,America/Noronha,Gaborone,,South Africa Standard Time
+Brazil,America/Noronha,Arraial do Cabo,,E. South America Standard Time
+Brazil,America/Noronha,Belo Horizonte,,E. South America Standard Time
+Brazil,America/Noronha,Brasilia,,E. South America Standard Time
+Brazil,America/Noronha,Campinas,,E. South America Standard Time
+Brazil,America/Noronha,Cuiaba,,Cuiaba Standard Time
+Brazil,America/Noronha,Curitiba,,E. South America Standard Time
+Brazil,America/Noronha,Eirunepe,,Rio Branco~ Brazil
+Brazil,America/Noronha,Fortaleza,,SA Eastern Standard Time
+Brazil,America/Noronha,Joao Pessoa,,SA Eastern Standard Time
+Brazil,America/Noronha,Macapa,,SA Eastern Standard Time
+Brazil,America/Noronha,Manaus,,SA Western Standard Time
+Brazil,America/Noronha,Olinda,,SA Eastern Standard Time
+Brazil,America/Noronha,Palmas,,Bahia Brazil Standard Time
+Brazil,America/Noronha,Petropolis,,E. South America Standard Time
+Brazil,America/Noronha,Porto Alegre,,E. South America Standard Time
+Brazil,America/Noronha,Recife,,SA Eastern Standard Time
+Brazil,America/Noronha,Rio Branco,,Rio Branco~ Brazil
+Brazil,America/Noronha,Rio de Janeiro,,E. South America Standard Time
+Brazil,America/Noronha,Salvador,,Bahia Brazil Standard Time
+Brazil,America/Noronha,Santarem,,SA Eastern Standard Time
+Brazil,America/Noronha,Sao Jose do Rio Preto,,E. South America Standard Time
+Brunei,Asia/Brunei,Sao Paulo,,E. South America Standard Time
+Bulgaria,Europe/Sofia,Bandar Seri Begawan,,Singapore Standard Time
+Bulgaria,Europe/Sofia,Albena,,FLE Standard Time
+Bulgaria,Europe/Sofia,Belogradchik,,FLE Standard Time
+Bulgaria,Europe/Sofia,Sliven,,FLE Standard Time
+Bulgaria,Europe/Sofia,Sofia,,FLE Standard Time
+Bulgaria,Europe/Sofia,Varna,,FLE Standard Time
+Burkina Faso,Africa/Ouagadougou,Vidin,,FLE Standard Time
+Myanmar,Asia/Rangoon,Ouagadougou,,Greenwich Standard Time
+Myanmar,Asia/Rangoon,Kyaikto,,Myanmar Standard Time
+Myanmar,Asia/Rangoon,Mandalay,,Myanmar Standard Time
+Myanmar,Asia/Rangoon,Rangoon,,Myanmar Standard Time
+Myanmar,Asia/Rangoon,Thaton,,Myanmar Standard Time
+Burundi,Africa/Bujumbura,Yawnghwe,,Myanmar Standard Time
+Cambodia,Asia/Phnom_Penh,Bujumbura,,South Africa Standard Time
+Cambodia,Asia/Phnom_Penh,Phnom Penh,,SE Asia Standard Time
+Cameroon,Africa/Douala,Siem Reap,,SE Asia Standard Time
+Cameroon,Africa/Douala,Douala,,W. Central Africa Standard Time
+Canada,America/St_Johns,Yaounde,,W. Central Africa Standard Time
+Canada,America/Vancouver,Abbotsford,BC,Pacific Standard Time
+Canada,America/Cambridge_Bay,Aklavik,NT,Mountain Standard Time
+Canada,America/Goose_Bay,Alert,NU,Eastern Standard Time
+Canada,America/Halifax,Amherst,NS,Atlantic Standard Time
+Canada,America/Vancouver,Armstrong,BC,Pacific Standard Time
+Canada,America/Edmonton,Banff,AB,Mountain Standard Time
+Canada,America/Toronto,Barrie,ON,Eastern Standard Time
+Canada,America/Vancouver,Burnaby,BC,Pacific Standard Time
+Canada,America/Edmonton,Calgary,AB,Mountain Standard Time
+Canada,America/Edmonton,Canmore,AB,Mountain Standard Time
+Canada,America/Halifax,Charlottetown,PE,Atlantic Standard Time
+Canada,America/Vancouver,Chilliwack,BC,Pacific Standard Time
+Canada,America/Vancouver,Cranbrook,BC,Mountain Standard Time
+Canada,America/Edmonton,Edmonton,AB,Mountain Standard Time
+Canada,America/Vancouver,Golden,BC,Mountain Standard Time
+Canada,America/Toronto,Guelph,ON,Eastern Standard Time
+Canada,America/Halifax,Halifax,NS,Atlantic Standard Time
+Canada,America/Toronto,Hamilton,ON,Eastern Standard Time
+Canada,America/Vancouver,Hope,BC,Pacific Standard Time
+Canada,America/Montreal,Huntingdon,QC,Eastern Standard Time
+Canada,America/Cambridge_Bay,Inuvik,NT,Mountain Standard Time
+Canada,America/Goose_Bay,Iqaluit,NU,Eastern Standard Time
+Canada,America/Edmonton,Jasper,AB,Mountain Standard Time
+Canada,America/Vancouver,Kamloops,BC,Pacific Standard Time
+Canada,America/Vancouver,Kelowna,BC,Pacific Standard Time
+Canada,America/Toronto,Kingston,ON,Eastern Standard Time
+Canada,America/Toronto,Kitchener,ON,Eastern Standard Time
+Canada,America/Toronto,London,ON,Eastern Standard Time
+Canada,America/Vancouver,Mission,BC,Pacific Standard Time
+Canada,America/Toronto,Mississauga,ON,Eastern Standard Time
+Canada,America/Moncton,Moncton,NB,Atlantic Standard Time
+Canada,America/Montreal,Montreal,QC,Eastern Standard Time
+Canada,America/Vancouver,Nanaimo,BC,Pacific Standard Time
+Canada,America/Vancouver,New Westminster,BC,Pacific Standard Time
+Canada,America/Toronto,Niagara Falls,ON,Eastern Standard Time
+Canada,America/Toronto,North Bay,ON,Eastern Standard Time
+Canada,America/Toronto,Oshawa,ON,Eastern Standard Time
+Canada,America/Toronto,Ottawa,ON,Eastern Standard Time
+Canada,America/Toronto,Pickering,ON,Eastern Standard Time
+Canada,America/Vancouver,Prince George,BC,Pacific Standard Time
+Canada,America/Montreal,Quebec City,QC,Eastern Standard Time
+Canada,America/Edmonton,Red Deer,AB,Mountain Standard Time
+Canada,America/Regina,Regina,SK,Canada Central Standard Time
+Canada,America/Vancouver,Revelstoke,BC,Pacific Standard Time
+Canada,America/Moncton,Saint John,NB,Atlantic Standard Time
+Canada,America/Regina,Saskatoon,SK,Canada Central Standard Time
+Canada,America/Toronto,St. Catharines,ON,Eastern Standard Time
+Canada,America/St_Johns,St. John's,NL,Newfoundland Standard Time
+Canada,America/Halifax,Sydney,NS,Atlantic Standard Time
+Canada,America/Toronto,Toronto,ON,Eastern Standard Time
+Canada,America/Vancouver,Vancouver,BC,Pacific Standard Time
+Canada,America/Vancouver,Victoria,BC,Pacific Standard Time
+Canada,America/Toronto,Waterloo,ON,Eastern Standard Time
+Canada,America/Vancouver,Whistler,BC,Pacific Standard Time
+Canada,America/Vancouver,White Rock,BC,Pacific Standard Time
+Canada,America/Whitehorse,Whitehorse,YT,Pacific Standard Time
+Canada,America/Toronto,Windsor,ON,Eastern Standard Time
+Canada,America/Winnipeg,Winnipeg,MB,Central Standard Time
+Cape Verde,Atlantic/Cape_Verde,Yellowknife,NT,Mountain Standard Time
+Cayman Islands,America/Cayman,Praia,,Cape Verde Standard Time
+Central African Republic,Africa/Bangui,George Town,,Cayman Islands Standard Time
+Chad,Africa/Ndjamena,Bangui,,W. Central Africa Standard Time
+Chile,America/Santiago,N'Djamena,,W. Central Africa Standard Time
+Chile,America/Santiago,Arica,,Chile Standard Time
+Chile,America/Santiago,Santiago,,Chile Standard Time
+Chile,America/Santiago,Valdivia,,Chile Standard Time
+Chile,America/Santiago,Valparaiso,,Chile Standard Time
+China,Asia/Shanghai,Vina del Mar,,Chile Standard Time
+China,Asia/Shanghai,Anshan,,China Standard Time
+China,Asia/Shanghai,Baotou,,China Standard Time
+China,Asia/Shanghai,Beijing,,China Standard Time
+China,Asia/Shanghai,Benxi,,China Standard Time
+China,Asia/Shanghai,Changchun,,China Standard Time
+China,Asia/Shanghai,Chengdu,,China Standard Time
+China,Asia/Shanghai,Chongqing,,China Standard Time
+China,Asia/Shanghai,Dalian,,China Standard Time
+China,Asia/Shanghai,Dandong,,China Standard Time
+China,Asia/Shanghai,Foshan,,China Standard Time
+China,Asia/Shanghai,Fuzhou,,China Standard Time
+China,Asia/Shanghai,Guangzhou,,China Standard Time
+China,Asia/Shanghai,Hangzhou,,China Standard Time
+China,Asia/Shanghai,Hanjiang,,China Standard Time
+China,Asia/Shanghai,Harbin,,China Standard Time
+China,Asia/Shanghai,Hohhot,,China Standard Time
+China,Asia/Shanghai,Hong Kong,,China Standard Time
+China,Asia/Shanghai,Huizhou,,China Standard Time
+China,Asia/Shanghai,Jilin,,China Standard Time
+China,Asia/Shanghai,Jinan,,China Standard Time
+China,Asia/Shanghai,Jinzhou,,China Standard Time
+China,Asia/Shanghai,Kowloon,,China Standard Time
+China,Asia/Shanghai,Kunming,,China Standard Time
+China,Asia/Shanghai,Lanzhou,,China Standard Time
+China,Asia/Shanghai,Luancheng,,China Standard Time
+China,Asia/Shanghai,Macau,,China Standard Time
+China,Asia/Shanghai,Nanjing,,China Standard Time
+China,Asia/Shanghai,Ningbo,,China Standard Time
+China,Asia/Shanghai,Qingdao,,China Standard Time
+China,Asia/Shanghai,Sanxiang,,China Standard Time
+China,Asia/Shanghai,Shanghai,,China Standard Time
+China,Asia/Shanghai,Shekou,,China Standard Time
+China,Asia/Shanghai,Shenyang,,China Standard Time
+China,Asia/Shanghai,Shenzhen,,China Standard Time
+China,Asia/Shanghai,Shijiazhuang,,China Standard Time
+China,Asia/Shanghai,Simatai,,China Standard Time
+China,Asia/Shanghai,Suifenhe,,China Standard Time
+China,Asia/Shanghai,Suzhou,,China Standard Time
+China,Asia/Shanghai,Taian,,China Standard Time
+China,Asia/Shanghai,Taiyuan,,China Standard Time
+China,Asia/Shanghai,Tanggu,,China Standard Time
+China,Asia/Shanghai,Tangshan,,China Standard Time
+China,Asia/Shanghai,Tianjin,,China Standard Time
+China,Asia/Shanghai,Urumqi,,China Standard Time
+China,Asia/Shanghai,Wuhan,,China Standard Time
+China,Asia/Shanghai,Xiamen,,China Standard Time
+China,Asia/Shanghai,Xian,,China Standard Time
+China,Asia/Shanghai,Yantai,,China Standard Time
+China,Asia/Shanghai,Zhengzhou,,China Standard Time
+Cuba,America/Havana,Zhongshan,,China Standard Time
+Cuba,America/Havana,Cienfuegos,,Cuba Standard Time
+Cuba,America/Havana,Havana,,Cuba Standard Time
+Cuba,America/Havana,Manzanillo,,Cuba Standard Time
+Cuba,America/Havana,Santa Clara,,Cuba Standard Time
+Curacao,America/Curacao,Santiago de Cuba,,Cuba Standard Time
+Cyprus,Asia/Nicosia,Willemstad,,SA Western Standard Time
+Cyprus,Asia/Nicosia,Limassol,,FLE Standard Time
+Czech Republic,Europe/Prague,Nicosia,,FLE Standard Time
+Czech Republic,Europe/Prague,Brno,,Central Europe Standard Time
+Czech Republic,Europe/Prague,Karlovy Vary,,Central Europe Standard Time
+Denmark,Europe/Copenhagen,Prague,,Central Europe Standard Time
+Denmark,Europe/Copenhagen,Aalborg,,Romance Standard Time
+Denmark,Europe/Copenhagen,Aarhus,,Romance Standard Time
+Denmark,Europe/Copenhagen,Copenhagen,,Romance Standard Time
+Denmark,Europe/Copenhagen,Helsingor,,Romance Standard Time
+Denmark,Europe/Copenhagen,Horsens,,Romance Standard Time
+Denmark,Europe/Copenhagen,Odense,,Romance Standard Time
+Slovakia,Europe/Bratislava,Rodby,,Romance Standard Time
+Slovakia,Europe/Bratislava,Bratislava,,Central Europe Standard Time
+Slovakia,Europe/Bratislava,Piestany,,Central Europe Standard Time
+Slovenia,Europe/Ljubljana,Prievidza,,Central Europe Standard Time
+Solomon Islands,Pacific/Guadalcanal,Ljubljana,,Central Europe Standard Time
+Somalia,Africa/Mogadishu,Honiara,,Central Pacific Standard Time
+South Africa,Africa/Johannesburg,Mogadishu,,E. Africa Standard Time
+South Africa,Africa/Johannesburg,Bloemfontein,,South Africa Standard Time
+South Africa,Africa/Johannesburg,Cape Town,,South Africa Standard Time
+South Africa,Africa/Johannesburg,Durban,,South Africa Standard Time
+South Africa,Africa/Johannesburg,East London,,South Africa Standard Time
+South Africa,Africa/Johannesburg,Johannesburg,,South Africa Standard Time
+South Africa,Africa/Johannesburg,Kimberley,,South Africa Standard Time
+South Africa,Africa/Johannesburg,Knysna,,South Africa Standard Time
+South Africa,Africa/Johannesburg,Port Elizabeth,,South Africa Standard Time
+South Sudan,Africa/Juba,Tshwane,,South Africa Standard Time
+Spain,Europe/Madrid,Juba,,E. Africa Standard Time
+Spain,Europe/Madrid,Alicante,,Romance Standard Time
+Spain,Europe/Madrid,Almeria,,Romance Standard Time
+Spain,Europe/Madrid,Badajoz,,Romance Standard Time
+Spain,Europe/Madrid,Barcelona,,W. Europe Standard Time
+Spain,Europe/Madrid,Bilbao,,Romance Standard Time
+Spain,Europe/Madrid,Blanes,,Romance Standard Time
+Spain,Europe/Madrid,Burgos,,Romance Standard Time
+Spain,Europe/Madrid,Cartagena,,Romance Standard Time
+Spain,Europe/Madrid,Ezcaray,,Romance Standard Time
+Spain,Europe/Madrid,Girona,,Romance Standard Time
+Spain,Europe/Madrid,Granada,,Romance Standard Time
+Spain,Europe/Madrid,Hostalric,,Romance Standard Time
+Spain,Europe/Madrid,Huelva,,Romance Standard Time
+Spain,Europe/Madrid,Jaen,,Romance Standard Time
+Spain,Europe/Madrid,Leon,,Romance Standard Time
+Spain,Europe/Madrid,Madrid,,Romance Standard Time
+Spain,Europe/Madrid,Malaga,,Romance Standard Time
+Spain,Europe/Madrid,Oviedo,,Romance Standard Time
+Spain,Europe/Madrid,Palma,,Romance Standard Time
+Spain,Europe/Madrid,San Sebastian,,Romance Standard Time
+Spain,Europe/Madrid,Santa Cruz de Tenerife,,GMT Standard Time
+Spain,Europe/Madrid,Sevilla,,Romance Standard Time
+Spain,Europe/Madrid,Valencia,,Romance Standard Time
+Spain,Europe/Madrid,Valladolid,,Romance Standard Time
+Spain,Europe/Madrid,Vitoria,,Romance Standard Time
+Sri Lanka,Asia/Colombo,Zaragoza,,Romance Standard Time
+Sri Lanka,Asia/Colombo,Colombo,,India Standard Time
+Sri Lanka,Asia/Colombo,Dambulla,,India Standard Time
+Sri Lanka,Asia/Colombo,Galle,,India Standard Time
+Sri Lanka,Asia/Colombo,Hikkaduwa,,India Standard Time
+Sri Lanka,Asia/Colombo,Homagama,,India Standard Time
+Sri Lanka,Asia/Colombo,Kalutara,,India Standard Time
+Sri Lanka,Asia/Colombo,Kandy,,India Standard Time
+Sri Lanka,Asia/Colombo,Kurunegala,,India Standard Time
+Sri Lanka,Asia/Colombo,Matale,,India Standard Time
+Sri Lanka,Asia/Colombo,Negombo,,India Standard Time
+Sri Lanka,Asia/Colombo,Polonnaruwa,,India Standard Time
+Sudan,Africa/Khartoum,Sigiriya,,India Standard Time
+Suriname,America/Paramaribo,Khartoum,,E. Africa Standard Time
+Svalbard,Europe/Oslo,Paramaribo,,SA Eastern Standard Time
+Swaziland,Africa/Mbabane,Longyearbyen,,W. Europe Standard Time
+Sweden,Europe/Stockholm,Mbabane,,South Africa Standard Time
+Sweden,Europe/Stockholm,Gavle,,W. Europe Standard Time
+Sweden,Europe/Stockholm,Gothenburg,,W. Europe Standard Time
+Sweden,Europe/Stockholm,Helsingborg,,W. Europe Standard Time
+Sweden,Europe/Stockholm,Kalmar,,W. Europe Standard Time
+Sweden,Europe/Stockholm,Karlstad,,W. Europe Standard Time
+Sweden,Europe/Stockholm,Kiruna,,W. Europe Standard Time
+Sweden,Europe/Stockholm,Kristianstad,,W. Europe Standard Time
+Sweden,Europe/Stockholm,Linkoping,,W. Europe Standard Time
+Sweden,Europe/Stockholm,Lulea,,W. Europe Standard Time
+Sweden,Europe/Stockholm,Lund,,W. Europe Standard Time
+Sweden,Europe/Stockholm,Malmo,,W. Europe Standard Time
+Sweden,Europe/Stockholm,Stenungsund,,W. Europe Standard Time
+Sweden,Europe/Stockholm,Stockholm,,W. Europe Standard Time
+Sweden,Europe/Stockholm,Sundsvall,,W. Europe Standard Time
+Sweden,Europe/Stockholm,Trelleborg,,W. Europe Standard Time
+Sweden,Europe/Stockholm,Uppsala,,W. Europe Standard Time
+Switzerland,Europe/Zurich,Visby,,W. Europe Standard Time
+Switzerland,Europe/Zurich,Bern,,W. Europe Standard Time
+Switzerland,Europe/Zurich,Geneva,,W. Europe Standard Time
+Switzerland,Europe/Zurich,Lugano,,W. Europe Standard Time
+Switzerland,Europe/Zurich,Schaffhausen,,W. Europe Standard Time
+Switzerland,Europe/Zurich,Vevey,,W. Europe Standard Time
+Haiti,America/Port-au-Prince,Zurich,,W. Europe Standard Time
+Vatical City,Europe/Vatican,Port-au-Prince,,Haiti Standard Time
+Honduras,America/Tegucigalpa,Vatican City,,W. Europe Standard Time
+Honduras,America/Tegucigalpa,Olanchito,,Central America Standard Time
+Honduras,America/Tegucigalpa,San Pedro Sula,,Central America Standard Time
+Honduras,America/Tegucigalpa,Santa Rosa,,Central America Standard Time
+Hungary,Europe/Budapest,Tegucigalpa,,Central America Standard Time
+Hungary,Europe/Budapest,Budapest,,Central Europe Standard Time
+Hungary,Europe/Budapest,Gyor,,Central Europe Standard Time
+Hungary,Europe/Budapest,Szombathely,,Central Europe Standard Time
+Iceland,Atlantic/Reykjavik,Toalmas,,Central Europe Standard Time
+India,Asia/Kolkata,Reykjavik,,Greenwich Standard Time
+India,Asia/Kolkata,Agra,,India Standard Time
+India,Asia/Kolkata,Ahmedabad,,India Standard Time
+India,Asia/Kolkata,Amritsar,,India Standard Time
+India,Asia/Kolkata,Aurangabad,,India Standard Time
+India,Asia/Kolkata,Bangalore,,India Standard Time
+India,Asia/Kolkata,Bareilly,,India Standard Time
+India,Asia/Kolkata,Bhopal,,India Standard Time
+India,Asia/Kolkata,Bhubaneswar,,India Standard Time
+India,Asia/Kolkata,Chandigarh,,India Standard Time
+India,Asia/Kolkata,Chennai,,India Standard Time
+India,Asia/Kolkata,Cheruvathur,,India Standard Time
+India,Asia/Kolkata,Chirala,,India Standard Time
+India,Asia/Kolkata,Coimbatore,,India Standard Time
+India,Asia/Kolkata,Darasuram,,India Standard Time
+India,Asia/Kolkata,Dausa,,India Standard Time
+India,Asia/Kolkata,Delhi,,India Standard Time
+India,Asia/Kolkata,Gaya,,India Standard Time
+India,Asia/Kolkata,Ghatgaon,,India Standard Time
+India,Asia/Kolkata,Ghumli,,India Standard Time
+India,Asia/Kolkata,Gulbarga,,India Standard Time
+India,Asia/Kolkata,Hanamkonda,,India Standard Time
+India,Asia/Kolkata,Hassan,,India Standard Time
+India,Asia/Kolkata,Hubli,,India Standard Time
+India,Asia/Kolkata,Hyderabad,,India Standard Time
+India,Asia/Kolkata,Jaipur,,India Standard Time
+India,Asia/Kolkata,Jammu,,India Standard Time
+India,Asia/Kolkata,Jamshedpur,,India Standard Time
+India,Asia/Kolkata,Jeypore,,India Standard Time
+India,Asia/Kolkata,Kanpur,,India Standard Time
+India,Asia/Kolkata,Kanyakumari,,India Standard Time
+India,Asia/Kolkata,Kasaragod,,India Standard Time
+India,Asia/Kolkata,Kasauli,,India Standard Time
+India,Asia/Kolkata,Kochi,,India Standard Time
+India,Asia/Kolkata,Kodaikanal,,India Standard Time
+India,Asia/Kolkata,Kolhapur,,India Standard Time
+India,Asia/Kolkata,Kolkata,,India Standard Time
+India,Asia/Kolkata,Konark,,India Standard Time
+India,Asia/Kolkata,Kumbakonam,,India Standard Time
+India,Asia/Kolkata,Lucknow,,India Standard Time
+India,Asia/Kolkata,Madikeri,,India Standard Time
+India,Asia/Kolkata,Madurai,,India Standard Time
+India,Asia/Kolkata,Mahabalipuram,,India Standard Time
+India,Asia/Kolkata,Mandarmoni,,India Standard Time
+India,Asia/Kolkata,Mangalore,,India Standard Time
+India,Asia/Kolkata,Maram Bazar,,India Standard Time
+India,Asia/Kolkata,Mathura,,India Standard Time
+India,Asia/Kolkata,Mudumalai,,India Standard Time
+India,Asia/Kolkata,Mumbai,,India Standard Time
+India,Asia/Kolkata,Munnar,,India Standard Time
+India,Asia/Kolkata,Mysore,,India Standard Time
+India,Asia/Kolkata,Nadiad,,India Standard Time
+India,Asia/Kolkata,Nagpur,,India Standard Time
+India,Asia/Kolkata,Navi Mumbai,,India Standard Time
+India,Asia/Kolkata,New Delhi,,India Standard Time
+India,Asia/Kolkata,Ootacamund,,India Standard Time
+India,Asia/Kolkata,Panaji,,India Standard Time
+India,Asia/Kolkata,Patna,,India Standard Time
+India,Asia/Kolkata,Porbandar,,India Standard Time
+India,Asia/Kolkata,Pune,,India Standard Time
+India,Asia/Kolkata,Puri,,India Standard Time
+India,Asia/Kolkata,Rajahmundry,,India Standard Time
+India,Asia/Kolkata,Ranchi,,India Standard Time
+India,Asia/Kolkata,Secunderabad,,India Standard Time
+India,Asia/Kolkata,Shimla,,India Standard Time
+India,Asia/Kolkata,Sivakasi,,India Standard Time
+India,Asia/Kolkata,Surat,,India Standard Time
+India,Asia/Kolkata,Thiruvananthapuram,,India Standard Time
+India,Asia/Kolkata,Tiruchirapalli,,India Standard Time
+India,Asia/Kolkata,Tuticorin,,India Standard Time
+India,Asia/Kolkata,Vadodara,,India Standard Time
+India,Asia/Kolkata,Vishakhapatnam,,India Standard Time
+Indonesia,Asia/Jakarta,Vizianagaram,,India Standard Time
+Indonesia,Asia/Jakarta,Ambon,,Tokyo Standard Time
+Indonesia,Asia/Jakarta,Balikpapan,,Singapore Standard Time
+Indonesia,Asia/Jakarta,Bandung,,SE Asia Standard Time
+Indonesia,Asia/Jakarta,Denpasar,,Singapore Standard Time
+Indonesia,Asia/Jakarta,Djember,,SE Asia Standard Time
+Indonesia,Asia/Jakarta,Ende,,Singapore Standard Time
+Indonesia,Asia/Jakarta,Jakarta,,SE Asia Standard Time
+Indonesia,Asia/Jakarta,Kendari,,Singapore Standard Time
+Indonesia,Asia/Jakarta,Kupang,,Singapore Standard Time
+Indonesia,Asia/Jakarta,Makassar,,Singapore Standard Time
+Indonesia,Asia/Jakarta,Masohi,,Tokyo Standard Time
+Indonesia,Asia/Jakarta,Mataram,,Singapore Standard Time
+Indonesia,Asia/Jakarta,Medan,,SE Asia Standard Time
+Indonesia,Asia/Jakarta,Padang,,SE Asia Standard Time
+Indonesia,Asia/Jakarta,Palembang,,SE Asia Standard Time
+Indonesia,Asia/Jakarta,Pomalaa,,Singapore Standard Time
+Indonesia,Asia/Jakarta,Semarang,,SE Asia Standard Time
+Indonesia,Asia/Jakarta,Surabaya,,SE Asia Standard Time
+Indonesia,Asia/Jakarta,Ubud,,Singapore Standard Time
+Iran,Asia/Tehran,Waingapu,,Singapore Standard Time
+Iran,Asia/Tehran,Esfahan,,Iran Standard Time
+Iran,Asia/Tehran,Shiraz,,Iran Standard Time
+Iran,Asia/Tehran,Takab,,Iran Standard Time
+Iran,Asia/Tehran,Tehran,,Iran Standard Time
+Iraq,Asia/Baghdad,Yazd,,Iran Standard Time
+Iraq,Asia/Baghdad,Baghdad,,Arabic Standard Time
+Ireland,Europe/Dublin,Sulaimaniya,,Arabic Standard Time
+Ireland,Europe/Dublin,Arklow,,GMT Standard Time
+Ireland,Europe/Dublin,Castlebar,,GMT Standard Time
+Ireland,Europe/Dublin,Cork,,GMT Standard Time
+Ireland,Europe/Dublin,Doolin,,GMT Standard Time
+Ireland,Europe/Dublin,Drogheda,,GMT Standard Time
+Ireland,Europe/Dublin,Dublin,,GMT Standard Time
+Ireland,Europe/Dublin,Galway,,GMT Standard Time
+Ireland,Europe/Dublin,Keel,,GMT Standard Time
+Ireland,Europe/Dublin,Killarney,,GMT Standard Time
+Ireland,Europe/Dublin,Leixlip,,GMT Standard Time
+Ireland,Europe/Dublin,Limerick,,GMT Standard Time
+Ireland,Europe/Dublin,New Ross,,GMT Standard Time
+Ireland,Europe/Dublin,Shannon,,GMT Standard Time
+Ireland,Europe/Dublin,Sligo,,GMT Standard Time
+Israel,Asia/Jerusalem,Waterford,,GMT Standard Time
+Israel,Asia/Jerusalem,Ashkelon,,Israel Standard Time
+Israel,Asia/Jerusalem,Haifa,,Israel Standard Time
+Israel,Asia/Jerusalem,Jerusalem,,Israel Standard Time
+Italy,Europe/Rome,Tel Aviv,,Israel Standard Time
+Italy,Europe/Rome,Ancona,,W. Europe Standard Time
+Italy,Europe/Rome,Bari,,W. Europe Standard Time
+Italy,Europe/Rome,Benevento,,W. Europe Standard Time
+Italy,Europe/Rome,Bologna,,W. Europe Standard Time
+Italy,Europe/Rome,Brindisi,,W. Europe Standard Time
+Italy,Europe/Rome,Catania,,W. Europe Standard Time
+Italy,Europe/Rome,Florence,,W. Europe Standard Time
+Italy,Europe/Rome,Fragneto Monforte,,W. Europe Standard Time
+Italy,Europe/Rome,Genoa,,W. Europe Standard Time
+Italy,Europe/Rome,Milan,,W. Europe Standard Time
+Italy,Europe/Rome,Naples,,W. Europe Standard Time
+Italy,Europe/Rome,Pisa,,W. Europe Standard Time
+Italy,Europe/Rome,Rapallo,,W. Europe Standard Time
+Italy,Europe/Rome,Rome,,W. Europe Standard Time
+Italy,Europe/Rome,Trieste,,W. Europe Standard Time
+Italy,Europe/Rome,Turin,,W. Europe Standard Time
+Italy,Europe/Rome,Venice,,W. Europe Standard Time
+Jamaica,America/Jamaica,Verona,,W. Europe Standard Time
+Japan,Asia/Tokyo,Kingston,,SA Pacific Standard Time
+Japan,Asia/Tokyo,Akita,,Tokyo Standard Time
+Japan,Asia/Tokyo,Fukui,,Tokyo Standard Time
+Japan,Asia/Tokyo,Fukuoka,,Tokyo Standard Time
+Japan,Asia/Tokyo,Hiroshima,,Tokyo Standard Time
+Japan,Asia/Tokyo,Kagoshima,,Tokyo Standard Time
+Japan,Asia/Tokyo,Kawasaki,,Tokyo Standard Time
+Japan,Asia/Tokyo,Kyoto,,Tokyo Standard Time
+Japan,Asia/Tokyo,Nagasaki,,Tokyo Standard Time
+Japan,Asia/Tokyo,Nagoya,,Tokyo Standard Time
+Japan,Asia/Tokyo,Naha,,Tokyo Standard Time
+Japan,Asia/Tokyo,Niigata,,Tokyo Standard Time
+Japan,Asia/Tokyo,Okinawa,,Tokyo Standard Time
+Japan,Asia/Tokyo,Osaka,,Tokyo Standard Time
+Japan,Asia/Tokyo,Sapporo,,Tokyo Standard Time
+Japan,Asia/Tokyo,Sendai,,Tokyo Standard Time
+Japan,Asia/Tokyo,Tokyo,,Tokyo Standard Time
+Japan,Asia/Tokyo,Wakkana,,Tokyo Standard Time
+Japan,Asia/Tokyo,Yokohama,,Tokyo Standard Time
+Colombia,America/Bogota,Yokosuka,,Tokyo Standard Time
+Colombia,America/Bogota,Bogota,,SA Pacific Standard Time
+Comoros,Indian/Comoro,Medellin,,SA Pacific Standard Time
+Democratic Republic of the Congo,Africa/Kinshasa,Moroni,,E. Africa Standard Time
+Democratic Republic of the Congo,Africa/Kinshasa,Brazzaville,,W. Central Africa Standard Time
+Cook Islands,Pacific/Rarotonga,Kinshasa,,W. Central Africa Standard Time
+Costa Rica,America/Costa_Rica,Avarua,,Hawaiian Standard Time
+Costa Rica,America/Costa_Rica,Alajuela,,Central America Standard Time
+Costa Rica,America/Costa_Rica,Heredia,,Central America Standard Time
+Costa Rica,America/Costa_Rica,San Isidro,,Central America Standard Time
+Cote d'Ivoire,Europe/Zagreb,San Jose,,Greenwich Standard Time
+Cote d'Ivoire,Europe/Zagreb,Abidjan,,Greenwich Standard Time
+Cote d'Ivoire,Europe/Zagreb,Grand-Bassam,,Greenwich Standard Time
+Croatia,Europe/Zagreb,Yamoussoukro,,Greenwich Standard Time
+Croatia,Europe/Zagreb,Zagreb,,Central European Standard Time
+Saint Helena,Atlantic/St_Helena,Zupanja,,Central European Standard Time
+Saint Kitts and Nevis,America/St_Kitts,Jamestown,,Greenwich Standard Time
+Saint Lucia,America/St_Lucia,Basseterre,,SA Western Standard Time
+Saint Pierre and Miquelon,America/Miquelon,Castries,,SA Western Standard Time
+Saint Vincent and the Grenadines,America/St_Vincent,Saint-Pierre,,St Pierre and Miquelon Standard Time
+Samoa,Pacific/Apia,Kingstown,,SA Western Standard Time
+San Marino,Europe/San_Marino,Apia,,Samoa Standard Time
+Sao Tome and Principe,Africa/Sao_Tome,San Marino,,W. Europe Standard Time
+Saudi Arabia,Asia/Riyadh,Sao Tome,,Greenwich Standard Time
+Saudi Arabia,Asia/Riyadh,Al Ahsa,,Arab Standard Time
+Saudi Arabia,Asia/Riyadh,Dhahran,,Arab Standard Time
+Saudi Arabia,Asia/Riyadh,Jeddah,,Arab Standard Time
+Saudi Arabia,Asia/Riyadh,Mecca,,Arab Standard Time
+Saudi Arabia,Asia/Riyadh,Medina,,Arab Standard Time
+Saudi Arabia,Asia/Riyadh,Qatif,,Arab Standard Time
+Saudi Arabia,Asia/Riyadh,Riyadh,,Arab Standard Time
+Djibouti,Africa/Djibouti,Taif,,Arab Standard Time
+Dominica,America/Dominica,Djibouti,,Arab Standard Time
+Dominican Republic,America/Santo_Domingo,Roseau,,SA Western Standard Time
+Dominican Republic,America/Santo_Domingo,Puerto Plata,,SA Western Standard Time
+Dominican Republic,America/Santo_Domingo,Santiago de los Caballeros,,SA Western Standard Time
+East Timor,Asia/Dili,Santo Domingo,,SA Western Standard Time
+Ecuador,America/Guayaquil,Dili,,East Timor Standard Time
+Ecuador,America/Guayaquil,Ambato,,SA Pacific Standard Time
+Ecuador,America/Guayaquil,Cuenca,,SA Pacific Standard Time
+Ecuador,America/Guayaquil,Guayaquil,,SA Pacific Standard Time
+Ecuador,America/Guayaquil,Puerto Ayora,,Central America Standard Time
+Ecuador,America/Guayaquil,Puerto Baquerizo Moreno,,Central America Standard Time
+Egypt,Africa/Cairo,Quito,,SA Pacific Standard Time
+Egypt,Africa/Cairo,Alexandria,,Egypt Standard Time
+Egypt,Africa/Cairo,Cairo,,Egypt Standard Time
+Egypt,Africa/Cairo,Luxor,,Egypt Standard Time
+El Salvador,America/El_Salvador,Sharm El Sheikh,,Egypt Standard Time
+El Salvador,America/El_Salvador,La Libertad,,Central America Standard Time
+El Salvador,America/El_Salvador,La Union,,Central America Standard Time
+El Salvador,America/El_Salvador,San Salvador,,Central America Standard Time
+Equatorial Guinea,Africa/Malabo,Santa Ana,,Central America Standard Time
+Eritrea,Africa/Asmara,Malabo,,W. Central Africa Standard Time
+Estonia,Europe/Tallinn,Asmara,,Arab Standard Time
+Vanuatu,Pacific/Efate,Tallinn,,FLE Standard Time
+Venezuela,America/Caracas,Port Vila,,Central Pacific Standard Time
+Venezuela,America/Caracas,Barcelona,,Venezuela Standard Time
+Vietnam,Asia/Ho_Chi_Minh,Caracas,,Venezuela Standard Time
+Vietnam,Asia/Ho_Chi_Minh,Da Nang,,SE Asia Standard Time
+Vietnam,Asia/Ho_Chi_Minh,Hai Phong,,SE Asia Standard Time
+Vietnam,Asia/Ho_Chi_Minh,Hanoi,,SE Asia Standard Time
+British Virgin Islands,America/Tortola,Ho Chi Minh,,SE Asia Standard Time
+US Virgin Islands,America/New_York,Road Town,,SA Western Standard Time
+Wallis and Futuna,Pacific/Wallis,Charlotte Amalie,,SA Western Standard Time
+Ethiopia,Africa/Addis_Ababa,Mata-Utu,,Marshall Islands Standard Time
+Falkland Islands,Atlantic/Stanley,Addis Ababa,,E. Africa Standard Time
+Faroe Islands,Atlantic/Faroe,Stanley,,Falkland Islands Standard Time
+Fiji,Pacific/Fiji,Torshavn,,GMT Standard Time
+Finland,Europe/Helsinki,Suva,,Fiji Standard Time
+Finland,Europe/Helsinki,Helsinki,,FLE Standard Time
+Finland,Europe/Helsinki,Ivalo,,FLE Standard Time
+Finland,Europe/Helsinki,Kotka,,FLE Standard Time
+Finland,Europe/Helsinki,Oulu,,FLE Standard Time
+Finland,Europe/Helsinki,Rovaniemi,,FLE Standard Time
+Finland,Europe/Helsinki,Turku,,FLE Standard Time
+France,Europe/Paris,Vaasa,,FLE Standard Time
+France,Europe/Paris,Amiens,,Romance Standard Time
+France,Europe/Paris,Beziers,,Romance Standard Time
+France,Europe/Paris,Bordeaux,,Romance Standard Time
+France,Europe/Paris,Brest,,Romance Standard Time
+France,Europe/Paris,Cannes,,Romance Standard Time
+France,Europe/Paris,Carcassonne,,Romance Standard Time
+France,Europe/Paris,Collioure,,Romance Standard Time
+France,Europe/Paris,Dieppe,,Romance Standard Time
+France,Europe/Paris,Dunkerque,,Romance Standard Time
+France,Europe/Paris,Fontainebleau,,Romance Standard Time
+France,Europe/Paris,Grasse,,Romance Standard Time
+France,Europe/Paris,Grenoble,,Romance Standard Time
+France,Europe/Paris,Le Havre,,Romance Standard Time
+France,Europe/Paris,Lille,,Romance Standard Time
+France,Europe/Paris,Limoux,,Romance Standard Time
+France,Europe/Paris,Lyon,,Romance Standard Time
+France,Europe/Paris,Marseille,,Romance Standard Time
+France,Europe/Paris,Montpellier,,Romance Standard Time
+France,Europe/Paris,Montpeyroux,,Romance Standard Time
+France,Europe/Paris,Nantes,,Romance Standard Time
+France,Europe/Paris,Nice,,Romance Standard Time
+France,Europe/Paris,Nimes,,Romance Standard Time
+France,Europe/Paris,Paris,,Romance Standard Time
+France,Europe/Paris,Reims,,Romance Standard Time
+France,Europe/Paris,Rennes,,Romance Standard Time
+France,Europe/Paris,Sete,,Romance Standard Time
+France,Europe/Paris,Strasbourg,,Romance Standard Time
+France,Europe/Paris,Toulon,,Romance Standard Time
+France,Europe/Paris,Toulouse,,Romance Standard Time
+France,Europe/Paris,Tours,,Romance Standard Time
+French Guiana,America/Cayenne,Vallauris,,Romance Standard Time
+French Polynesia,Pacific/Tahiti,Cayenne,,SA Eastern Standard Time
+French Polynesia,Pacific/Tahiti,Papeete,,Hawaiian Standard Time
+Gabon,Africa/Libreville,Taiohae,,Marquesas Islands Standard Time
+Gambia,Africa/Banjul,Libreville,,W. Central Africa Standard Time
+Georgia,Asia/Tbilisi,Banjul,,Greenwich Standard Time
+Germany,Europe/Berlin,Tbilisi,,Tbilisi Standard Time
+Germany,Europe/Berlin,Baden-Baden,,W. Europe Standard Time
+Germany,Europe/Berlin,Berlin,,W. Europe Standard Time
+Germany,Europe/Berlin,Bonn,,W. Europe Standard Time
+Germany,Europe/Berlin,Bremen,,W. Europe Standard Time
+Germany,Europe/Berlin,Cologne,,W. Europe Standard Time
+Germany,Europe/Berlin,Donauworth,,W. Europe Standard Time
+Germany,Europe/Berlin,Dresden,,W. Europe Standard Time
+Germany,Europe/Berlin,Duesseldorf,,W. Europe Standard Time
+Germany,Europe/Berlin,Essen,,W. Europe Standard Time
+Germany,Europe/Berlin,Frankfurt,,W. Europe Standard Time
+Germany,Europe/Berlin,Hamburg,,W. Europe Standard Time
+Germany,Europe/Berlin,Hannover,,W. Europe Standard Time
+Germany,Europe/Berlin,Kiel,,W. Europe Standard Time
+Germany,Europe/Berlin,Leipzig,,W. Europe Standard Time
+Germany,Europe/Berlin,Magdeburg,,W. Europe Standard Time
+Germany,Europe/Berlin,Mainz,,W. Europe Standard Time
+Germany,Europe/Berlin,Mannheim,,W. Europe Standard Time
+Germany,Europe/Berlin,Munich,,W. Europe Standard Time
+Germany,Europe/Berlin,Nurnberg,,W. Europe Standard Time
+Germany,Europe/Berlin,Puttgarden,,W. Europe Standard Time
+Germany,Europe/Berlin,Ramstein,,W. Europe Standard Time
+Germany,Europe/Berlin,Rostock,,W. Europe Standard Time
+Germany,Europe/Berlin,Schluechtern,,W. Europe Standard Time
+Germany,Europe/Berlin,Stuttgart,,W. Europe Standard Time
+Uganda,Africa/Kampala,Trier,,W. Europe Standard Time
+Ukraine,Europe/Kiev,Kampala,,E. Africa Standard Time
+Ukraine,Europe/Kiev,Chernobyl,,Ukraine Standard Time
+Ukraine,Europe/Kiev,Dnepropetrovsk,,Ukraine Standard Time
+Ukraine,Europe/Kiev,Donetsk,,Ukraine Standard Time
+Ukraine,Europe/Kiev,Kharkov,,Ukraine Standard Time
+Ukraine,Europe/Kiev,Kiev,,Ukraine Standard Time
+Ukraine,Europe/Kiev,Lugansk,,Ukraine Standard Time
+Ukraine,Europe/Kiev,Lviv,,Ukraine Standard Time
+Ukraine,Europe/Kiev,Mukachevo,,Ukraine Standard Time
+Ukraine,Europe/Kiev,Nikolaev,,Ukraine Standard Time
+Ukraine,Europe/Kiev,Odessa,,Ukraine Standard Time
+Ukraine,Europe/Kiev,Severodonetsk,,Ukraine Standard Time
+Ukraine,Europe/Kiev,Uzhhorod,,Ukraine Standard Time
+Ghana,Africa/Accra,Zaporozhye,,Ukraine Standard Time
+Gibraltar,Europe/Gibraltar,Accra,,Greenwich Standard Time
+Greece,Europe/Athens,Gibraltar,,Romance Standard Time
+Greece,Europe/Athens,Athens,,FLE Standard Time
+Greece,Europe/Athens,Chania,,FLE Standard Time
+Greece,Europe/Athens,Corfu,,FLE Standard Time
+Greece,Europe/Athens,Hora Sfakion,,FLE Standard Time
+Greece,Europe/Athens,Igoumenitsa,,FLE Standard Time
+Greece,Europe/Athens,Iraklion,,FLE Standard Time
+Greece,Europe/Athens,Kos,,FLE Standard Time
+Greece,Europe/Athens,Patras,,FLE Standard Time
+Greece,Europe/Athens,Rhodes,,FLE Standard Time
+Greece,Europe/Athens,Thessaloniki,,FLE Standard Time
+Greenland,America/Godthab,Zakynthos,,FLE Standard Time
+Greenland,America/Godthab,Kulusuk,,Greenland Standard Time
+Grenada,America/Grenada,Nuuk,,Greenland Standard Time
+Guadeloupe,America/Guadeloupe,Saint George's,,SA Western Standard Time
+Guam,Pacific/Guam,Basse-Terre,,SA Western Standard Time
+Guam,Pacific/Guam,Hagatna,,West Pacific Standard Time
+Guam,Pacific/Guam,Tamuning,,West Pacific Standard Time
+Guatemala,America/Guatemala,Yigo,,West Pacific Standard Time
+Guatemala,America/Guatemala,Antigua,,Guatemala Standard Time
+Guatemala,America/Guatemala,Guatemala City,,Guatemala Standard Time
+Guinea,Africa/Conakry,Quezaltenango,,Guatemala Standard Time
+Guinea-Bissau,Africa/Bissau,Conakry,,Greenwich Standard Time
+Guyana,America/Guyana,Bissau,,Greenwich Standard Time
+Jordan,Asia/Amman,Georgetown,,SA Western Standard Time
+Jordan,Asia/Amman,Amman,,Jordan Standard Time
+Jordan,Asia/Amman,Aqaba,,Jordan Standard Time
+Kazakhstan,Asia/Almaty,Az Zarqa,,Jordan Standard Time
+Kazakhstan,Asia/Almaty,Almaty,,Central Asia Standard Time
+Kazakhstan,Asia/Almaty,Astana,,Central Asia Standard Time
+Kenya,Africa/Nairobi,Zaysan,,Central Asia Standard Time
+Kiribati,Pacific/Tarawa,Nairobi,,E. Africa Standard Time
+North Korea,Asia/Pyongyang,South Tarawa,,Marshall Islands Standard Time
+South Korea,Asia/Seoul,Pyongyang,,North Korea Standard Time
+South Korea,Asia/Seoul,Busan,,Korea Standard Time
+South Korea,Asia/Seoul,Daegu,,Korea Standard Time
+South Korea,Asia/Seoul,Incheon,,Korea Standard Time
+Kosovo,Europe/Belgrade,Seoul,,Central European Standard Time
+Kuwait,Asia/Kuwait,Pristina,,Central Europe Standard Time
+Kuwait,Asia/Kuwait,Al Jahra,,Arab Standard Time
+Kyrgyzstan,Asia/Bishkek,Kuwait,,Arab Standard Time
+Laos,Asia/Vientiane,Bishkek,,Central Asia Standard Time
+Latvia,Europe/Riga,Vientiane,,SE Asia Standard Time
+Lebanon,Asia/Beirut,Riga,,FLE Standard Time
+Lesotho,Africa/Maseru,Beirut,,Lebanon Standard Time
+Liberia,Africa/Monrovia,Maseru,,South Africa Standard Time
+Libya,Africa/Tripoli,Monrovia,,Greenwich Standard Time
+Liechtenstein,Europe/Vaduz,Tripoli,,Libya Standard Time
+Lithuania,Europe/Vilnius,Vaduz,,W. Europe Standard Time
+Lithuania,Europe/Vilnius,Kaunas,,FLE Standard Time
+Luxembourg,Europe/Luxembourg,Vilnius,,FLE Standard Time
+Macedonia,Europe/Skopje,Luxembourg,,Romance Standard Time
+Macedonia,Europe/Skopje,Kumanovo,,Central European Standard Time
+Macedonia,Europe/Skopje,Ohrid,,Central European Standard Time
+Madagascar,Indian/Antananarivo,Skopje,,Central European Standard Time
+Malawi,Africa/Blantyre,Antananarivo,,E. Africa Standard Time
+Malawi,Africa/Blantyre,Blantyre,,South Africa Standard Time
+Malaysia,Asia/Kuala_Lumpur,Lilongwe,,South Africa Standard Time
+Malaysia,Asia/Kuala_Lumpur,Butterworth,,Singapore Standard Time
+Malaysia,Asia/Kuala_Lumpur,George Town,,Singapore Standard Time
+Malaysia,Asia/Kuala_Lumpur,Kota Kinabalu,,Singapore Standard Time
+Malaysia,Asia/Kuala_Lumpur,Kuala Lumpur,,Singapore Standard Time
+Malaysia,Asia/Kuala_Lumpur,Kuching,,Singapore Standard Time
+Malaysia,Asia/Kuala_Lumpur,Labuan,,Singapore Standard Time
+Malaysia,Asia/Kuala_Lumpur,Langkawi,,Singapore Standard Time
+Maldives,Indian/Maldives,Pangkor,,Singapore Standard Time
+Mali,Africa/Bamako,Male,,West Asia Standard Time
+Malta,Europe/Malta,Bamako,,Greenwich Standard Time
+Malta,Europe/Malta,Mdina,,W. Europe Standard Time
+Malta,Europe/Malta,Valletta,,W. Europe Standard Time
+Marshall Islands,Pacific/Majuro,Victoria,,W. Europe Standard Time
+Martinique,America/Martinique,Majuro,,Marshall Islands Standard Time
+Mauritania,Africa/Nouakchott,Fort-de-France,,SA Western Standard Time
+Mauritius,Indian/Mauritius,Nouakchott,,Greenwich Standard Time
+Mauritius,Indian/Mauritius,Flic en Flac,,Mauritius Standard Time
+Mayotte,Indian/Mayotte,Port Louis,,Mauritius Standard Time
+Mexico,America/Mexico_City,Mamoudzou,,E. Africa Standard Time
+Mexico,America/Mexico_City,Acapulco,,Mexico Standard Time
+Mexico,America/Mexico_City,Akumal,,Quintana Roo~ Mexico
+Mexico,America/Mexico_City,Bahia Kino,,US Mountain Standard Time
+Mexico,America/Mexico_City,Cabo San Lucas,,Mexico Standard Time 2
+Mexico,America/Mexico_City,Cancun,,Quintana Roo~ Mexico
+Mexico,America/Mexico_City,Chichen Itza,,Mexico Standard Time
+Mexico,America/Mexico_City,Chihuahua,,Mexico Standard Time 2
+Mexico,America/Mexico_City,Ciudad Acuna,,Central Standard Time
+Mexico,America/Mexico_City,Ciudad Juarez,,Mountain Standard Time
+Mexico,America/Mexico_City,Culiacan,,Mexico Standard Time 2
+Mexico,America/Mexico_City,Ensenada,,Pacific Standard Time
+Mexico,America/Mexico_City,Guadalajara,,Mexico Standard Time
+Mexico,America/Mexico_City,Guaymas,,US Mountain Standard Time
+Mexico,America/Mexico_City,Hermosillo,,US Mountain Standard Time
+Mexico,America/Mexico_City,Ixtapa,,Mexico Standard Time
+Mexico,America/Mexico_City,La Paz,,Mexico Standard Time 2
+Mexico,America/Mexico_City,Las Varas,,Mexico Standard Time 2
+Mexico,America/Mexico_City,Leon,,Mexico Standard Time
+Mexico,America/Mexico_City,Los Mochis,,Mexico Standard Time 2
+Mexico,America/Mexico_City,Manzanillo,,Mexico Standard Time
+Mexico,America/Mexico_City,Matamoros,,Central Standard Time
+Mexico,America/Mexico_City,Mazatlan,,Mexico Standard Time 2
+Mexico,America/Mexico_City,Melaque,,Mexico Standard Time
+Mexico,America/Mexico_City,Merida,,Mexico Standard Time
+Mexico,America/Mexico_City,Mexicali,,Pacific Standard Time
+Mexico,America/Mexico_City,Mexico City,,Mexico Standard Time
+Mexico,America/Mexico_City,Monterrey,,Mexico Standard Time
+Mexico,America/Mexico_City,Motul,,Mexico Standard Time
+Mexico,America/Mexico_City,Nogales,,US Mountain Standard Time
+Mexico,America/Mexico_City,Nuevo Laredo,,Central Standard Time
+Mexico,America/Mexico_City,Ojinaga,,Central Standard Time
+Mexico,America/Mexico_City,Piedras Negras,,Central Standard Time
+Mexico,America/Mexico_City,Playa del Carmen,,Quintana Roo~ Mexico
+Mexico,America/Mexico_City,Progreso,,Mexico Standard Time
+Mexico,America/Mexico_City,Puebla,,Mexico Standard Time
+Mexico,America/Mexico_City,Puerto Penasco,,US Mountain Standard Time
+Mexico,America/Mexico_City,Puerto Vallarta,,Mexico Standard Time
+Mexico,America/Mexico_City,Reynosa,,Central Standard Time
+Mexico,America/Mexico_City,San Carlos,,US Mountain Standard Time
+Mexico,America/Mexico_City,San Sebastian del Oeste,,Mexico Standard Time
+Mexico,America/Mexico_City,Santiago,,Mexico Standard Time
+Mexico,America/Mexico_City,Tepic,,Mexico Standard Time 2
+Mexico,America/Mexico_City,Tijuana,,Pacific Standard Time
+Mexico,America/Mexico_City,Tizimin,,Mexico Standard Time
+Mexico,America/Mexico_City,Toluca de Lerdo,,Mexico Standard Time
+Mexico,America/Mexico_City,Veracruz,,Mexico Standard Time
+Federated States of Micronesia,Pacific/Chuuk,Zihuatanejo,,Mexico Standard Time
+Federated States of Micronesia,Pacific/Chuuk,Kolonia,,Central Pacific Standard Time
+Moldova,Europe/Chisinau,Palikir,,Central Pacific Standard Time
+Moldova,Europe/Chisinau,Balti,,Moldova Standard Time
+Moldova,Europe/Chisinau,Chisinau,,Moldova Standard Time
+Monaco,Europe/Monaco,Tiraspol,,Moldova Standard Time
+Monaco,Europe/Monaco,Monaco,,Romance Standard Time
+Mongolia,Asia/Ulaanbaatar,Monte Carlo,,Romance Standard Time
+Montenegro,Europe/Podgorica,Ulaanbaatar,,Ulaanbaatar Standard Time
+Montenegro,Europe/Podgorica,Kotor,,Central Europe Standard Time
+Morocco,Africa/Casablanca,Podgorica,,Central Europe Standard Time
+Morocco,Africa/Casablanca,Casablanca,,Morocco Standard Time
+Morocco,Africa/Casablanca,Dakhla,,Morocco Standard Time
+Morocco,Africa/Casablanca,Marrakech,,Morocco Standard Time
+Mozambique,Africa/Maputo,Rabat,,Morocco Standard Time
+Mozambique,Africa/Maputo,Chimoio,,South Africa Standard Time
+Namibia,Africa/Windhoek,Maputo,,South Africa Standard Time
+Nepal,Asia/Kathmandu,Windhoek,,Namibia Standard Time
+Nepal,Asia/Kathmandu,Biratchowk,,Nepal Standard Time
+Nepal,Asia/Kathmandu,Damauli,,Nepal Standard Time
+Nepal,Asia/Kathmandu,Dharan,,Nepal Standard Time
+Nepal,Asia/Kathmandu,Itahari,,Nepal Standard Time
+Nepal,Asia/Kathmandu,Kathmandu,,Nepal Standard Time
+Nepal,Asia/Kathmandu,Lumbini,,Nepal Standard Time
+Netherlands,Europe/Amsterdam,Yasok,,Nepal Standard Time
+Netherlands,Europe/Amsterdam,Amersfoort,,W. Europe Standard Time
+Netherlands,Europe/Amsterdam,Amsterdam,,W. Europe Standard Time
+Netherlands,Europe/Amsterdam,Eindhoven,,W. Europe Standard Time
+Netherlands,Europe/Amsterdam,Heerlen,,W. Europe Standard Time
+Netherlands,Europe/Amsterdam,Rotterdam,,W. Europe Standard Time
+Netherlands,Europe/Amsterdam,Sittard,,W. Europe Standard Time
+Netherlands,Europe/Amsterdam,Sneek,,W. Europe Standard Time
+Netherlands,Europe/Amsterdam,Spijkenisse,,W. Europe Standard Time
+Netherlands,Europe/Amsterdam,The Hague,,W. Europe Standard Time
+Netherlands,Europe/Amsterdam,Utrecht,,W. Europe Standard Time
+New Caledonia,Pacific/Noumea,Zaandam,,W. Europe Standard Time
+New Caledonia,Pacific/Noumea,Kone,,Central Pacific Standard Time
+New Zealand,Pacific/Auckland,Noumea,,Central Pacific Standard Time
+New Zealand,Pacific/Auckland,Auckland,,New Zealand Standard Time
+New Zealand,Pacific/Auckland,Christchurch,,New Zealand Standard Time
+New Zealand,Pacific/Auckland,Dunedin,,New Zealand Standard Time
+New Zealand,Pacific/Auckland,Foxton,,New Zealand Standard Time
+New Zealand,Pacific/Auckland,Hastings,,New Zealand Standard Time
+New Zealand,Pacific/Auckland,Kaikoura,,New Zealand Standard Time
+New Zealand,Pacific/Auckland,Kerikeri,,New Zealand Standard Time
+New Zealand,Pacific/Auckland,Napier,,New Zealand Standard Time
+New Zealand,Pacific/Auckland,Paraparaumu,,New Zealand Standard Time
+New Zealand,Pacific/Auckland,Porirua,,New Zealand Standard Time
+New Zealand,Pacific/Auckland,Upper Hutt,,New Zealand Standard Time
+New Zealand,Pacific/Auckland,Waikanae,,New Zealand Standard Time
+Nicaragua,America/Managua,Wellington,,New Zealand Standard Time
+Nicaragua,America/Managua,Chinandega,,Central America Standard Time
+Nicaragua,America/Managua,Granada,,Central America Standard Time
+Niger,Africa/Niamey,Managua,,Central America Standard Time
+Niger,Africa/Niamey,Diffa,,W. Central Africa Standard Time
+Nigeria,Africa/Lagos,Niamey,,W. Central Africa Standard Time
+Nigeria,Africa/Lagos,Abuja,,W. Central Africa Standard Time
+Nigeria,Africa/Lagos,Calabar,,W. Central Africa Standard Time
+Nigeria,Africa/Lagos,Ibadan,,W. Central Africa Standard Time
+Nigeria,Africa/Lagos,Kaduna,,W. Central Africa Standard Time
+Nigeria,Africa/Lagos,Lagos,,W. Central Africa Standard Time
+Nigeria,Africa/Lagos,Onitsha,,W. Central Africa Standard Time
+Niue,Pacific/Niue,Port Harcourt,,W. Central Africa Standard Time
+Northern Mariana Islands,Pacific/Saipan,Alofi,,Midway Island Standard Time
+Norway,Europe/Oslo,Saipan,,West Pacific Standard Time
+Norway,Europe/Oslo,Bergen,,W. Europe Standard Time
+Norway,Europe/Oslo,Floro,,W. Europe Standard Time
+Norway,Europe/Oslo,Hammerfest,,W. Europe Standard Time
+Norway,Europe/Oslo,Harstad,,W. Europe Standard Time
+Norway,Europe/Oslo,Kristiansand,,W. Europe Standard Time
+Norway,Europe/Oslo,Mo,,W. Europe Standard Time
+Norway,Europe/Oslo,Narvik,,W. Europe Standard Time
+Norway,Europe/Oslo,Oslo,,W. Europe Standard Time
+Norway,Europe/Oslo,Stavanger,,W. Europe Standard Time
+Norway,Europe/Oslo,Steinkjer,,W. Europe Standard Time
+Norway,Europe/Oslo,Tromso,,W. Europe Standard Time
+Norway,Europe/Oslo,Trondheim,,W. Europe Standard Time
+Oman,Asia/Muscat,Vardo,,W. Europe Standard Time
+Pakistan,Asia/Karachi,Muscat,,Arabian Standard Time
+Pakistan,Asia/Karachi,Bahawalpur,,Pakistan Standard Time
+Pakistan,Asia/Karachi,Golra Sharif,,Pakistan Standard Time
+Pakistan,Asia/Karachi,Islamabad,,Pakistan Standard Time
+Pakistan,Asia/Karachi,Jacobabad,,Pakistan Standard Time
+Pakistan,Asia/Karachi,Karachi,,Pakistan Standard Time
+Pakistan,Asia/Karachi,Lahore,,Pakistan Standard Time
+Pakistan,Asia/Karachi,Multan,,Pakistan Standard Time
+Pakistan,Asia/Karachi,Murree,,Pakistan Standard Time
+Pakistan,Asia/Karachi,Okara,,Pakistan Standard Time
+Pakistan,Asia/Karachi,Peshawar,,Pakistan Standard Time
+Pakistan,Asia/Karachi,Quetta,,Pakistan Standard Time
+Pakistan,Asia/Karachi,Rahim Yar Khan,,Pakistan Standard Time
+Pakistan,Asia/Karachi,Shikarpur,,Pakistan Standard Time
+Palau,Pacific/Palau,Sialkot,,Pakistan Standard Time
+Panama,America/Panama,Koror,,Tokyo Standard Time
+Papua New Guinea,Pacific/Port_Moresby,Panama City,,SA Pacific Standard Time
+Papua New Guinea,Pacific/Port_Moresby,Arawa,,Bougainville Standard Time
+Papua New Guinea,Pacific/Port_Moresby,Mount Hagen,,West Pacific Standard Time
+Paraguay,America/Asuncion,Port Moresby,,West Pacific Standard Time
+Paraguay,America/Asuncion,Asuncion,,Paraguay Standard Time
+Peru,America/Lima,Pedro Juan Caballero,,Paraguay Standard Time
+Peru,America/Lima,Arequipa,,SA Pacific Standard Time
+Peru,America/Lima,Lima,,SA Pacific Standard Time
+Peru,America/Lima,Piura,,SA Pacific Standard Time
+Peru,America/Lima,Sullana,,SA Pacific Standard Time
+Philippines,Asia/Manila,Trujillo,,SA Pacific Standard Time
+Philippines,Asia/Manila,Bacolod,,Singapore Standard Time
+Philippines,Asia/Manila,Balabag,,Singapore Standard Time
+Philippines,Asia/Manila,Balanga,,Singapore Standard Time
+Philippines,Asia/Manila,Catarman,,Singapore Standard Time
+Philippines,Asia/Manila,Cebu,,Singapore Standard Time
+Philippines,Asia/Manila,Davao,,Singapore Standard Time
+Philippines,Asia/Manila,Dumaguete,,Singapore Standard Time
+Philippines,Asia/Manila,Iligan,,Singapore Standard Time
+Philippines,Asia/Manila,Manila,,Singapore Standard Time
+Philippines,Asia/Manila,Marawi,,Singapore Standard Time
+Philippines,Asia/Manila,Santa Cruz,,Singapore Standard Time
+Philippines,Asia/Manila,Silang,,Singapore Standard Time
+Philippines,Asia/Manila,Taguig,,Singapore Standard Time
+Poland,Europe/Warsaw,Tanjay City,,Singapore Standard Time
+Poland,Europe/Warsaw,Gdansk,,Central European Standard Time
+Poland,Europe/Warsaw,Kolobrzeg,,Central European Standard Time
+Poland,Europe/Warsaw,Konin,,Central European Standard Time
+Poland,Europe/Warsaw,Krakow,,Central European Standard Time
+Portugal,Europe/Lisbon,Warsaw,,Central European Standard Time
+Portugal,Europe/Lisbon,Aveiro,,GMT Standard Time
+Portugal,Europe/Lisbon,Beja,,GMT Standard Time
+Portugal,Europe/Lisbon,Braganca,,GMT Standard Time
+Portugal,Europe/Lisbon,Castelo Branco,,GMT Standard Time
+Portugal,Europe/Lisbon,Faro,,GMT Standard Time
+Portugal,Europe/Lisbon,Lisbon,,GMT Standard Time
+Portugal,Europe/Lisbon,Ponta Delgada,,Azores Standard Time
+Portugal,Europe/Lisbon,Porto,,GMT Standard Time
+Portugal,Europe/Lisbon,Sines,,GMT Standard Time
+Portugal,Europe/Lisbon,Viana do Castello,,GMT Standard Time
+Puerto Rico,America/Puerto_Rico,Vila Real,,GMT Standard Time
+Qatar,Asia/Qatar,San Juan,,SA Western Standard Time
+Reunion,Indian/Reunion,Doha,,Arab Standard Time
+Romania,Europe/Bucharest,Saint-Denis,,Arabian Standard Time
+Romania,Europe/Bucharest,Arad,,FLE Standard Time
+Romania,Europe/Bucharest,Bacau,,FLE Standard Time
+Romania,Europe/Bucharest,Bucharest,,FLE Standard Time
+Romania,Europe/Bucharest,Cluj,,FLE Standard Time
+Romania,Europe/Bucharest,Constanta,,FLE Standard Time
+Romania,Europe/Bucharest,Craiova,,FLE Standard Time
+Romania,Europe/Bucharest,Giurgiu,,FLE Standard Time
+Romania,Europe/Bucharest,Iasi,,E. Europe Standard Time
+Romania,Europe/Bucharest,Mangalia,,FLE Standard Time
+Romania,Europe/Bucharest,Oradea,,FLE Standard Time
+Romania,Europe/Bucharest,Sibiu,,FLE Standard Time
+Romania,Europe/Bucharest,Timisoara,,FLE Standard Time
+Russia,Europe/Kaliningrad,Tulcea,,FLE Standard Time
+Russia,Europe/Kaliningrad,Alupka,,Crimean Standard Time
+Russia,Europe/Kaliningrad,Anadyr,,Petropavlovsk Standard Time
+Russia,Europe/Kaliningrad,Anapa,,Russian Standard Time
+Russia,Europe/Kaliningrad,Arkhangelsk,,Russian Standard Time
+Russia,Europe/Kaliningrad,Arzamas,,Russian Standard Time
+Russia,Europe/Kaliningrad,Astrakhan,,Astrakhan Standard Time
+Russia,Europe/Kaliningrad,Barnaul,,Barnaul Standard Time
+Russia,Europe/Kaliningrad,Belgorod,,Russian Standard Time
+Russia,Europe/Kaliningrad,Chelyabinsk,,Ekaterinburg Standard Time
+Russia,Europe/Kaliningrad,Cherepovets,,Russian Standard Time
+Russia,Europe/Kaliningrad,Chita,,Chita Standard Time
+Russia,Europe/Kaliningrad,Dzerzhinsk,,Russian Standard Time
+Russia,Europe/Kaliningrad,Ekaterinburg,,Ekaterinburg Standard Time
+Russia,Europe/Kaliningrad,Gelendzhik,,Russian Standard Time
+Russia,Europe/Kaliningrad,Irkutsk,,Ikrutsk Standard Time
+Russia,Europe/Kaliningrad,Ivanovo,,Russian Standard Time
+Russia,Europe/Kaliningrad,Izhevsk,,Samara Standard Time
+Russia,Europe/Kaliningrad,Kabardinka,,Russian Standard Time
+Russia,Europe/Kaliningrad,Kaliningrad,,Kaliningrad Standard Time
+Russia,Europe/Kaliningrad,Kazan,,Russian Standard Time
+Russia,Europe/Kaliningrad,Kemerovo,,Kemerovo Standard Time
+Russia,Europe/Kaliningrad,Khabarovsk,,Khabarovsk Standard Time
+Russia,Europe/Kaliningrad,Kolomna,,Russian Standard Time
+Russia,Europe/Kaliningrad,Kostroma,,Russian Standard Time
+Russia,Europe/Kaliningrad,Kovrov,,Russian Standard Time
+Russia,Europe/Kaliningrad,Krasnoyarsk,,Krasnoyarsk Standard Time
+Russia,Europe/Kaliningrad,Kronstadt,,Russian Standard Time
+Russia,Europe/Kaliningrad,Kungur,,Ekaterinburg Standard Time
+Russia,Europe/Kaliningrad,Kurgan,,Ekaterinburg Standard Time
+Russia,Europe/Kaliningrad,Kursk,,Russian Standard Time
+Russia,Europe/Kaliningrad,Lipetsk,,Russian Standard Time
+Russia,Europe/Kaliningrad,Luchegorsk,,Vladivostok Standard Time
+Russia,Europe/Kaliningrad,Magadan,,Magadan Standard Time
+Russia,Europe/Kaliningrad,Moscow,,Russian Standard Time
+Russia,Europe/Kaliningrad,Murmansk,,Russian Standard Time
+Russia,Europe/Kaliningrad,Murom,,Russian Standard Time
+Russia,Europe/Kaliningrad,Nakhodka,,Vladivostok Standard Time
+Russia,Europe/Kaliningrad,Nizhniy Novgorod,,Russian Standard Time
+Russia,Europe/Kaliningrad,Novgorod,,Russian Standard Time
+Russia,Europe/Kaliningrad,Novorossiysk,,Russian Standard Time
+Russia,Europe/Kaliningrad,Novosibirsk,,Novosibirsk Standard Time
+Russia,Europe/Kaliningrad,Okha,,Sakhalin Standard Time
+Russia,Europe/Kaliningrad,Okhotsk,,Khabarovsk Standard Time
+Russia,Europe/Kaliningrad,Omsk,,Novosibirsk Standard Time
+Russia,Europe/Kaliningrad,Ostrov,,Russian Standard Time
+Russia,Europe/Kaliningrad,Penza,,Russian Standard Time
+Russia,Europe/Kaliningrad,Perm,,Ekaterinburg Standard Time
+Russia,Europe/Kaliningrad,Peterhof,,Russian Standard Time
+Russia,Europe/Kaliningrad,Petropavlovsk,,Petropavlovsk Standard Time
+Russia,Europe/Kaliningrad,Pskov,,Russian Standard Time
+Russia,Europe/Kaliningrad,Rostov na Donu,,Russian Standard Time
+Russia,Europe/Kaliningrad,Ryazan,,Russian Standard Time
+Russia,Europe/Kaliningrad,Rybinsk,,Russian Standard Time
+Russia,Europe/Kaliningrad,Samara,,Samara Standard Time
+Russia,Europe/Kaliningrad,Saransk,,Russian Standard Time
+Russia,Europe/Kaliningrad,Sergiev Posad,,Russian Standard Time
+Russia,Europe/Kaliningrad,Sevastopol,,Crimean Standard Time
+Russia,Europe/Kaliningrad,Simferopol,,Crimean Standard Time
+Russia,Europe/Kaliningrad,Sochi,,Russian Standard Time
+Russia,Europe/Kaliningrad,Solovki,,Russian Standard Time
+Russia,Europe/Kaliningrad,St. Petersburg,,Russian Standard Time
+Russia,Europe/Kaliningrad,Stavropol,,Russian Standard Time
+Russia,Europe/Kaliningrad,Suzdal,,Russian Standard Time
+Russia,Europe/Kaliningrad,Taganrog,,Russian Standard Time
+Russia,Europe/Kaliningrad,Tomsk,,Tomsk Standard Time
+Russia,Europe/Kaliningrad,Tuapse,,Russian Standard Time
+Russia,Europe/Kaliningrad,Tula,,Russian Standard Time
+Russia,Europe/Kaliningrad,Tver',,Russian Standard Time
+Russia,Europe/Kaliningrad,Ufa,,Ekaterinburg Standard Time
+Russia,Europe/Kaliningrad,Ulan-Ude,,Ulan-Ude Standard Time
+Russia,Europe/Kaliningrad,Ulyanovsk,,Ulyanovsk Standard Time
+Russia,Europe/Kaliningrad,Valaam,,Russian Standard Time
+Russia,Europe/Kaliningrad,Velikiye Luki,,Russian Standard Time
+Russia,Europe/Kaliningrad,Vladimir,,Russian Standard Time
+Russia,Europe/Kaliningrad,Vladivostok,,Vladivostok Standard Time
+Russia,Europe/Kaliningrad,Volgograd,,Russian Standard Time
+Russia,Europe/Kaliningrad,Vologda,,Russian Standard Time
+Russia,Europe/Kaliningrad,Volokolamsk,,Russian Standard Time
+Russia,Europe/Kaliningrad,Voronezh,,Russian Standard Time
+Russia,Europe/Kaliningrad,Votkinsk,,Samara Standard Time
+Russia,Europe/Kaliningrad,Yakutsk,,Yakutsk Standard Time
+Russia,Europe/Kaliningrad,Yalta,,Crimean Standard Time
+Russia,Europe/Kaliningrad,Yaroslavl,,Russian Standard Time
+Russia,Europe/Kaliningrad,Yevpatoriya,,Crimean Standard Time
+Rwanda,Africa/Kigali,Yuzhno-Sakhalinsk,,Sakhalin Standard Time
+Senegal,Africa/Dakar,Kigali,,South Africa Standard Time
+Senegal,Africa/Dakar,Dakar,,Greenwich Standard Time
+Senegal,Africa/Dakar,Mbour,,Greenwich Standard Time
+Serbia,Europe/Belgrade,Thies,,Greenwich Standard Time
+Serbia,Europe/Belgrade,Belgrade,,Central Europe Standard Time
+Seychelles,Indian/Mahe,Pirot,,Central Europe Standard Time
+Sierra Leone,Africa/Freetown,Victoria,,Arabian Standard Time
+Singapore,Asia/Singapore,Freetown,,Greenwich Standard Time
+Sint Maarten,America/Lower_Princes,Singapore,,Singapore Standard Time
+Syria,Asia/Damascus,Philipsburg,,SA Western Standard Time
+Syria,Asia/Damascus,Damascus,,Syria Standard Time
+Syria,Asia/Damascus,Halab,,Syria Standard Time
+Syria,Asia/Damascus,Hama,,Syria Standard Time
+Taiwan,Asia/Taipei,Latakia,,Syria Standard Time
+Taiwan,Asia/Taipei,Taichung,,Taipei Standard Time
+Tajikistan,Asia/Dushanbe,Taipei,,Taipei Standard Time
+Tanzania,Africa/Dar_es_Salaam,Dushanbe,,West Asia Standard Time
+Tanzania,Africa/Dar_es_Salaam,Dar es Salaam,,E. Africa Standard Time
+Tunisia,Africa/Tunis,Dodoma,,E. Africa Standard Time
+Tunisia,Africa/Tunis,Beja,,W. Central Africa Standard Time
+Tunisia,Africa/Tunis,Bizerte,,W. Central Africa Standard Time
+Tunisia,Africa/Tunis,El Jem,,W. Central Africa Standard Time
+Tunisia,Africa/Tunis,El Kef,,W. Central Africa Standard Time
+Tunisia,Africa/Tunis,Hammamet,,W. Central Africa Standard Time
+Tunisia,Africa/Tunis,Kairouan,,W. Central Africa Standard Time
+Tunisia,Africa/Tunis,Mahdia,,W. Central Africa Standard Time
+Tunisia,Africa/Tunis,Monastir,,W. Central Africa Standard Time
+Tunisia,Africa/Tunis,Nabeul,,W. Central Africa Standard Time
+Tunisia,Africa/Tunis,Sidi Bou Said,,W. Central Africa Standard Time
+Tunisia,Africa/Tunis,Sousse,,W. Central Africa Standard Time
+Tunisia,Africa/Tunis,Takrouna,,W. Central Africa Standard Time
+Tunisia,Africa/Tunis,Tozeur,,W. Central Africa Standard Time
+Turkey,Europe/Istanbul,Tunis,,W. Central Africa Standard Time
+Turkey,Europe/Istanbul,Alacati,,Turkey Standard Time
+Turkey,Europe/Istanbul,Ankara,,Turkey Standard Time
+Turkey,Europe/Istanbul,Bodrum,,Turkey Standard Time
+Turkey,Europe/Istanbul,Bursa,,Turkey Standard Time
+Turkey,Europe/Istanbul,Istanbul,,Turkey Standard Time
+Turkey,Europe/Istanbul,Izmir,,Turkey Standard Time
+Turkey,Europe/Istanbul,Manisa,,Turkey Standard Time
+Turkey,Europe/Istanbul,Marmaris,,Turkey Standard Time
+Turkmenistan,Asia/Ashgabat,Samsun,,Turkey Standard Time
+Turks and Caicos Islands,America/Grand_Turk,Ashkhabad,,West Asia Standard Time
+Tuvalu,Pacific/Funafuti,Cockburn Town,,Turks and Caicos Standard Time
+Thailand,Asia/Bangkok,Funafuti,,Marshall Islands Standard Time
+Thailand,Asia/Bangkok,Bangkok,,SE Asia Standard Time
+Thailand,Asia/Bangkok,Buri Ram,,SE Asia Standard Time
+Thailand,Asia/Bangkok,Chiang Mai,,SE Asia Standard Time
+Thailand,Asia/Bangkok,Hat Yai,,SE Asia Standard Time
+Thailand,Asia/Bangkok,Hua Hin,,SE Asia Standard Time
+Thailand,Asia/Bangkok,Phuket,,SE Asia Standard Time
+Thailand,Asia/Bangkok,Songkhla,,SE Asia Standard Time
+Thailand,Asia/Bangkok,Ubon Ratchathani,,SE Asia Standard Time
+Togo,Africa/Lome,Udon Thani,,SE Asia Standard Time
+Tonga,Pacific/Tongatapu,Lome,,Greenwich Standard Time
+Trinidad and Tobago,America/Port_of_Spain,Nuku'alofa,,Tonga Standard Time
+United Arab Emirates,Asia/Dubai,Port of Spain,,SA Western Standard Time
+United Arab Emirates,Asia/Dubai,Abu Dhabi,,Arabian Standard Time
+United Arab Emirates,Asia/Dubai,Al Ain,,Arabian Standard Time
+United Arab Emirates,Asia/Dubai,Dubai,,Arabian Standard Time
+United Arab Emirates,Asia/Dubai,Fujairah,,Arabian Standard Time
+United Arab Emirates,Asia/Dubai,Masafi,,Arabian Standard Time
+United Arab Emirates,Asia/Dubai,Ras Al Khaimah,,Arabian Standard Time
+United Kingdom,Europe/London,Sharjah,,Arabian Standard Time
+United Kingdom,Europe/London,Aberdeen,,GMT Standard Time
+United Kingdom,Europe/London,Aylesbury,,GMT Standard Time
+United Kingdom,Europe/London,Belfast,,GMT Standard Time
+United Kingdom,Europe/London,Birmingham,,GMT Standard Time
+United Kingdom,Europe/London,Blantyre-Hamilton,,GMT Standard Time
+United Kingdom,Europe/London,Bristol,,GMT Standard Time
+United Kingdom,Europe/London,Cardiff,,GMT Standard Time
+United Kingdom,Europe/London,Dover,,GMT Standard Time
+United Kingdom,Europe/London,Dundee,,GMT Standard Time
+United Kingdom,Europe/London,Edinburgh,,GMT Standard Time
+United Kingdom,Europe/London,Falmouth,,GMT Standard Time
+United Kingdom,Europe/London,Glasgow,,GMT Standard Time
+United Kingdom,Europe/London,Gloucester,,GMT Standard Time
+United Kingdom,Europe/London,Leeds,,GMT Standard Time
+United Kingdom,Europe/London,Leicester,,GMT Standard Time
+United Kingdom,Europe/London,Liverpool,,GMT Standard Time
+United Kingdom,Europe/London,London,,GMT Standard Time
+United Kingdom,Europe/London,Manchester,,GMT Standard Time
+United Kingdom,Europe/London,Newcastle upon Tyne,,GMT Standard Time
+United Kingdom,Europe/London,Newport,,GMT Standard Time
+United Kingdom,Europe/London,Norwich,,GMT Standard Time
+United Kingdom,Europe/London,Plymouth,,GMT Standard Time
+United Kingdom,Europe/London,Poole,,GMT Standard Time
+United Kingdom,Europe/London,Portsmouth,,GMT Standard Time
+United Kingdom,Europe/London,Reading,,GMT Standard Time
+United Kingdom,Europe/London,Sheffield,,GMT Standard Time
+United Kingdom,Europe/London,Southampton,,GMT Standard Time
+United Kingdom,Europe/London,Swansea,,GMT Standard Time
+United States,America/New_York,Swindon,,GMT Standard Time
+United States,America/New_York,Adak,AK,Hawaii-Aleutian Standard Time
+United States,America/New_York,Akron,OH,Eastern Standard Time
+United States,America/New_York,Albany,NY,Eastern Standard Time
+United States,America/New_York,Albuquerque,NM,Mountain Standard Time
+United States,America/New_York,Anchorage,AK,Alaskan Standard Time
+United States,America/New_York,Annapolis,MD,Eastern Standard Time
+United States,America/New_York,Ashland,OR,Pacific Standard Time
+United States,America/New_York,Atlanta,GA,Eastern Standard Time
+United States,America/New_York,Augusta,ME,Eastern Standard Time
+United States,America/New_York,Austin,TX,Central Standard Time
+United States,America/New_York,Baltimore,MD,Eastern Standard Time
+United States,America/New_York,Baton Rouge,LA,Central Standard Time
+United States,America/New_York,Bellevue,WA,Pacific Standard Time
+United States,America/New_York,Billings,MT,Mountain Standard Time
+United States,America/New_York,Birmingham,AL,Central Standard Time
+United States,America/New_York,Bismarck,ND,Central Standard Time
+United States,America/New_York,Boca Raton,FL,Eastern Standard Time
+United States,America/New_York,Boise,ID,Mountain Standard Time
+United States,America/New_York,Boston,MA,Eastern Standard Time
+United States,America/New_York,Buena Park,CA,Pacific Standard Time
+United States,America/New_York,Buffalo,NY,Eastern Standard Time
+United States,America/New_York,Cannon Beach,OR,Pacific Standard Time
+United States,America/New_York,Capitola,CA,Pacific Standard Time
+United States,America/New_York,Carson City,NV,Pacific Standard Time
+United States,America/New_York,Cedar Park,TX,Central Standard Time
+United States,America/New_York,Champaign,IL,Central Standard Time
+United States,America/New_York,Chandler,AZ,US Mountain Standard Time
+United States,America/New_York,Chantilly,VA,Eastern Standard Time
+United States,America/New_York,Charleston,WV,Eastern Standard Time
+United States,America/New_York,Charlotte,NC,Eastern Standard Time
+United States,America/New_York,Chattanooga,TN,Eastern Standard Time
+United States,America/New_York,Chicago,IL,Central Standard Time
+United States,America/New_York,Cincinnati,OH,Eastern Standard Time
+United States,America/New_York,Cleveland,OH,Eastern Standard Time
+United States,America/New_York,Colorado Springs,CO,Mountain Standard Time
+United States,America/New_York,Columbia,SC,Eastern Standard Time
+United States,America/New_York,Columbus,GA,Eastern Standard Time
+United States,America/New_York,Columbus,OH,Eastern Standard Time
+United States,America/New_York,Coos Bay,OR,Pacific Standard Time
+United States,America/New_York,Coquille,OR,Pacific Standard Time
+United States,America/New_York,Coral Springs,FL,Eastern Standard Time
+United States,America/New_York,Cupertino,CA,Pacific Standard Time
+United States,America/New_York,Dallas,TX,Central Standard Time
+United States,America/New_York,Dayton,OH,Eastern Standard Time
+United States,America/New_York,Del Rio,TX,Central Standard Time
+United States,America/New_York,Denver,CO,Mountain Standard Time
+United States,America/New_York,Des Moines,IA,Central Standard Time
+United States,America/New_York,Detroit,MI,Eastern Standard Time
+United States,America/New_York,Dublin,OH,Eastern Standard Time
+United States,America/New_York,Duluth,MN,Central Standard Time
+United States,America/New_York,DuPont,WA,Pacific Standard Time
+United States,America/New_York,Duvall,WA,Pacific Standard Time
+United States,America/New_York,El Paso,TX,Mountain Standard Time
+United States,America/New_York,Eugene,OR,Pacific Standard Time
+United States,America/New_York,Fairbanks,AK,Alaskan Standard Time
+United States,America/New_York,Florence,OR,Pacific Standard Time
+United States,America/New_York,Folcroft,PA,Eastern Standard Time
+United States,America/New_York,Folsom,CA,Pacific Standard Time
+United States,America/New_York,Fort Collins,CO,Mountain Standard Time
+United States,America/New_York,Fort Defiance,AZ,Mountain Standard Time
+United States,America/New_York,Fort Worth,TX,Central Standard Time
+United States,America/New_York,Foster City,CA,Pacific Standard Time
+United States,America/New_York,Fremont,CA,Pacific Standard Time
+United States,America/New_York,Ft. Lauderdale,FL,Eastern Standard Time
+United States,America/New_York,Galesburg,IL,Central Standard Time
+United States,America/New_York,Gary,IN,Central Standard Time
+United States,America/New_York,Gig Harbor,WA,Pacific Standard Time
+United States,America/New_York,Grand Rapids,MI,Eastern Standard Time
+United States,America/New_York,Great Falls,MT,Mountain Standard Time
+United States,America/New_York,Helena,MT,Mountain Standard Time
+United States,America/New_York,Hillsboro,OR,Pacific Standard Time
+United States,America/New_York,Hilo,HI,Hawaiian Standard Time
+United States,America/New_York,Honokaa,HI,Hawaiian Standard Time
+United States,America/New_York,Honolulu,HI,Hawaiian Standard Time
+United States,America/New_York,Houston,TX,Central Standard Time
+United States,America/New_York,Howland Island,,Dateline Standard Time
+United States,America/New_York,Hudson,MA,Eastern Standard Time
+United States,America/New_York,Huntington,WV,Eastern Standard Time
+United States,America/New_York,Indianapolis,IN,Eastern Standard Time
+United States,America/New_York,Irvine,CA,Pacific Standard Time
+United States,America/New_York,Jackson,MS,Central Standard Time
+United States,America/New_York,Jacksonville,FL,Eastern Standard Time
+United States,America/New_York,Jefferson City,MO,Central Standard Time
+United States,America/New_York,Jersey City,NJ,Eastern Standard Time
+United States,America/New_York,Kamuela,HI,Hawaiian Standard Time
+United States,America/New_York,Kansas City,MO,Central Standard Time
+United States,America/New_York,Koloa,HI,Hawaiian Standard Time
+United States,America/New_York,Kosciusko,MS,Central Standard Time
+United States,America/New_York,La Jolla,CA,Pacific Standard Time
+United States,America/New_York,Lafayette,LA,Central Standard Time
+United States,America/New_York,Lakeland,FL,Eastern Standard Time
+United States,America/New_York,Lansing,MI,Eastern Standard Time
+United States,America/New_York,Las Vegas,NV,Pacific Standard Time
+United States,America/New_York,Laupahoehoe,HI,Hawaiian Standard Time
+United States,America/New_York,Lexington,KY,Eastern Standard Time
+United States,America/New_York,Lincoln,NE,Central Standard Time
+United States,America/New_York,Little Rock,AR,Central Standard Time
+United States,America/New_York,Long Beach,CA,Pacific Standard Time
+United States,America/New_York,Long Branch,NJ,Eastern Standard Time
+United States,America/New_York,Los Angeles,CA,Pacific Standard Time
+United States,America/New_York,Louisville,KY,Eastern Standard Time
+United States,America/New_York,Lubbock,TX,Central Standard Time
+United States,America/New_York,Madison,WI,Central Standard Time
+United States,America/New_York,Magnolia,TX,Central Standard Time
+United States,America/New_York,Melbourne,FL,Eastern Standard Time
+United States,America/New_York,Memphis,TN,Central Standard Time
+United States,America/New_York,Menlo Park,CA,Pacific Standard Time
+United States,America/New_York,Miami,FL,Eastern Standard Time
+United States,America/New_York,Mill Valley,CA,Pacific Standard Time
+United States,America/New_York,Milwaukee,WI,Central Standard Time
+United States,America/New_York,Minneapolis,MN,Central Standard Time
+United States,America/New_York,Miramar,FL,Eastern Standard Time
+United States,America/New_York,Mobile,AL,Central Standard Time
+United States,America/New_York,Molalla,OR,Pacific Standard Time
+United States,America/New_York,Monterey,CA,Pacific Standard Time
+United States,America/New_York,Montgomery,AL,Central Standard Time
+United States,America/New_York,Montgomery,TX,Central Standard Time
+United States,America/New_York,Montpelier,VT,Eastern Standard Time
+United States,America/New_York,Mount Shasta City,CA,Pacific Standard Time
+United States,America/New_York,Mountain View,CA,Pacific Standard Time
+United States,America/New_York,Myrtle Beach,SC,Eastern Standard Time
+United States,America/New_York,Nashville,TN,Central Standard Time
+United States,America/New_York,Navasota,TX,Central Standard Time
+United States,America/New_York,New Orleans,LA,Central Standard Time
+United States,America/New_York,New York,NY,Eastern Standard Time
+United States,America/New_York,Newark,NJ,Eastern Standard Time
+United States,America/New_York,Niagara Falls,NY,Eastern Standard Time
+United States,America/New_York,Nome,AK,Alaskan Standard Time
+United States,America/New_York,Norfolk,VA,Eastern Standard Time
+United States,America/New_York,North Bend,OR,Pacific Standard Time
+United States,America/New_York,Ocala,FL,Eastern Standard Time
+United States,America/New_York,Oklahoma City,OK,Central Standard Time
+United States,America/New_York,Olympia,WA,Pacific Standard Time
+United States,America/New_York,Omaha,NE,Central Standard Time
+United States,America/New_York,Orlando,FL,Eastern Standard Time
+United States,America/New_York,Pahoa,HI,Hawaiian Standard Time
+United States,America/New_York,Palo Alto,CA,Pacific Standard Time
+United States,America/New_York,Parsippany,NJ,Eastern Standard Time
+United States,America/New_York,Pearl,MS,Central Standard Time
+United States,America/New_York,Pensacola,FL,Central Standard Time
+United States,America/New_York,Philadelphia,PA,Eastern Standard Time
+United States,America/New_York,Phoenix,AZ,US Mountain Standard Time
+United States,America/New_York,Pierre,SD,Central Standard Time
+United States,America/New_York,Pittsburgh,PA,Eastern Standard Time
+United States,America/New_York,Point Pleasant Beach,NJ,Eastern Standard Time
+United States,America/New_York,Port Angeles,WA,Pacific Standard Time
+United States,America/New_York,Port Orange,FL,Eastern Standard Time
+United States,America/New_York,Portland,OR,Pacific Standard Time
+United States,America/New_York,Princeton,NJ,Eastern Standard Time
+United States,America/New_York,Quartzsite,AZ,US Mountain Standard Time
+United States,America/New_York,Raleigh,NC,Eastern Standard Time
+United States,America/New_York,Redmond,WA,Pacific Standard Time
+United States,America/New_York,Reno,NV,Pacific Standard Time
+United States,America/New_York,Richmond,IN,Eastern Standard Time
+United States,America/New_York,Richmond,VA,Eastern Standard Time
+United States,America/New_York,Rio Rancho,NM,Mountain Standard Time
+United States,America/New_York,Riverton,UT,Mountain Standard Time
+United States,America/New_York,Russell Springs,KY,Central Standard Time
+United States,America/New_York,Sacramento,CA,Pacific Standard Time
+United States,America/New_York,Salem,OR,Pacific Standard Time
+United States,America/New_York,Salt Lake City,UT,Mountain Standard Time
+United States,America/New_York,San Antonio,TX,Central Standard Time
+United States,America/New_York,San Bruno,CA,Pacific Standard Time
+United States,America/New_York,San Diego,CA,Pacific Standard Time
+United States,America/New_York,San Francisco,CA,Pacific Standard Time
+United States,America/New_York,San Jose,CA,Pacific Standard Time
+United States,America/New_York,San Luis Obispo,CA,Pacific Standard Time
+United States,America/New_York,San Mateo,CA,Pacific Standard Time
+United States,America/New_York,Santa Clara,CA,Pacific Standard Time
+United States,America/New_York,Santa Fe,NM,Mountain Standard Time
+United States,America/New_York,Saxonburg,PA,Eastern Standard Time
+United States,America/New_York,Seattle,WA,Pacific Standard Time
+United States,America/New_York,South Jordan,UT,Mountain Standard Time
+United States,America/New_York,Spokane,WA,Pacific Standard Time
+United States,America/New_York,Spring Hill,FL,Eastern Standard Time
+United States,America/New_York,St. Louis,MO,Central Standard Time
+United States,America/New_York,St. Paul,MN,Central Standard Time
+United States,America/New_York,Stamford,CT,Eastern Standard Time
+United States,America/New_York,Sunnyvale,CA,Pacific Standard Time
+United States,America/New_York,Surprise,AZ,US Mountain Standard Time
+United States,America/New_York,Syracuse,NY,Eastern Standard Time
+United States,America/New_York,Tacoma,WA,Pacific Standard Time
+United States,America/New_York,Tampa,FL,Eastern Standard Time
+United States,America/New_York,Telluride,CO,Mountain Standard Time
+United States,America/New_York,Toledo,OH,Eastern Standard Time
+United States,America/New_York,Tucson,AZ,US Mountain Standard Time
+United States,America/New_York,Tulsa,OK,Central Standard Time
+United States,America/New_York,Vienna,VA,Eastern Standard Time
+United States,America/New_York,Waikoloa,HI,Hawaiian Standard Time
+United States,America/New_York,Wailua,HI,Hawaiian Standard Time
+United States,America/New_York,Waimea,HI,Hawaiian Standard Time
+United States,America/New_York,Washington,DC,Eastern Standard Time
+United States,America/New_York,West Wendover,NV,Mountain Standard Time
+United States,America/New_York,Westford,MA,Eastern Standard Time
+United States,America/New_York,Wichita,KS,Central Standard Time
+United States,America/New_York,Window Rock,AZ,Mountain Standard Time
+Uruguay,America/Montevideo,Winston-Salem,NC,Eastern Standard Time
+Uruguay,America/Montevideo,Montevideo,,Uruguay Standard Time
+Uruguay,America/Montevideo,Rivera,,Uruguay Standard Time
+Uruguay,America/Montevideo,Salto,,Uruguay Standard Time
+Uruguay,America/Montevideo,San Carlos,,Uruguay Standard Time
+Uzbekistan,Asia/Samarkand,Tacuarembo,,Uruguay Standard Time
+Yemen,Asia/Aden,Tashkent,,West Asia Standard Time
+Yemen,Asia/Aden,Aden,,Arab Standard Time
+Yemen,Asia/Aden,Al Bayda',,Arab Standard Time
+Yemen,Asia/Aden,Al Hudaydah,,Arab Standard Time
+Yemen,Asia/Aden,Dhamar,,Arab Standard Time
+Yemen,Asia/Aden,Ibb,,Arab Standard Time
+Yemen,Asia/Aden,Sanaa,,Arab Standard Time
+Zambia,Africa/Lusaka,Taiz,,Arab Standard Time
+Zimbabwe,Africa/Harare,Lusaka,,South Africa Standard Time
+Zimbabwe,Africa/Harare,Harare,,South Africa Standard Time

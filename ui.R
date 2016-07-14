@@ -15,13 +15,11 @@ shinyUI(fluidPage(h1("World Clock"),
                         uiOutput("cities")
                         ),
                  column(9,h4("Time"),
-                        DT:: dataTableOutput("times")),
+                        DT:: dataTableOutput("times"))),
 
         fluidRow(
-        column(12,includeMarkdown(("README.md")))
-
-                        )
-                 )))
+        column(12,includeMarkdown(("README.md"))))
+                 ))
 
 
 
