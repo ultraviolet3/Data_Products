@@ -136,64 +136,64 @@ Cambodia,Asia/Phnom_Penh,Phnom Penh,,SE Asia Standard Time
 Cameroon,Africa/Douala,Siem Reap,,SE Asia Standard Time
 Cameroon,Africa/Douala,Douala,,W. Central Africa Standard Time
 Canada,America/St_Johns,Yaounde,,W. Central Africa Standard Time
-Canada,America/St_Johns,Abbotsford,BC,Pacific Standard Time
-Canada,America/St_Johns,Aklavik,NT,Mountain Standard Time
-Canada,America/St_Johns,Alert,NU,Eastern Standard Time
-Canada,America/St_Johns,Amherst,NS,Atlantic Standard Time
-Canada,America/St_Johns,Armstrong,BC,Pacific Standard Time
-Canada,America/St_Johns,Banff,AB,Mountain Standard Time
-Canada,America/St_Johns,Barrie,ON,Eastern Standard Time
-Canada,America/St_Johns,Burnaby,BC,Pacific Standard Time
-Canada,America/St_Johns,Calgary,AB,Mountain Standard Time
-Canada,America/St_Johns,Canmore,AB,Mountain Standard Time
-Canada,America/St_Johns,Charlottetown,PE,Atlantic Standard Time
-Canada,America/St_Johns,Chilliwack,BC,Pacific Standard Time
-Canada,America/St_Johns,Cranbrook,BC,Mountain Standard Time
-Canada,America/St_Johns,Edmonton,AB,Mountain Standard Time
-Canada,America/St_Johns,Golden,BC,Mountain Standard Time
-Canada,America/St_Johns,Guelph,ON,Eastern Standard Time
-Canada,America/St_Johns,Halifax,NS,Atlantic Standard Time
-Canada,America/St_Johns,Hamilton,ON,Eastern Standard Time
-Canada,America/St_Johns,Hope,BC,Pacific Standard Time
-Canada,America/St_Johns,Huntingdon,QC,Eastern Standard Time
-Canada,America/St_Johns,Inuvik,NT,Mountain Standard Time
-Canada,America/St_Johns,Iqaluit,NU,Eastern Standard Time
-Canada,America/St_Johns,Jasper,AB,Mountain Standard Time
-Canada,America/St_Johns,Kamloops,BC,Pacific Standard Time
-Canada,America/St_Johns,Kelowna,BC,Pacific Standard Time
-Canada,America/St_Johns,Kingston,ON,Eastern Standard Time
-Canada,America/St_Johns,Kitchener,ON,Eastern Standard Time
-Canada,America/St_Johns,London,ON,Eastern Standard Time
-Canada,America/St_Johns,Mission,BC,Pacific Standard Time
-Canada,America/St_Johns,Mississauga,ON,Eastern Standard Time
-Canada,America/St_Johns,Moncton,NB,Atlantic Standard Time
-Canada,America/St_Johns,Montreal,QC,Eastern Standard Time
-Canada,America/St_Johns,Nanaimo,BC,Pacific Standard Time
-Canada,America/St_Johns,New Westminster,BC,Pacific Standard Time
-Canada,America/St_Johns,Niagara Falls,ON,Eastern Standard Time
-Canada,America/St_Johns,North Bay,ON,Eastern Standard Time
-Canada,America/St_Johns,Oshawa,ON,Eastern Standard Time
-Canada,America/St_Johns,Ottawa,ON,Eastern Standard Time
-Canada,America/St_Johns,Pickering,ON,Eastern Standard Time
-Canada,America/St_Johns,Prince George,BC,Pacific Standard Time
-Canada,America/St_Johns,Quebec City,QC,Eastern Standard Time
-Canada,America/St_Johns,Red Deer,AB,Mountain Standard Time
-Canada,America/St_Johns,Regina,SK,Canada Central Standard Time
-Canada,America/St_Johns,Revelstoke,BC,Pacific Standard Time
-Canada,America/St_Johns,Saint John,NB,Atlantic Standard Time
-Canada,America/St_Johns,Saskatoon,SK,Canada Central Standard Time
-Canada,America/St_Johns,St. Catharines,ON,Eastern Standard Time
+Canada,America/Vancouver,Abbotsford,BC,Pacific Standard Time
+Canada,America/Cambridge_Bay,Aklavik,NT,Mountain Standard Time
+Canada,America/Goose_Bay,Alert,NU,Eastern Standard Time
+Canada,America/Halifax,Amherst,NS,Atlantic Standard Time
+Canada,America/Vancouver,Armstrong,BC,Pacific Standard Time
+Canada,America/Edmonton,Banff,AB,Mountain Standard Time
+Canada,America/Toronto,Barrie,ON,Eastern Standard Time
+Canada,America/Vancouver,Burnaby,BC,Pacific Standard Time
+Canada,America/Edmonton,Calgary,AB,Mountain Standard Time
+Canada,America/Edmonton,Canmore,AB,Mountain Standard Time
+Canada,America/Halifax,Charlottetown,PE,Atlantic Standard Time
+Canada,America/Vancouver,Chilliwack,BC,Pacific Standard Time
+Canada,America/Vancouver,Cranbrook,BC,Mountain Standard Time
+Canada,America/Edmonton,Edmonton,AB,Mountain Standard Time
+Canada,America/Vancouver,Golden,BC,Mountain Standard Time
+Canada,America/Toronto,Guelph,ON,Eastern Standard Time
+Canada,America/Halifax,Halifax,NS,Atlantic Standard Time
+Canada,America/Toronto,Hamilton,ON,Eastern Standard Time
+Canada,America/Vancouver,Hope,BC,Pacific Standard Time
+Canada,America/Montreal,Huntingdon,QC,Eastern Standard Time
+Canada,America/Cambridge_Bay,Inuvik,NT,Mountain Standard Time
+Canada,America/Goose_Bay,Iqaluit,NU,Eastern Standard Time
+Canada,America/Edmonton,Jasper,AB,Mountain Standard Time
+Canada,America/Vancouver,Kamloops,BC,Pacific Standard Time
+Canada,America/Vancouver,Kelowna,BC,Pacific Standard Time
+Canada,America/Toronto,Kingston,ON,Eastern Standard Time
+Canada,America/Toronto,Kitchener,ON,Eastern Standard Time
+Canada,America/Toronto,London,ON,Eastern Standard Time
+Canada,America/Vancouver,Mission,BC,Pacific Standard Time
+Canada,America/Toronto,Mississauga,ON,Eastern Standard Time
+Canada,America/Moncton,Moncton,NB,Atlantic Standard Time
+Canada,America/Montreal,Montreal,QC,Eastern Standard Time
+Canada,America/Vancouver,Nanaimo,BC,Pacific Standard Time
+Canada,America/Vancouver,New Westminster,BC,Pacific Standard Time
+Canada,America/Toronto,Niagara Falls,ON,Eastern Standard Time
+Canada,America/Toronto,North Bay,ON,Eastern Standard Time
+Canada,America/Toronto,Oshawa,ON,Eastern Standard Time
+Canada,America/Toronto,Ottawa,ON,Eastern Standard Time
+Canada,America/Toronto,Pickering,ON,Eastern Standard Time
+Canada,America/Vancouver,Prince George,BC,Pacific Standard Time
+Canada,America/Montreal,Quebec City,QC,Eastern Standard Time
+Canada,America/Edmonton,Red Deer,AB,Mountain Standard Time
+Canada,America/Regina,Regina,SK,Canada Central Standard Time
+Canada,America/Vancouver,Revelstoke,BC,Pacific Standard Time
+Canada,America/Moncton,Saint John,NB,Atlantic Standard Time
+Canada,America/Regina,Saskatoon,SK,Canada Central Standard Time
+Canada,America/Toronto,St. Catharines,ON,Eastern Standard Time
 Canada,America/St_Johns,St. John's,NL,Newfoundland Standard Time
-Canada,America/St_Johns,Sydney,NS,Atlantic Standard Time
-Canada,America/St_Johns,Toronto,ON,Eastern Standard Time
-Canada,America/St_Johns,Vancouver,BC,Pacific Standard Time
-Canada,America/St_Johns,Victoria,BC,Pacific Standard Time
-Canada,America/St_Johns,Waterloo,ON,Eastern Standard Time
-Canada,America/St_Johns,Whistler,BC,Pacific Standard Time
-Canada,America/St_Johns,White Rock,BC,Pacific Standard Time
-Canada,America/St_Johns,Whitehorse,YT,Pacific Standard Time
-Canada,America/St_Johns,Windsor,ON,Eastern Standard Time
-Canada,America/St_Johns,Winnipeg,MB,Central Standard Time
+Canada,America/Halifax,Sydney,NS,Atlantic Standard Time
+Canada,America/Toronto,Toronto,ON,Eastern Standard Time
+Canada,America/Vancouver,Vancouver,BC,Pacific Standard Time
+Canada,America/Vancouver,Victoria,BC,Pacific Standard Time
+Canada,America/Toronto,Waterloo,ON,Eastern Standard Time
+Canada,America/Vancouver,Whistler,BC,Pacific Standard Time
+Canada,America/Vancouver,White Rock,BC,Pacific Standard Time
+Canada,America/Whitehorse,Whitehorse,YT,Pacific Standard Time
+Canada,America/Toronto,Windsor,ON,Eastern Standard Time
+Canada,America/Winnipeg,Winnipeg,MB,Central Standard Time
 Cape Verde,Atlantic/Cape_Verde,Yellowknife,NT,Mountain Standard Time
 Cayman Islands,America/Cayman,Praia,,Cape Verde Standard Time
 Central African Republic,Africa/Bangui,George Town,,Cayman Islands Standard Time
