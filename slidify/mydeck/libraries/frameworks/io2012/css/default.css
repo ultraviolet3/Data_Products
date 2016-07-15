@@ -163,6 +163,7 @@ slides > slide {
 }
 
 slide.fill {
+  background-color: #CCFF66
   background-repeat: no-repeat;
   @include background-size(cover);
 }
@@ -183,7 +184,7 @@ slide.fill img {
 /* line 58, ../scss/default.scss */
 ::selection {
   color: white;
-  background-color: #ffd14d;
+  background-color: #CCFF66;
   text-shadow: none;
 }
 
@@ -1400,7 +1401,7 @@ aside.gdbar img {
   background: -o-linear-gradient(#ffffff, #ffffff 85%, #e6e6e6);
   background: -ms-linear-gradient(#ffffff, #ffffff 85%, #e6e6e6);
   background: linear-gradient(#ffffff, #ffffff 85%, #e6e6e6);
-  background-color: white;
+  background-color: #000000;
 }
 /* line 981, ../scss/default.scss */
 .overview slides slide.backdrop {
@@ -1485,6 +1486,7 @@ aside.gdbar img {
   /* line 1068, ../scss/default.scss */
   .slide-area {
     display: none;
+
   }
 
   /* line 1072, ../scss/default.scss */
