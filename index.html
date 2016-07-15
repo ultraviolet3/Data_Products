@@ -1,135 +1,163 @@
 <!DOCTYPE html>
-<html lang="en-us">
-  <head>
-    <meta charset="UTF-8">
-    <title>Data products by ultraviolet3</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
-  </head>
-  <body>
-    <section class="page-header">
-      <h1 class="project-name">Data products</h1>
-      <h2 class="project-tagline">Data Products project</h2>
-      <a href="https://github.com/ultraviolet3/Data_Products" class="btn">View on GitHub</a>
-      <a href="https://github.com/ultraviolet3/Data_Products/zipball/master" class="btn">Download .zip</a>
-      <a href="https://github.com/ultraviolet3/Data_Products/tarball/master" class="btn">Download .tar.gz</a>
-    </section>
+<html>
+<head>
+  <title>World Clock</title>
+  <meta charset="utf-8">
+  <meta name="description" content="World Clock">
+  <meta name="author" content="Uma Venkat">
+  <meta name="generator" content="slidify" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/default.css" media="all" >
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/phone.css" 
+    media="only screen and (max-device-width: 480px)" >
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/slidify.css" >
+  <link rel="stylesheet" href="libraries/highlighters/highlight.js/css/tomorrow.css" />
+  <base target="_blank"> <!-- This amazingness opens all links in a new tab. -->  <link rel=stylesheet href="libraries/widgets/bootstrap/css/bootstrap.css"></link>
+<link rel=stylesheet href="libraries/widgets/interactive/css/aceeditor.css"></link>
+<link rel=stylesheet href="./assets/css/ribbons.css"></link>
 
-    <section class="main-content">
-      <hr>
 
-<p>title       : World Clock
-subtitle    : Data Products Shiny &amp; Slidify project
-author      : Uma Venkat
-framework   : io2012 # {io2012, html5slides, shower, dzslides, ...}
-highlighter : highlight.js # {highlight.js, prettify, highlight}
-hitheme     : tomorrow # 
-widgets     : [mathjax, interactive, nvd3] #[bootstrap, interactive] # {mathjax, quiz, bootstrap}
-ext_widgets : {rCharts: [libraries/nvd3,libraries/morris,libraries/polycharts]}
-mode        : selfcontained # {standalone, draft, selfcontained}</p>
+  <!-- Grab CDN jQuery, fall back to local if offline -->
+  <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
+  <script>window.jQuery || document.write('<script src="libraries/widgets/quiz/js/jquery.js"><\/script>')</script>
+  <script data-main="libraries/frameworks/io2012/js/slides"
+    src="libraries/frameworks/io2012/js/require-1.0.8.min.js">
+  </script>
 
-<h2>
-<a id="knit---------slidifyknit2slides" class="anchor" href="#knit---------slidifyknit2slides" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>knit        : slidify::knit2slides</h2>
+  
 
-<pre lang="echo=FALSE"><code>library(devtools)
-library(slidify)
-library(slidifyLibraries)
-library(RCurl)
-</code></pre>
+</head>
+<body style="opacity: 0">
+  <slides class="layout-widescreen">
 
-<p>--- .class #id </p>
+    <!-- LOGO SLIDE -->
+        <slide class="title-slide segue nobackground">
+  <hgroup class="auto-fadein">
+    <h1>World Clock</h1>
+    <h2>Data Products Shiny &amp; Slidify project</h2>
+    <p>Uma Venkat<br/></p>
+  </hgroup>
+  <article></article>  
+</slide>
 
-<h3>
-<a id="objective" class="anchor" href="#objective" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Objective</h3>
 
-<p>The objective of this report is to produce a user interface using shiny library. This project will have the following:</p>
+    <!-- SLIDES -->
+    <slide class="" id="slide-1" style="background-color:;">
+  <hgroup>
+    <h3>Concept</h3>
+  </hgroup>
+  <article data-timings="">
+    <p>The idea for the project is to get user(s) to select a city from a predefined list, convert the system time time the time in the city selected by the user. For instance, if the user select Chennai in Tamilnadu, India, then this application will use the sys time to determine the time in Chennai, Tamilnadu, India and display the results to the user. In addition, the application will also show the location of Chennai on the world map.</p>
 
-<ul>
-<li>Some form of input (widget: textbox, radio button, checkbox, ...)</li>
-<li>Some operation on the ui input in sever.R</li>
-<li>Some reactive output displayed as a result of server calculations</li>
-<li>Enough documentation so that a novice user could use your application.</li>
-</ul>
-
-<h3>
-<a id="approach" class="anchor" href="#approach" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Approach</h3>
-
-<p>To achieve the objectives, I will develop an application to show the time of a city.</p>
+<h3>How to use the application</h3>
 
 <ul>
-<li>Provide a list of cities for the user to select from. (Input)</li>
-<li>Determine the current time in the city, selected by the user. (reactive calculation)</li>
-<li>Present the time to the user (Output)</li>
-<li>Create documentation of the functions that will be used for this purpose.</li>
-</ul>
-
-<p>--- .class #id </p>
-
-<h3>
-<a id="concept" class="anchor" href="#concept" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Concept</h3>
-
-<p>The idea for the project is to get user(s) to select a city from a predefined list, convert the system time time the time in the city selected by the user. For instance, if the user select Chennai in Tamilnadu, India, then this application will use the sys time to determine the time in Chennai, Tamilnadu, India and display the results to the user. In addition, the application will also show the location of Chennai on the world map.</p>
-
-<h3>
-<a id="how-to-use-the-application" class="anchor" href="#how-to-use-the-application" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>How to use the application</h3>
-
-<ul>
-<li>Select a City in the "Choose a City" box to see the time in the city in the table as well as the location of the city in the map above the table results</li>
+<li>Select a City in the &quot;Choose a City&quot; box to see the time in the city in the table as well as the location of the city in the map above the table results</li>
 <li>The landing page displays all the cities and the time in the city</li>
 </ul>
 
-<p>--- .class #id </p>
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+<slide class="class" id="id" style="background-color:;">
+  <hgroup>
+    <h3>How it works</h3>
+  </hgroup>
+  <article data-timings="">
+    <p>Essentially, the application uses the underlying CSV to map the time zones to the cities. When the user selects a city, the application retrieves the corresponding time zone (IANA standards) and uses POSIXlt function to convert the system time to the time in the selected city. </p>
 
-<h3>
-<a id="environment" class="anchor" href="#environment" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Environment</h3>
+<p>In addition, the selected city is pin-pointed on the world map. For this the application gets the longitute and latitude of the city using the geocode function in R and uses this values to point the city on the map.</p>
 
-<ol>
-<li>OS: Windows 7</li>
-<li>Tool: R 3.2.4, R studio Version  0.99.902, Shiny; </li>
-<li>R packages used: shiny, maps, ggmap, dplyr, lubridate, ggplot2, slidify, devtools</li>
-<li>Publishing tool: shinyapps.io, slidify</li>
-<li>Analyst: Uma Venkat; Date of Analysis: Jul 2016</li>
-</ol>
-
-<p>--- .class #id </p>
-
-<h3>
-<a id="location-of-the-project-files" class="anchor" href="#location-of-the-project-files" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Location of the project files</h3>
-
-<ul>
-<li>Shiny Repo:  <a href="https://ultraviolet.shinyapps.io/DataProducts/">https://ultraviolet.shinyapps.io/DataProducts/</a>
-</li>
-<li>Github: <a href="https://github.com/ultraviolet3/Data_Products">https://github.com/ultraviolet3/Data_Products</a>
-</li>
-<li>Published project: <a href="https://ultraviolet.shinyapps.io/DataProducts/">https://ultraviolet.shinyapps.io/DataProducts/</a>
-</li>
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+<slide class="class" id="id" style="background-color:;">
+  <hgroup>
+    <h3>Location of the project files</h3>
+  </hgroup>
+  <article data-timings="">
+    <ul>
+<li>Shiny Repo:  <a href="https://ultraviolet.shinyapps.io/DataProducts/">https://ultraviolet.shinyapps.io/DataProducts/</a></li>
+<li>Github: <a href="https://github.com/ultraviolet3/Data_Products">https://github.com/ultraviolet3/Data_Products</a></li>
+<li>Published project: <a href="https://ultraviolet.shinyapps.io/DataProducts/">https://ultraviolet.shinyapps.io/DataProducts/</a></li>
 </ul>
 
-<h3>
-<a id="data-source" class="anchor" href="#data-source" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Data Source</h3>
+<h3>Data Source</h3>
 
 <p>Data: The data used for this project was manually compiled based on various various websites including:</p>
 
 <ul>
 <li>timezonedb.com </li>
 <li><a href="http://www.timeanddate.com/">http://www.timeanddate.com/</a></li>
-<li>
-<a href="https://en.wikipedia.org/wiki/List_of_tz_database_time_zones">https://en.wikipedia.org/wiki/List_of_tz_database_time_zones</a>. </li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_tz_database_time_zones">https://en.wikipedia.org/wiki/List_of_tz_database_time_zones</a>. </li>
 </ul>
 
 <p>Disclaimer: Since the data was manually compiled, there is a possibility of errors and the result displayed may not be accurate.</p>
 
-      <footer class="site-footer">
-        <span class="site-footer-owner"><a href="https://github.com/ultraviolet3/Data_Products">Data products</a> is maintained by <a href="https://github.com/ultraviolet3">ultraviolet3</a>.</span>
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+    <slide class="backdrop"></slide>
+  </slides>
+  <div class="pagination pagination-small" id='io2012-ptoc' style="display:none;">
+    <ul>
+      <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=1 title='Concept'>
+         1
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=2 title='How it works'>
+         2
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=3 title='Location of the project files'>
+         3
+      </a>
+    </li>
+  </ul>
+  </div>  <!--[if IE]>
+    <script
+      src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js">
+    </script>
+    <script>CFInstall.check({mode: 'overlay'});</script>
+  <![endif]-->
+</body>
+  <!-- Load Javascripts for Widgets -->
+  <script src="libraries/widgets/bootstrap/js/bootstrap.min.js"></script>
+<script src="libraries/widgets/bootstrap/js/bootbox.min.js"></script>
+<script src="libraries/widgets/interactive/js/ace/js/ace.js"></script>
+<script src="libraries/widgets/interactive/js/opencpu-0.5.js"></script>
+<script src="libraries/widgets/interactive/js/interactive.js"></script>
 
-        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
-      </footer>
-
-    </section>
-
-  
-  </body>
-</html>
+  <script>  
+  $(function (){ 
+    $("#example").popover(); 
+    $("[rel='tooltip']").tooltip(); 
+  });  
+  </script>  
+  <!-- MathJax: Fall back to local if CDN offline but local image fonts are not supported (saves >100MB) -->
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        processEscapes: true
+      }
+    });
+  </script>
+  <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/2.0-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  <!-- <script src="https://c328740.ssl.cf1.rackcdn.com/mathjax/2.0-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  </script> -->
+  <script>window.MathJax || document.write('<script type="text/x-mathjax-config">MathJax.Hub.Config({"HTML-CSS":{imageFont:null}});<\/script><script src="libraries/widgets/mathjax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"><\/script>')
+</script>
+<!-- LOAD HIGHLIGHTER JS FILES -->
+  <script src="libraries/highlighters/highlight.js/highlight.pack.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+  <!-- DONE LOADING HIGHLIGHTER JS FILES -->
+   
+  </html>

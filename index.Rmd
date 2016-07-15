@@ -3,7 +3,6 @@ title       : World Clock
 subtitle    : Data Products Shiny & Slidify project
 author      : Uma Venkat
 framework   : io2012 # {io2012, html5slides, shower, dzslides, ...}
-theme       : tomorrow
 highlighter : highlight.js # {highlight.js, prettify, highlight}
 hitheme     : tomorrow # 
 widgets     : [bootstrap, interactive] # {mathjax, quiz, bootstrap}
