@@ -21,12 +21,10 @@ The idea for the project is to get user(s) to select a city from a predefined li
 
 
 --- .class #id 
-### Environment
-1. OS: Windows 7
-2. Tool: R 3.2.4, R studio Version  0.99.902, Shiny; 
-3. R packages used: shiny, maps, ggmap, dplyr, lubridate, ggplot2, slidify, devtools
-4. Publishing tool: shinyapps.io, slidify
-5. Analyst: Uma Venkat; Date of Analysis: Jul 2016
+### How it works
+Essentially, the application uses the underlying CSV to map the time zones to the cities. When the user selects a city, the application retrieves the corresponding time zone (IANA standards) and uses POSIXlt function to convert the system time to the time in the selected city. 
+
+In addition, the selected city is pin-pointed on the world map. For this the application gets the longitute and latitude of the city using the geocode function in R and uses this values to point the city on the map.
 
 --- .class #id 
 ### Location of the project files
