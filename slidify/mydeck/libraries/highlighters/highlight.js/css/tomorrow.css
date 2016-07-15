@@ -4,6 +4,7 @@
 	/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
 	.tomorrow-comment, pre .comment, pre .title {
 		color: #8e908c;
+		background: #CCFF66
 	}
 
 .tomorrow-red, pre .variable, pre .attribute, pre .tag, pre .regexp, pre .ruby .constant, pre .xml .tag .title, pre .xml .pi, pre .xml .doctype, pre .html .doctype, pre .css .id, pre .css .class, pre .css .pseudo {
@@ -36,7 +37,7 @@
 
 pre code {
 	display: block;
-	background: white;
+	background: #CCFF66;
 	color: #4d4d4c;
 		font-family: Menlo, Monaco, Consolas, monospace;
 	line-height: 1.5;
