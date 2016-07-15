@@ -7,7 +7,7 @@ highlighter : highlight.js # {highlight.js, prettify, highlight}
 hitheme     : tomorrow # 
 widgets     : [bootstrap, interactive] # {mathjax, quiz, bootstrap}
 ext_widgets : {rCharts: [libraries/nvd3,libraries/morris,libraries/polycharts]}
-mode        : selfcontained # {standalone, draft, selfcontained}
+mode        : standalone # {standalone, draft, selfcontained}
 knit        : slidify::knit2slides
 ---
 
