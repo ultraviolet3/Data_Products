@@ -19,55 +19,33 @@
     </section>
 
     <section class="main-content">
-      <p>&lt;!DOCTYPE html&gt;
+      <hr>
 
-</p>
-  World Clock
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-   &lt;!-- This amazingness opens all links in a new tab. --&gt;  
+<p>title       : World Clock
+subtitle    : Data Products Shiny &amp; Slidify project
+author      : Uma Venkat
+framework   : io2012 # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js # {highlight.js, prettify, highlight}
+hitheme     : tomorrow # 
+widgets     : [mathjax, interactive, nvd3] #[bootstrap, interactive] # {mathjax, quiz, bootstrap}
+ext_widgets : {rCharts: [libraries/nvd3,libraries/morris,libraries/polycharts]}
+mode        : selfcontained # {standalone, draft, selfcontained}</p>
 
-<p>&lt;!-- Grab CDN jQuery, fall back to local if offline --&gt;
-  
-   
-  </p>
+<h2>
+<a id="knit---------slidifyknit2slides" class="anchor" href="#knit---------slidifyknit2slides" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>knit        : slidify::knit2slides</h2>
 
-<p>
-</p>
-  
-
-<pre><code>&lt;!-- LOGO SLIDE --&gt;
-    &lt;slide class="title-slide segue nobackground"&gt;
+<pre lang="echo=FALSE"><code>library(devtools)
+library(slidify)
+library(slidifyLibraries)
+library(RCurl)
 </code></pre>
 
-<p> 
-    <h1>
-<a id="world-clock" class="anchor" href="#world-clock" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>World Clock</h1>
-    <h2>
-<a id="data-products-shiny--slidify-project" class="anchor" href="#data-products-shiny--slidify-project" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Data Products Shiny &amp; Slidify project</h2>
-    <p>Uma Venkat<br></p>
-   
-   <br>
-</p>
+<p>--- .class #id </p>
 
-<pre><code>&lt;!-- SLIDES --&gt;
-&lt;slide class="class" id="id" style="background:;"&gt;
-</code></pre>
-
-<p> 
-    <h3>
+<h3>
 <a id="objective" class="anchor" href="#objective" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Objective</h3>
-   
-   
-    <p>The objective of this report is to produce a user interface using shiny library. This project will have the following:</p> </p>
+
+<p>The objective of this report is to produce a user interface using shiny library. This project will have the following:</p>
 
 <ul>
 <li>Some form of input (widget: textbox, radio button, checkbox, ...)</li>
@@ -88,17 +66,12 @@
 <li>Create documentation of the functions that will be used for this purpose.</li>
 </ul>
 
-<p>
-  &lt;!-- Presenter Notes --&gt;
-</p>
+<p>--- .class #id </p>
 
-<p>
-   
-    <h3>
+<h3>
 <a id="concept" class="anchor" href="#concept" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Concept</h3>
-   
-   
-    <p>The idea for the project is to get user(s) to select a city from a predefined list, convert the system time time the time in the city selected by the user. For instance, if the user select Chennai in Tamilnadu, India, then this application will use the sys time to determine the time in Chennai, Tamilnadu, India and display the results to the user. In addition, the application will also show the location of Chennai on the world map.</p> </p>
+
+<p>The idea for the project is to get user(s) to select a city from a predefined list, convert the system time time the time in the city selected by the user. For instance, if the user select Chennai in Tamilnadu, India, then this application will use the sys time to determine the time in Chennai, Tamilnadu, India and display the results to the user. In addition, the application will also show the location of Chennai on the world map.</p>
 
 <h3>
 <a id="how-to-use-the-application" class="anchor" href="#how-to-use-the-application" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>How to use the application</h3>
@@ -108,41 +81,32 @@
 <li>The landing page displays all the cities and the time in the city</li>
 </ul>
 
-<p>
-  &lt;!-- Presenter Notes --&gt;
-</p>
+<p>--- .class #id </p>
 
-<p>
-   
-    <h3>
+<h3>
 <a id="environment" class="anchor" href="#environment" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Environment</h3>
-   
-   
-    <ol>
+
+<ol>
 <li>OS: Windows 7</li>
 <li>Tool: R 3.2.4, R studio Version  0.99.902, Shiny; </li>
 <li>R packages used: shiny, maps, ggmap, dplyr, lubridate, ggplot2, slidify, devtools</li>
+<li>Publishing tool: shinyapps.io, slidify</li>
 <li>Analyst: Uma Venkat; Date of Analysis: Jul 2016</li>
-</ol> </p>
+</ol>
 
-<p>
-  &lt;!-- Presenter Notes --&gt;
-</p>
+<p>--- .class #id </p>
 
-<p>
-   
-    <h3>
+<h3>
 <a id="location-of-the-project-files" class="anchor" href="#location-of-the-project-files" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Location of the project files</h3>
-   
-   
-    <ul>
-<li>Shiny Repo:  <a href="https://ultraviolet.shinyapps.io/DataProducts/"></a><a href="https://ultraviolet.shinyapps.io/DataProducts/">https://ultraviolet.shinyapps.io/DataProducts/</a>
+
+<ul>
+<li>Shiny Repo:  <a href="https://ultraviolet.shinyapps.io/DataProducts/">https://ultraviolet.shinyapps.io/DataProducts/</a>
 </li>
-<li>Github: <a href="https://github.com/ultraviolet3/Data_Products"></a><a href="https://github.com/ultraviolet3/Data_Products">https://github.com/ultraviolet3/Data_Products</a>
+<li>Github: <a href="https://github.com/ultraviolet3/Data_Products">https://github.com/ultraviolet3/Data_Products</a>
 </li>
-<li>Published project: <a href="https://ultraviolet.shinyapps.io/DataProducts/"></a><a href="https://ultraviolet.shinyapps.io/DataProducts/">https://ultraviolet.shinyapps.io/DataProducts/</a>
+<li>Published project: <a href="https://ultraviolet.shinyapps.io/DataProducts/">https://ultraviolet.shinyapps.io/DataProducts/</a>
 </li>
-</ul> </p>
+</ul>
 
 <h3>
 <a id="data-source" class="anchor" href="#data-source" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Data Source</h3>
@@ -157,51 +121,6 @@
 </ul>
 
 <p>Disclaimer: Since the data was manually compiled, there is a possibility of errors and the result displayed may not be accurate.</p>
-
-<p>
-  &lt;!-- Presenter Notes --&gt;
-</p>
-
-<pre><code>&lt;slide class="backdrop"&gt;&lt;/slide&gt;
-</code></pre>
-
-<p></p>
-  <div id="io2012-ptoc">
-    <ul>
-      <li>
-      <a href="#" title="Objective">
-         1
-      </a>
-    </li>
-    <li>
-      <a href="#" title="Concept">
-         2
-      </a>
-    </li>
-    <li>
-      <a href="#" title="Environment">
-         3
-      </a>
-    </li>
-    <li>
-      <a href="#" title="Location of the project files">
-         4
-      </a>
-    </li>
-  </ul>
-  </div>  &lt;!--[if IE]&gt;
-    
-    
-  &lt;![endif]--&gt;
-
-  &lt;!-- Load Javascripts for Widgets --&gt;
-
-<p>&lt;!-- LOAD HIGHLIGHTER JS FILES --&gt;
-  
-  
-  &lt;!-- DONE LOADING HIGHLIGHTER JS FILES --&gt;</p>
-
-<p></p>
 
       <footer class="site-footer">
         <span class="site-footer-owner"><a href="https://github.com/ultraviolet3/Data_Products">Data products</a> is maintained by <a href="https://github.com/ultraviolet3">ultraviolet3</a>.</span>
