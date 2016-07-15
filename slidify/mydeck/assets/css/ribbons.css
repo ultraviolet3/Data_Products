@@ -44,17 +44,5 @@
   text-align: center;
   text-decoration: none;
   text-shadow: 1px -1px 8px rgba(0,0,0,0.60);
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  user-select: none;
-}
+  -webkit-user-select: non
 
-.title-slide {
-  background-color: #FF66FF;
-  color: #AA9A39;
-}
-
-.class {
-  background-color: #CCFF66;
-  color: #AA9A39;
-}
