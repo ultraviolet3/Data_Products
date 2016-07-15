@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700|Source+Code+Pro:500|Open+Sans|Oswald);
+﻿@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700|Source+Code+Pro:500|Open+Sans|Oswald);
 
 /* Styles for Table of Contents */
 #io2012-toc {
@@ -6,13 +6,14 @@
   top:0;
   left:10px;
   z-index: 999;
+  
 }
 #io2012-toc a{
   border-bottom: none;
 }
 
 #io2012-toc .nav-pills > .active > a{
-  background-color: darkslategray;
+  background-color: #990066;
   color: yellow;
 }
 #io2012-toc li {
@@ -20,7 +21,7 @@
 }
 
 #io2012-toc li.current {
-  background-color: yellow;
+   
 }
 
 .license {
@@ -73,6 +74,7 @@ iframe {
   border: none;
   margin: 0;
   padding: 0;
+
 }
 
 /* Knitr Images */
@@ -128,6 +130,7 @@ div.author {
 
 div.author::before {
   content: '—';
+  
 }
 
 q.shout:before {
@@ -290,6 +293,7 @@ div.modal-body pre{
 body {
   font-family: "Open Sans";
   color: #444;
+
 }
 
 p {
@@ -317,7 +321,7 @@ img.center {
 }
 
 body {
-  background-color: #000;
+
 }
 .quiz-option label{
   display: inline;
@@ -326,6 +330,7 @@ body {
 slide.segue h2{
  font-family: "Open Sans Condensed";
  font-weight: 700;
+
 }
 slide:not(.segue)  h2{
  font-family: "Open Sans Condensed";
@@ -352,17 +357,26 @@ pre code {
 }
 
 .title-slide {
-  background-color: #CBE7A5; /* #EDE0CF; ; #CA9F9D*/
+  background-color: #990066; /* #CCFF66; ; #CCFF66*/
   /* background-image:url(http://goo.gl/EpXln); */
+  
 }
 
 .title-slide hgroup > h1{
  font-family: 'Oswald', 'Helvetica', sanserif; 
+
 }
 
 .title-slide hgroup > h1, 
 .title-slide hgroup > h2 {
-  color: #535E43 ;  /* ; #EF5150*/
+  color: #000000 ;  /* ; #000000*/
+
 }
+.class {
+  color: #000000 ;  /* ; #000000*/
+
+}
+
+
 
 
