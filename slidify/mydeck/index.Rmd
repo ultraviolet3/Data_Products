@@ -3,30 +3,15 @@ title       : World Clock
 subtitle    : Data Products Shiny & Slidify project
 author      : Uma Venkat
 framework   : io2012 # {io2012, html5slides, shower, dzslides, ...}
+theme       : tomorrow
 highlighter : highlight.js # {highlight.js, prettify, highlight}
 hitheme     : tomorrow # 
 widgets     : [bootstrap, interactive] # {mathjax, quiz, bootstrap}
-ext_widgets : {rCharts: [libraries/nvd3,libraries/morris,libraries/polycharts]}
+ext_widgets : [mathjax]
 mode        : selfcontained # {standalone, draft, selfcontained}
 knit        : slidify::knit2slides
 ---
 
---- .class #id 
-### Objective
-The objective of this report is to produce a user interface using shiny library. This project will have the following:
-- Some form of input (widget: textbox, radio button, checkbox, ...)
-- Some operation on the ui input in sever.R
-- Some reactive output displayed as a result of server calculations
-- Enough documentation so that a novice user could use your application.
-
-### Approach
-To achieve the objectives, I will develop an application to show the time of a city.
-- Provide a list of cities for the user to select from. (Input)
-- Determine the current time in the city, selected by the user. (reactive calculation)
-- Present the time to the user (Output)
-- Create documentation of the functions that will be used for this purpose.
-
---- .class #id 
 ### Concept
 The idea for the project is to get user(s) to select a city from a predefined list, convert the system time time the time in the city selected by the user. For instance, if the user select Chennai in Tamilnadu, India, then this application will use the sys time to determine the time in Chennai, Tamilnadu, India and display the results to the user. In addition, the application will also show the location of Chennai on the world map.
 
