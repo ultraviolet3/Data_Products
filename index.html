@@ -62,16 +62,12 @@
 </slide>
 <slide class="class" id="id" style="background-color:;">
   <hgroup>
-    <h3>Environment</h3>
+    <h3>How it works</h3>
   </hgroup>
   <article data-timings="">
-    <ol>
-<li>OS: Windows 7</li>
-<li>Tool: R 3.2.4, R studio Version  0.99.902, Shiny; </li>
-<li>R packages used: shiny, maps, ggmap, dplyr, lubridate, ggplot2, slidify, devtools</li>
-<li>Publishing tool: shinyapps.io, slidify</li>
-<li>Analyst: Uma Venkat; Date of Analysis: Jul 2016</li>
-</ol>
+    <p>Essentially, the application uses the underlying CSV to map the time zones to the cities. When the user selects a city, the application retrieves the corresponding time zone (IANA standards) and uses POSIXlt function to convert the system time to the time in the selected city. </p>
+
+<p>In addition, the selected city is pin-pointed on the world map. For this the application gets the longitute and latitude of the city using the geocode function in R and uses this values to point the city on the map.</p>
 
   </article>
   <!-- Presenter Notes -->
@@ -114,7 +110,7 @@
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=2 title='Environment'>
+        data-slide=2 title='How it works'>
          2
       </a>
     </li>
